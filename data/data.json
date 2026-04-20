@@ -1,12 +1,696 @@
 {
-  "generated_at": null,
-  "source": "placeholder",
+  "generated_at": "2026-04-20T12:59:15.583918+00:00",
+  "source": "notion",
   "partner": {
-    "total_scenarios": 0,
-    "languages": []
+    "total_scenarios": 362,
+    "languages": [
+      {
+        "code": "AR",
+        "counts": {
+          "Done": 111,
+          "In progress": 2,
+          "Blocked": 6,
+          "Post-launch": 0,
+          "Repeat": 1,
+          "Not started": 242
+        }
+      },
+      {
+        "code": "BG",
+        "counts": {
+          "Done": 213,
+          "In progress": 0,
+          "Blocked": 6,
+          "Post-launch": 1,
+          "Repeat": 0,
+          "Not started": 142
+        }
+      },
+      {
+        "code": "DA",
+        "counts": {
+          "Done": 109,
+          "In progress": 2,
+          "Blocked": 5,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 246
+        }
+      },
+      {
+        "code": "DE",
+        "counts": {
+          "Done": 141,
+          "In progress": 3,
+          "Blocked": 5,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 213
+        }
+      },
+      {
+        "code": "EL",
+        "counts": {
+          "Done": 76,
+          "In progress": 2,
+          "Blocked": 6,
+          "Post-launch": 0,
+          "Repeat": 1,
+          "Not started": 277
+        }
+      },
+      {
+        "code": "EN-US",
+        "counts": {
+          "Done": 1,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 361
+        }
+      },
+      {
+        "code": "ES",
+        "counts": {
+          "Done": 268,
+          "In progress": 1,
+          "Blocked": 18,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 75
+        }
+      },
+      {
+        "code": "FI",
+        "counts": {
+          "Done": 60,
+          "In progress": 3,
+          "Blocked": 5,
+          "Post-launch": 0,
+          "Repeat": 1,
+          "Not started": 293
+        }
+      },
+      {
+        "code": "FR",
+        "counts": {
+          "Done": 341,
+          "In progress": 1,
+          "Blocked": 12,
+          "Post-launch": 0,
+          "Repeat": 2,
+          "Not started": 6
+        }
+      },
+      {
+        "code": "HR",
+        "counts": {
+          "Done": 92,
+          "In progress": 4,
+          "Blocked": 0,
+          "Post-launch": 3,
+          "Repeat": 0,
+          "Not started": 263
+        }
+      },
+      {
+        "code": "HU",
+        "counts": {
+          "Done": 41,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 10,
+          "Repeat": 0,
+          "Not started": 311
+        }
+      },
+      {
+        "code": "ID",
+        "counts": {
+          "Done": 337,
+          "In progress": 7,
+          "Blocked": 12,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 6
+        }
+      },
+      {
+        "code": "IT",
+        "counts": {
+          "Done": 309,
+          "In progress": 2,
+          "Blocked": 14,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 37
+        }
+      },
+      {
+        "code": "JA",
+        "counts": {
+          "Done": 278,
+          "In progress": 0,
+          "Blocked": 8,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 76
+        }
+      },
+      {
+        "code": "KO",
+        "counts": {
+          "Done": 0,
+          "In progress": 2,
+          "Blocked": 0,
+          "Post-launch": 4,
+          "Repeat": 0,
+          "Not started": 356
+        }
+      },
+      {
+        "code": "MS",
+        "counts": {
+          "Done": 215,
+          "In progress": 3,
+          "Blocked": 7,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 137
+        }
+      },
+      {
+        "code": "NB",
+        "counts": {
+          "Done": 60,
+          "In progress": 0,
+          "Blocked": 5,
+          "Post-launch": 0,
+          "Repeat": 1,
+          "Not started": 296
+        }
+      },
+      {
+        "code": "NL",
+        "counts": {
+          "Done": 224,
+          "In progress": 0,
+          "Blocked": 8,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 130
+        }
+      },
+      {
+        "code": "PL",
+        "counts": {
+          "Done": 124,
+          "In progress": 4,
+          "Blocked": 5,
+          "Post-launch": 0,
+          "Repeat": 1,
+          "Not started": 228
+        }
+      },
+      {
+        "code": "PT",
+        "counts": {
+          "Done": 199,
+          "In progress": 4,
+          "Blocked": 9,
+          "Post-launch": 1,
+          "Repeat": 1,
+          "Not started": 148
+        }
+      },
+      {
+        "code": "PT-BR",
+        "counts": {
+          "Done": 211,
+          "In progress": 2,
+          "Blocked": 11,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 138
+        }
+      },
+      {
+        "code": "RO",
+        "counts": {
+          "Done": 166,
+          "In progress": 1,
+          "Blocked": 4,
+          "Post-launch": 4,
+          "Repeat": 0,
+          "Not started": 187
+        }
+      },
+      {
+        "code": "RU",
+        "counts": {
+          "Done": 101,
+          "In progress": 1,
+          "Blocked": 6,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 254
+        }
+      },
+      {
+        "code": "SV",
+        "counts": {
+          "Done": 140,
+          "In progress": 0,
+          "Blocked": 6,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 216
+        }
+      },
+      {
+        "code": "TH",
+        "counts": {
+          "Done": 106,
+          "In progress": 0,
+          "Blocked": 6,
+          "Post-launch": 0,
+          "Repeat": 1,
+          "Not started": 249
+        }
+      },
+      {
+        "code": "TR",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 2,
+          "Repeat": 0,
+          "Not started": 360
+        }
+      },
+      {
+        "code": "VI",
+        "counts": {
+          "Done": 180,
+          "In progress": 12,
+          "Blocked": 7,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 163
+        }
+      },
+      {
+        "code": "es-MX",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 362
+        }
+      },
+      {
+        "code": "fr-CA",
+        "counts": {
+          "Done": 0,
+          "In progress": 1,
+          "Blocked": 0,
+          "Post-launch": 2,
+          "Repeat": 0,
+          "Not started": 359
+        }
+      },
+      {
+        "code": "zh-CN",
+        "counts": {
+          "Done": 266,
+          "In progress": 0,
+          "Blocked": 17,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 79
+        }
+      },
+      {
+        "code": "zh-HK",
+        "counts": {
+          "Done": 211,
+          "In progress": 1,
+          "Blocked": 16,
+          "Post-launch": 93,
+          "Repeat": 0,
+          "Not started": 41
+        }
+      }
+    ]
   },
   "marketplace": {
-    "total_scenarios": 0,
-    "languages": []
+    "total_scenarios": 85,
+    "languages": [
+      {
+        "code": "AR",
+        "counts": {
+          "Done": 66,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 19
+        }
+      },
+      {
+        "code": "BG",
+        "counts": {
+          "Done": 67,
+          "In progress": 0,
+          "Blocked": 1,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 17
+        }
+      },
+      {
+        "code": "DA",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "DE",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "EL",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "ES",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "FI",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "FR",
+        "counts": {
+          "Done": 67,
+          "In progress": 1,
+          "Blocked": 3,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 14
+        }
+      },
+      {
+        "code": "HR",
+        "counts": {
+          "Done": 70,
+          "In progress": 0,
+          "Blocked": 6,
+          "Post-launch": 2,
+          "Repeat": 0,
+          "Not started": 7
+        }
+      },
+      {
+        "code": "HU",
+        "counts": {
+          "Done": 6,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 1,
+          "Repeat": 0,
+          "Not started": 78
+        }
+      },
+      {
+        "code": "ID",
+        "counts": {
+          "Done": 55,
+          "In progress": 5,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 25
+        }
+      },
+      {
+        "code": "IT",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "JA",
+        "counts": {
+          "Done": 63,
+          "In progress": 2,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 20
+        }
+      },
+      {
+        "code": "KO",
+        "counts": {
+          "Done": 31,
+          "In progress": 0,
+          "Blocked": 2,
+          "Post-launch": 2,
+          "Repeat": 0,
+          "Not started": 50
+        }
+      },
+      {
+        "code": "MS",
+        "counts": {
+          "Done": 53,
+          "In progress": 1,
+          "Blocked": 10,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 21
+        }
+      },
+      {
+        "code": "NB",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "NL",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "PL",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "RO",
+        "counts": {
+          "Done": 54,
+          "In progress": 9,
+          "Blocked": 3,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 19
+        }
+      },
+      {
+        "code": "RU",
+        "counts": {
+          "Done": 64,
+          "In progress": 2,
+          "Blocked": 4,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 15
+        }
+      },
+      {
+        "code": "SV",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "TH",
+        "counts": {
+          "Done": 56,
+          "In progress": 2,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 27
+        }
+      },
+      {
+        "code": "TR",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 85
+        }
+      },
+      {
+        "code": "VI",
+        "counts": {
+          "Done": 61,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 24
+        }
+      },
+      {
+        "code": "en-GB",
+        "counts": {
+          "Done": 61,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 24
+        }
+      },
+      {
+        "code": "es-MX",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 1,
+          "Repeat": 0,
+          "Not started": 84
+        }
+      },
+      {
+        "code": "fr-CA",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 5,
+          "Post-launch": 2,
+          "Repeat": 0,
+          "Not started": 78
+        }
+      },
+      {
+        "code": "pt-BR",
+        "counts": {
+          "Done": 64,
+          "In progress": 1,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 20
+        }
+      },
+      {
+        "code": "pt-PT",
+        "counts": {
+          "Done": 17,
+          "In progress": 2,
+          "Blocked": 2,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 64
+        }
+      },
+      {
+        "code": "zh-CN",
+        "counts": {
+          "Done": 33,
+          "In progress": 0,
+          "Blocked": 14,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 38
+        }
+      },
+      {
+        "code": "zh-HK",
+        "counts": {
+          "Done": 72,
+          "In progress": 0,
+          "Blocked": 6,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 7
+        }
+      }
+    ]
   }
 }
