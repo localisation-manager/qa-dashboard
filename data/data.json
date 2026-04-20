@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T13:50:39.113236+00:00",
+  "generated_at": "2026-04-20T14:19:55.635597+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 362,
@@ -1669,12 +1669,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 268,
-          "In progress": 2,
+          "Done": 270,
+          "In progress": 5,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 74
+          "Not started": 69
         },
         "by_feature": [
           {
@@ -1823,12 +1823,12 @@
           {
             "name": "New features",
             "counts": {
-              "Done": 3,
-              "In progress": 1,
+              "Done": 5,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -1879,11 +1879,11 @@
             "name": "Reporting and analytics",
             "counts": {
               "Done": 3,
-              "In progress": 1,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 52
+              "Not started": 48
             }
           },
           {
@@ -2777,12 +2777,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 41,
+          "Done": 43,
           "In progress": 1,
           "Blocked": 0,
           "Post-launch": 10,
           "Repeat": 0,
-          "Not started": 310
+          "Not started": 308
         },
         "by_feature": [
           {
@@ -3008,12 +3008,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 2,
+              "Done": 4,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 7,
               "Repeat": 0,
-              "Not started": 42
+              "Not started": 40
             }
           },
           {
@@ -8591,128 +8591,6 @@
           }
         ]
       }
-    ],
-    "features": [
-      {
-        "name": "Account setup",
-        "scenario_count": 6,
-        "fully_done": 0
-      },
-      {
-        "name": "Add-ons",
-        "scenario_count": 17,
-        "fully_done": 0
-      },
-      {
-        "name": "Automations",
-        "scenario_count": 16,
-        "fully_done": 0
-      },
-      {
-        "name": "B2B pages",
-        "scenario_count": 9,
-        "fully_done": 0
-      },
-      {
-        "name": "Calendar",
-        "scenario_count": 19,
-        "fully_done": 0
-      },
-      {
-        "name": "Catalog",
-        "scenario_count": 13,
-        "fully_done": 0
-      },
-      {
-        "name": "Client Loyalty",
-        "scenario_count": 29,
-        "fully_done": 0
-      },
-      {
-        "name": "Clients",
-        "scenario_count": 15,
-        "fully_done": 0
-      },
-      {
-        "name": "Deal Manager app",
-        "scenario_count": 5,
-        "fully_done": 0
-      },
-      {
-        "name": "Help and support",
-        "scenario_count": 3,
-        "fully_done": 0
-      },
-      {
-        "name": "L10N guide",
-        "scenario_count": 1,
-        "fully_done": 0
-      },
-      {
-        "name": "Marketing",
-        "scenario_count": 38,
-        "fully_done": 0
-      },
-      {
-        "name": "Mobile",
-        "scenario_count": 1,
-        "fully_done": 0
-      },
-      {
-        "name": "New features",
-        "scenario_count": 5,
-        "fully_done": 0
-      },
-      {
-        "name": "Online booking",
-        "scenario_count": 11,
-        "fully_done": 0
-      },
-      {
-        "name": "Payments",
-        "scenario_count": 9,
-        "fully_done": 0
-      },
-      {
-        "name": "Personal account",
-        "scenario_count": 7,
-        "fully_done": 0
-      },
-      {
-        "name": "Products & Inventory",
-        "scenario_count": 12,
-        "fully_done": 0
-      },
-      {
-        "name": "Reporting and analytics",
-        "scenario_count": 56,
-        "fully_done": 0
-      },
-      {
-        "name": "Sales",
-        "scenario_count": 14,
-        "fully_done": 0
-      },
-      {
-        "name": "Settings",
-        "scenario_count": 52,
-        "fully_done": 0
-      },
-      {
-        "name": "Team",
-        "scenario_count": 15,
-        "fully_done": 0
-      },
-      {
-        "name": "Wallet",
-        "scenario_count": 8,
-        "fully_done": 0
-      },
-      {
-        "name": "WhatsApp notifications",
-        "scenario_count": 1,
-        "fully_done": 0
-      }
     ]
   },
   "marketplace": {
@@ -11608,8 +11486,8 @@
         "code": "KO",
         "counts": {
           "Done": 32,
-          "In progress": 0,
-          "Blocked": 4,
+          "In progress": 1,
+          "Blocked": 3,
           "Post-launch": 2,
           "Repeat": 0,
           "Not started": 47
@@ -11630,8 +11508,8 @@
             "name": "Booking Flow",
             "counts": {
               "Done": 12,
-              "In progress": 0,
-              "Blocked": 4,
+              "In progress": 1,
+              "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -15599,103 +15477,6 @@
             }
           }
         ]
-      }
-    ],
-    "features": [
-      {
-        "name": "Activity",
-        "scenario_count": 20,
-        "fully_done": 0
-      },
-      {
-        "name": "Booking Flow",
-        "scenario_count": 16,
-        "fully_done": 0
-      },
-      {
-        "name": "Careers",
-        "scenario_count": 2,
-        "fully_done": 0
-      },
-      {
-        "name": "Don't do",
-        "scenario_count": 4,
-        "fully_done": 0
-      },
-      {
-        "name": "Favourites",
-        "scenario_count": 1,
-        "fully_done": 0
-      },
-      {
-        "name": "Forms",
-        "scenario_count": 1,
-        "fully_done": 0
-      },
-      {
-        "name": "Home",
-        "scenario_count": 3,
-        "fully_done": 0
-      },
-      {
-        "name": "Native app Android",
-        "scenario_count": 2,
-        "fully_done": 0
-      },
-      {
-        "name": "Native app iOS",
-        "scenario_count": 2,
-        "fully_done": 0
-      },
-      {
-        "name": "Profile",
-        "scenario_count": 4,
-        "fully_done": 0
-      },
-      {
-        "name": "Rate the App",
-        "scenario_count": 1,
-        "fully_done": 0
-      },
-      {
-        "name": "SEO focused LPs",
-        "scenario_count": 1,
-        "fully_done": 0
-      },
-      {
-        "name": "SMS - GSM7 characters",
-        "scenario_count": 1,
-        "fully_done": 0
-      },
-      {
-        "name": "Search",
-        "scenario_count": 6,
-        "fully_done": 0
-      },
-      {
-        "name": "Settings",
-        "scenario_count": 3,
-        "fully_done": 0
-      },
-      {
-        "name": "Sign in / Sign up",
-        "scenario_count": 4,
-        "fully_done": 0
-      },
-      {
-        "name": "Tips and reviews",
-        "scenario_count": 3,
-        "fully_done": 0
-      },
-      {
-        "name": "Venue page",
-        "scenario_count": 5,
-        "fully_done": 0
-      },
-      {
-        "name": "Wallet",
-        "scenario_count": 6,
-        "fully_done": 0
       }
     ]
   }
