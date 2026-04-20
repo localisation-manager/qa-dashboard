@@ -31,8 +31,8 @@ NOTION_API = "https://api.notion.com/v1"
 NOTION_VERSION = "2022-06-28"
 
 # --- Config: the two databases we sync ---------------------------------------
-PARTNER_DB_ID = "4a2bfc1f-bbc8-4c20-831b-aadea0534cb6"
-MARKETPLACE_DB_ID = "f1f72c71-4450-40b6-8492-e300d7caf69d"
+PARTNER_DB_ID = "a4ba8c62-6fbe-4311-949f-4f89ce4a8cd6"
+MARKETPLACE_DB_ID = "031f5fda-b918-41ec-8ba2-9d31e185f22e"
 
 # Language columns (these are `status` properties in Notion)
 PARTNER_LANGS = [
