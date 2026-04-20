@@ -5,27 +5,129 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>L10N QA Progress Dashboard</title>
 <style>
+  /* ============================================================
+     THEME TOKENS
+     ============================================================ */
+  :root {
+    --bg:              #f0f2f5;
+    --surface:         #ffffff;
+    --surface-header:  #1a1a2e;
+    --surface-tabs:    #ffffff;
+    --surface-track:   #f1f5f9;       /* leader bar + modal-feat-bar background */
+    --surface-chip:    #e0e7ff;       /* tab chip bg */
+    --surface-btn:     #f1f5f9;       /* modal-close bg */
+    --hover-row:       #fafbfc;
+    --hover-btn:       #e2e8f0;
+
+    --text:            #1a1a2e;
+    --text-on-header:  #ffffff;
+    --text-muted:      #475569;       /* legend labels */
+    --text-subtle:     #64748b;       /* subtitles, counts */
+    --text-faint:      #94a3b8;       /* modal counts, loading */
+    --text-rank:       #9ca3af;       /* leader rank */
+
+    --border:          #e8e8f0;
+    --border-row:      #f1f5f9;
+
+    --accent:          #4f46e5;
+    --accent-text:     #4f46e5;       /* chip text */
+    --accent-hover-b:  #c7d2fe;       /* hover border on leader rows */
+
+    --pct-done:        #15803d;       /* Done % text */
+
+    --modal-overlay:   rgba(26, 26, 46, 0.55);
+    --modal-shadow:    0 12px 48px rgba(0,0,0,0.3);
+    --card-shadow:     0 1px 3px rgba(0,0,0,0.05);
+
+    --banner-warn-bg:  #fef3c7;
+    --banner-warn-tx:  #78350f;
+    --banner-err-bg:   #fee2e2;
+    --banner-err-tx:   #991b1b;
+
+    --toggle-bg:       rgba(255,255,255,0.10);
+    --toggle-bg-h:     rgba(255,255,255,0.18);
+  }
+
+  [data-theme="dark"] {
+    --bg:              #0b1220;
+    --surface:         #1e293b;
+    --surface-header:  #0f172a;
+    --surface-tabs:    #0f172a;
+    --surface-track:   #0f172a;
+    --surface-chip:    #312e81;
+    --surface-btn:     #334155;
+    --hover-row:       #273449;
+    --hover-btn:       #475569;
+
+    --text:            #e2e8f0;
+    --text-on-header:  #f1f5f9;
+    --text-muted:      #cbd5e1;
+    --text-subtle:     #94a3b8;
+    --text-faint:      #64748b;
+    --text-rank:       #64748b;
+
+    --border:          #334155;
+    --border-row:      #334155;
+
+    --accent:          #818cf8;
+    --accent-text:     #c7d2fe;
+    --accent-hover-b:  #4f46e5;
+
+    --pct-done:        #4ade80;
+
+    --modal-overlay:   rgba(2, 6, 23, 0.75);
+    --modal-shadow:    0 12px 48px rgba(0,0,0,0.6);
+    --card-shadow:     0 1px 3px rgba(0,0,0,0.4);
+
+    --banner-warn-bg:  #1c1917;
+    --banner-warn-tx:  #fde68a;
+    --banner-err-bg:   #1c1010;
+    --banner-err-tx:   #fca5a5;
+
+    --toggle-bg:       rgba(255,255,255,0.06);
+    --toggle-bg-h:     rgba(255,255,255,0.12);
+  }
+
   * { box-sizing: border-box; margin: 0; padding: 0; }
-  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; background: #f0f2f5; color: #1a1a2e; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    transition: background 0.2s ease, color 0.2s ease;
+  }
 
   .header {
-    background: #1a1a2e;
-    color: white;
+    background: var(--surface-header);
+    color: var(--text-on-header);
     padding: 18px 32px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    border-bottom: 1px solid var(--border);
   }
   .header h1 { font-size: 20px; font-weight: 700; letter-spacing: 0.5px; }
-  .header-sub { font-size: 12px; color: #a0a0c0; margin-top: 2px; }
-  .header-right { display: flex; align-items: center; gap: 12px; font-size: 12px; color: #a0a0c0; }
+  .header-sub { font-size: 12px; color: var(--text-subtle); margin-top: 2px; }
+  .header-right { display: flex; align-items: center; gap: 12px; font-size: 12px; color: var(--text-subtle); }
   .header-right .dot { width: 8px; height: 8px; border-radius: 50%; background: #22c55e; display: inline-block; margin-right: 4px; }
   .header-right .dot.stale { background: #f59e0b; }
   .header-right .dot.offline { background: #ef4444; }
 
+  .theme-toggle {
+    background: var(--toggle-bg);
+    color: var(--text-on-header);
+    border: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    transition: background 0.2s;
+  }
+  .theme-toggle:hover { background: var(--toggle-bg-h); }
+
   .tabs {
-    background: white;
-    border-bottom: 2px solid #e8e8f0;
+    background: var(--surface-tabs);
+    border-bottom: 1px solid var(--border);
     padding: 0 32px;
     display: flex;
     gap: 0;
@@ -35,22 +137,22 @@
     cursor: pointer;
     font-size: 14px;
     font-weight: 500;
-    color: #888;
+    color: var(--text-subtle);
     border-bottom: 3px solid transparent;
     transition: all 0.2s;
-    margin-bottom: -2px;
+    margin-bottom: -1px;
     background: none;
     border-left: none;
     border-right: none;
     border-top: none;
     font-family: inherit;
   }
-  .tab:hover { color: #1a1a2e; }
-  .tab.active { color: #1a1a2e; border-bottom-color: #4f46e5; font-weight: 700; }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--text); border-bottom-color: var(--accent); font-weight: 700; }
   .tab .chip {
     display: inline-block;
-    background: #e0e7ff;
-    color: #4f46e5;
+    background: var(--surface-chip);
+    color: var(--accent-text);
     font-size: 10px;
     padding: 1px 6px;
     border-radius: 3px;
@@ -58,7 +160,7 @@
     font-weight: 700;
     letter-spacing: 0.3px;
   }
-  .tab.active .chip { background: #4f46e5; color: white; }
+  .tab.active .chip { background: var(--accent); color: var(--surface-tabs); }
 
   .content { padding: 24px 32px 40px; }
   .panel { display: none; }
@@ -72,12 +174,13 @@
     flex-wrap: wrap;
     gap: 12px;
   }
-  .panel-title { font-size: 18px; font-weight: 700; }
-  .panel-summary { font-size: 13px; color: #64748b; }
+  .panel-title { font-size: 18px; font-weight: 700; color: var(--text); }
+  .panel-summary { font-size: 13px; color: var(--text-subtle); }
 
   /* Legend */
   .legend { display: flex; gap: 18px; margin-bottom: 16px; font-size: 12px; flex-wrap: wrap; align-items: center; }
-  .legend-item { display: flex; align-items: center; gap: 6px; color: #475569; }
+  .legend-item { display: flex; align-items: center; gap: 6px; color: var(--text-muted); }
+  .legend-item.legend-end { color: var(--text-faint); margin-left: auto; }
   .legend-dot { width: 12px; height: 12px; border-radius: 3px; }
   .dot-done { background: #22c55e; }
   .dot-inprogress { background: #3b82f6; }
@@ -87,20 +190,20 @@
   .dot-notstarted { background: #cbd5e1; }
 
   .card {
-    background: white;
+    background: var(--surface);
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-    border: 1px solid #e8e8f0;
+    box-shadow: var(--card-shadow);
+    border: 1px solid var(--border);
   }
 
   /* Leaderboard */
   .leaderboard { display: grid; grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); gap: 8px; }
   .leader-row {
-    background: white;
+    background: var(--surface);
     padding: 8px 12px 10px;
     border-radius: 8px;
-    border: 1px solid #e8e8f0;
+    border: 1px solid var(--border);
   }
   .leader-top {
     display: flex;
@@ -108,13 +211,13 @@
     justify-content: space-between;
     margin-bottom: 6px;
   }
-  .leader-lang { font-weight: 700; font-family: 'SF Mono', Menlo, Consolas, monospace; font-size: 14px; }
-  .leader-rank { color: #9ca3af; font-size: 11px; margin-right: 8px; font-weight: 500; }
-  .leader-pct { font-weight: 700; color: #15803d; font-size: 15px; }
-  .leader-count { color: #64748b; font-size: 12px; margin-left: 8px; font-family: 'SF Mono', Menlo, Consolas, monospace; }
-  .leader-bar { height: 6px; background: #f1f5f9; border-radius: 3px; overflow: hidden; display: flex; }
+  .leader-lang { font-weight: 700; font-family: 'SF Mono', Menlo, Consolas, monospace; font-size: 14px; color: var(--text); }
+  .leader-rank { color: var(--text-rank); font-size: 11px; margin-right: 8px; font-weight: 500; }
+  .leader-pct { font-weight: 700; color: var(--pct-done); font-size: 15px; }
+  .leader-count { color: var(--text-subtle); font-size: 12px; margin-left: 8px; font-family: 'SF Mono', Menlo, Consolas, monospace; }
+  .leader-bar { height: 6px; background: var(--surface-track); border-radius: 3px; overflow: hidden; display: flex; }
   /* Segment colors are unscoped so they apply in both the leaderboard bars and
-     the per-feature bars inside the modal. */
+     the per-feature bars inside the modal. Semantic — same in both themes. */
   .done-seg       { background: #22c55e; height: 100%; }
   .inprog-seg     { background: #3b82f6; height: 100%; }
   .blocked-seg    { background: #ef4444; height: 100%; }
@@ -123,14 +226,14 @@
 
   /* Clickable language cards */
   .leader-row { cursor: pointer; transition: background 0.15s, border-color 0.15s; }
-  .leader-row:hover { background: #fafbfc; border-color: #c7d2fe; }
-  .leader-row:focus-visible { outline: 2px solid #4f46e5; outline-offset: 2px; }
+  .leader-row:hover { background: var(--hover-row); border-color: var(--accent-hover-b); }
+  .leader-row:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
   /* Modal */
   .modal-overlay {
     position: fixed;
     inset: 0;
-    background: rgba(26, 26, 46, 0.55);
+    background: var(--modal-overlay);
     display: none;
     align-items: center;
     justify-content: center;
@@ -139,19 +242,20 @@
   }
   .modal-overlay.open { display: flex; }
   .modal-card {
-    background: white;
+    background: var(--surface);
+    border: 1px solid var(--border);
     border-radius: 12px;
     max-width: 620px;
     width: 100%;
     max-height: 85vh;
     display: flex;
     flex-direction: column;
-    box-shadow: 0 12px 48px rgba(0,0,0,0.3);
+    box-shadow: var(--modal-shadow);
     overflow: hidden;
   }
   .modal-header {
     padding: 18px 22px 16px;
-    border-bottom: 1px solid #e8e8f0;
+    border-bottom: 1px solid var(--border);
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -162,17 +266,18 @@
     font-weight: 700;
     font-family: 'SF Mono', Menlo, Consolas, monospace;
     line-height: 1.1;
+    color: var(--text);
   }
   .modal-subtitle {
     font-size: 12px;
-    color: #64748b;
+    color: var(--text-subtle);
     margin-top: 4px;
   }
   .modal-close {
-    background: #f1f5f9;
+    background: var(--surface-btn);
     border: none;
     font-size: 15px;
-    color: #475569;
+    color: var(--text-muted);
     cursor: pointer;
     width: 28px;
     height: 28px;
@@ -182,7 +287,7 @@
     justify-content: center;
     flex-shrink: 0;
   }
-  .modal-close:hover { background: #e2e8f0; color: #1a1a2e; }
+  .modal-close:hover { background: var(--hover-btn); color: var(--text); }
   .modal-body {
     padding: 8px 22px 18px;
     overflow-y: auto;
@@ -193,13 +298,13 @@
     gap: 12px;
     padding: 9px 0;
     font-size: 13px;
-    border-top: 1px solid #f1f5f9;
+    border-top: 1px solid var(--border-row);
   }
   .modal-row:first-child { border-top: none; }
   .modal-feat-name {
     flex: 1;
     font-weight: 500;
-    color: #1a1a2e;
+    color: var(--text);
     min-width: 0;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -208,7 +313,7 @@
   .modal-feat-bar {
     width: 120px;
     height: 6px;
-    background: #f1f5f9;
+    background: var(--surface-track);
     border-radius: 3px;
     overflow: hidden;
     display: flex;
@@ -217,14 +322,14 @@
   .modal-feat-pct {
     font-family: 'SF Mono', Menlo, Consolas, monospace;
     font-weight: 700;
-    color: #15803d;
+    color: var(--pct-done);
     width: 42px;
     text-align: right;
     font-size: 13px;
     flex-shrink: 0;
   }
   .modal-feat-count {
-    color: #94a3b8;
+    color: var(--text-faint);
     font-size: 11px;
     font-family: 'SF Mono', Menlo, Consolas, monospace;
     width: 50px;
@@ -233,14 +338,14 @@
   }
   .modal-footer {
     padding: 12px 22px;
-    border-top: 1px solid #e8e8f0;
+    border-top: 1px solid var(--border);
     font-size: 11px;
-    color: #94a3b8;
+    color: var(--text-faint);
     display: flex;
     gap: 14px;
     flex-wrap: wrap;
   }
-  .modal-empty { padding: 30px 0; text-align: center; color: #94a3b8; font-size: 13px; }
+  .modal-empty { padding: 30px 0; text-align: center; color: var(--text-faint); font-size: 13px; }
 
   .banner {
     padding: 10px 14px;
@@ -249,10 +354,11 @@
     border-radius: 6px;
     border-left: 4px solid;
   }
-  .banner-warn { background: #fef3c7; border-color: #f59e0b; color: #78350f; }
-  .banner-error { background: #fee2e2; border-color: #ef4444; color: #991b1b; }
+  .banner-warn  { background: var(--banner-warn-bg); border-color: #f59e0b; color: var(--banner-warn-tx); }
+  .banner-error { background: var(--banner-err-bg);  border-color: #ef4444; color: var(--banner-err-tx); }
 
-  .loading { padding: 40px; text-align: center; color: #94a3b8; font-size: 14px; }
+  .loading { padding: 40px; text-align: center; color: var(--text-faint); font-size: 14px; }
+  .loading .loading-title { color: var(--text-muted); font-size: 15px; margin-bottom: 6px; }
 </style>
 </head>
 <body>
@@ -264,6 +370,7 @@
   </div>
   <div class="header-right">
     <div id="sync-status"><span class="dot"></span><span id="sync-text">Loading…</span></div>
+    <button class="theme-toggle" id="theme-toggle" aria-label="Toggle light / dark" title="Toggle light / dark">🌙</button>
   </div>
 </div>
 
@@ -288,7 +395,7 @@
       <div class="legend-item"><span class="legend-dot dot-postlaunch"></span>Post-launch</div>
       <div class="legend-item"><span class="legend-dot dot-repeat"></span>Repeat</div>
       <div class="legend-item"><span class="legend-dot dot-notstarted"></span>Not started</div>
-      <div class="legend-item" style="color:#888; margin-left:auto;">sorted by % Done</div>
+      <div class="legend-item legend-end">sorted by % Done</div>
     </div>
     <div class="card"><div class="leaderboard" id="lb-partner"><div class="loading">Loading data…</div></div></div>
   </section>
@@ -305,7 +412,7 @@
       <div class="legend-item"><span class="legend-dot dot-postlaunch"></span>Post-launch</div>
       <div class="legend-item"><span class="legend-dot dot-repeat"></span>Repeat</div>
       <div class="legend-item"><span class="legend-dot dot-notstarted"></span>Not started</div>
-      <div class="legend-item" style="color:#888; margin-left:auto;">sorted by % Done</div>
+      <div class="legend-item legend-end">sorted by % Done</div>
     </div>
     <div class="card"><div class="leaderboard" id="lb-marketplace"><div class="loading">Loading data…</div></div></div>
   </section>
@@ -338,6 +445,37 @@
 const STATUSES = ['Done','In progress','Blocked','Post-launch','Repeat','Not started'];
 const PLATFORM_LABEL = { partner: 'Fresha Partner', marketplace: 'Marketplace' };
 let CURRENT_DATA = null;  // populated by render()
+
+/* ---------- Theme (light / dark) ---------- */
+const THEME_KEY = 'l10n-dashboard-theme';
+function currentTheme() {
+  return document.documentElement.getAttribute('data-theme') || 'light';
+}
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  const btn = document.getElementById('theme-toggle');
+  if (btn) btn.textContent = theme === 'dark' ? '☀️' : '🌙';
+  try { localStorage.setItem(THEME_KEY, theme); } catch (e) { /* sandboxed frames */ }
+}
+function toggleTheme() {
+  applyTheme(currentTheme() === 'dark' ? 'light' : 'dark');
+}
+// Restore last choice on load, falling back to OS preference, then light.
+(function initTheme() {
+  let saved = null;
+  try { saved = localStorage.getItem(THEME_KEY); } catch (e) {}
+  if (saved === 'dark' || saved === 'light') {
+    applyTheme(saved);
+  } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    applyTheme('dark');
+  } else {
+    applyTheme('light');
+  }
+})();
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('theme-toggle');
+  if (btn) btn.addEventListener('click', toggleTheme);
+});
 
 /* ---------- Tab switching ---------- */
 document.querySelectorAll('.tab').forEach(btn => {
@@ -544,7 +682,7 @@ function showBanner(html, kind) {
 function renderEmpty(containerId, summaryId, chipId) {
   document.getElementById(containerId).innerHTML =
     `<div class="loading" style="padding:32px;">
-       <div style="font-size:15px; color:#475569; margin-bottom:6px;"><strong>Awaiting first sync from Notion.</strong></div>
+       <div class="loading-title"><strong>Awaiting first sync from Notion.</strong></div>
        <div>This dashboard will populate automatically once the GitHub Actions workflow runs for the first time.<br>
        See the project README for the one-time setup steps (Notion integration + repo secret + enable Pages).</div>
      </div>`;
