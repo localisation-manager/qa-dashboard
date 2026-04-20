@@ -113,77 +113,13 @@
   .leader-pct { font-weight: 700; color: #15803d; font-size: 15px; }
   .leader-count { color: #64748b; font-size: 12px; margin-left: 8px; font-family: 'SF Mono', Menlo, Consolas, monospace; }
   .leader-bar { height: 6px; background: #f1f5f9; border-radius: 3px; overflow: hidden; display: flex; }
-  .leader-bar .done-seg { background: #22c55e; height: 100%; }
-  .leader-bar .inprog-seg { background: #3b82f6; height: 100%; }
-  .leader-bar .blocked-seg { background: #ef4444; height: 100%; }
-  .leader-bar .postlaunch-seg { background: #a855f7; height: 100%; }
-  .leader-bar .repeat-seg { background: #a16207; height: 100%; }
-
-  /* Feature/Area summary (Top 5 / Bottom 5) */
-  .feature-summary {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 14px;
-    margin-bottom: 20px;
-  }
-  @media (max-width: 720px) {
-    .feature-summary { grid-template-columns: 1fr; }
-  }
-  .feature-box {
-    background: white;
-    border: 1px solid #e8e8f0;
-    border-radius: 10px;
-    padding: 14px 16px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
-  }
-  .feature-box h3 {
-    font-size: 11px;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.6px;
-    margin-bottom: 10px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-  }
-  .feature-box.top h3 { color: #15803d; }
-  .feature-box.bottom h3 { color: #b91c1c; }
-  .feature-row {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 5px 0;
-    font-size: 13px;
-    border-top: 1px solid #f1f5f9;
-  }
-  .feature-row:first-of-type { border-top: none; }
-  .feature-rank { width: 22px; color: #9ca3af; font-size: 11px; font-weight: 500; }
-  .feature-name { flex: 1; font-weight: 500; color: #1a1a2e; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .feature-bar {
-    width: 60px;
-    height: 5px;
-    background: #f1f5f9;
-    border-radius: 2px;
-    overflow: hidden;
-    flex-shrink: 0;
-  }
-  .feature-bar-fill { height: 100%; }
-  .feature-bar-fill.top { background: #22c55e; }
-  .feature-bar-fill.bottom { background: #ef4444; }
-  .feature-count {
-    font-size: 12px;
-    font-family: 'SF Mono', Menlo, Consolas, monospace;
-    color: #64748b;
-    width: 56px;
-    text-align: right;
-    flex-shrink: 0;
-  }
-  .feature-empty {
-    padding: 14px 4px;
-    color: #94a3b8;
-    font-size: 12px;
-    text-align: center;
-  }
+  /* Segment colors are unscoped so they apply in both the leaderboard bars and
+     the per-feature bars inside the modal. */
+  .done-seg       { background: #22c55e; height: 100%; }
+  .inprog-seg     { background: #3b82f6; height: 100%; }
+  .blocked-seg    { background: #ef4444; height: 100%; }
+  .postlaunch-seg { background: #a855f7; height: 100%; }
+  .repeat-seg     { background: #a16207; height: 100%; }
 
   /* Clickable language cards */
   .leader-row { cursor: pointer; transition: background 0.15s, border-color 0.15s; }
@@ -345,7 +281,6 @@
       <div class="panel-title">Fresha Partner</div>
       <div class="panel-summary" id="partner-summary"></div>
     </div>
-    <div class="feature-summary" id="features-partner"></div>
     <div class="legend">
       <div class="legend-item"><span class="legend-dot dot-done"></span>Done</div>
       <div class="legend-item"><span class="legend-dot dot-inprogress"></span>In progress</div>
@@ -363,7 +298,6 @@
       <div class="panel-title">Marketplace</div>
       <div class="panel-summary" id="marketplace-summary"></div>
     </div>
-    <div class="feature-summary" id="features-marketplace"></div>
     <div class="legend">
       <div class="legend-item"><span class="legend-dot dot-done"></span>Done</div>
       <div class="legend-item"><span class="legend-dot dot-inprogress"></span>In progress</div>
@@ -437,48 +371,6 @@ function platformOverall(entries) {
   entries.forEach(e => STATUSES.forEach(s => totals[s] += (e.counts[s] || 0)));
   const grand = Object.values(totals).reduce((a,b)=>a+b,0);
   return { totals, grand, donePct: grand ? totals['Done']/grand : 0 };
-}
-
-/* ---------- Feature summary (Top 5 / Bottom 5 fully-done) ---------- */
-function renderFeatureSummary(containerId, features) {
-  const container = document.getElementById(containerId);
-  if (!container) return;
-  const valid = (features || []).filter(f => f && f.scenario_count > 0);
-  if (valid.length === 0) {
-    container.innerHTML = '';
-    return;
-  }
-
-  // Sort by fully_done (descending for top, ascending for bottom).
-  // Tie-break: for top, prefer fewer total scenarios (higher hit-rate);
-  //            for bottom, prefer more total scenarios (more work outstanding).
-  const top5 = [...valid].sort((a, b) =>
-    (b.fully_done - a.fully_done) || (a.scenario_count - b.scenario_count)
-  ).slice(0, 5);
-  const bottom5 = [...valid].sort((a, b) =>
-    (a.fully_done - b.fully_done) || (b.scenario_count - a.scenario_count)
-  ).slice(0, 5);
-
-  function row(f, i, kind) {
-    const pct = f.scenario_count ? (f.fully_done / f.scenario_count) : 0;
-    return `<div class="feature-row">
-      <span class="feature-rank">#${i+1}</span>
-      <span class="feature-name" title="${f.name}">${f.name}</span>
-      <div class="feature-bar"><div class="feature-bar-fill ${kind}" style="width:${pct*100}%;"></div></div>
-      <span class="feature-count">${f.fully_done}/${f.scenario_count}</span>
-    </div>`;
-  }
-
-  container.innerHTML = `
-    <div class="feature-box top">
-      <h3><span>🟢</span> Top 5 most done</h3>
-      ${top5.map((f, i) => row(f, i, 'top')).join('')}
-    </div>
-    <div class="feature-box bottom">
-      <h3><span>🔴</span> Top 5 least done</h3>
-      ${bottom5.map((f, i) => row(f, i, 'bottom')).join('')}
-    </div>
-  `;
 }
 
 /* ---------- Leaderboard render ---------- */
@@ -626,18 +518,6 @@ const SAMPLE_DATA = {
       {"code":"DE","counts":{"Done":72,"In progress":6,"Blocked":2,"Post-launch":1,"Repeat":2,"Not started":2}},
       {"code":"FR","counts":{"Done":58,"In progress":12,"Blocked":5,"Post-launch":2,"Repeat":1,"Not started":7}},
       {"code":"IT","counts":{"Done":45,"In progress":14,"Blocked":3,"Post-launch":1,"Repeat":2,"Not started":20}}
-    ],
-    "features": [
-      {"name":"Calendar","scenario_count":8,"fully_done":7},
-      {"name":"Clients","scenario_count":6,"fully_done":5},
-      {"name":"Settings","scenario_count":12,"fully_done":8},
-      {"name":"Catalog","scenario_count":10,"fully_done":6},
-      {"name":"Payments","scenario_count":7,"fully_done":4},
-      {"name":"Deal Manager app","scenario_count":2,"fully_done":0},
-      {"name":"Automations","scenario_count":4,"fully_done":0},
-      {"name":"Add-ons","scenario_count":3,"fully_done":0},
-      {"name":"Personal account","scenario_count":5,"fully_done":1},
-      {"name":"Help and support","scenario_count":4,"fully_done":1}
     ]
   },
   "marketplace": {
@@ -646,18 +526,6 @@ const SAMPLE_DATA = {
       {"code":"EN-GB","counts":{"Done":38,"In progress":3,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":1}},
       {"code":"ES","counts":{"Done":30,"In progress":5,"Blocked":2,"Post-launch":0,"Repeat":0,"Not started":5}},
       {"code":"FR","counts":{"Done":28,"In progress":6,"Blocked":3,"Post-launch":1,"Repeat":0,"Not started":4}}
-    ],
-    "features": [
-      {"name":"Home","scenario_count":3,"fully_done":3},
-      {"name":"Search","scenario_count":4,"fully_done":3},
-      {"name":"Booking Flow","scenario_count":6,"fully_done":4},
-      {"name":"Profile","scenario_count":5,"fully_done":3},
-      {"name":"Venue page","scenario_count":4,"fully_done":2},
-      {"name":"Native app iOS","scenario_count":3,"fully_done":0},
-      {"name":"Native app Android","scenario_count":3,"fully_done":0},
-      {"name":"Forms","scenario_count":4,"fully_done":1},
-      {"name":"Wallet","scenario_count":3,"fully_done":0},
-      {"name":"Careers","scenario_count":2,"fully_done":0}
     ]
   }
 };
@@ -688,17 +556,13 @@ function render(data) {
   CURRENT_DATA = data;
   if (data.partner && Array.isArray(data.partner.languages) && data.partner.languages.length > 0) {
     renderLeaderboard('lb-partner', data.partner, 'partner-summary', 'partner-chip', 'partner');
-    renderFeatureSummary('features-partner', data.partner.features);
   } else {
     renderEmpty('lb-partner', 'partner-summary', 'partner-chip');
-    renderFeatureSummary('features-partner', []);
   }
   if (data.marketplace && Array.isArray(data.marketplace.languages) && data.marketplace.languages.length > 0) {
     renderLeaderboard('lb-marketplace', data.marketplace, 'marketplace-summary', 'marketplace-chip', 'marketplace');
-    renderFeatureSummary('features-marketplace', data.marketplace.features);
   } else {
     renderEmpty('lb-marketplace', 'marketplace-summary', 'marketplace-chip');
-    renderFeatureSummary('features-marketplace', []);
   }
 }
 async function loadData() {
