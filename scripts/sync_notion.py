@@ -167,31 +167,6 @@ def extract_feature(page: dict[str, Any]) -> str | None:
     return sel.get("name") if sel else None
 
 
-def aggregate_features(pages: list[dict[str, Any]], lang_cols: list[str]) -> list[dict[str, Any]]:
-    """For each Feature/Area, count scenarios and how many are 'fully done'
-    (every language column marked Done).
-
-    Scenarios without a Feature/Area are skipped.
-    """
-    total_langs = len(lang_cols)
-    features: dict[str, dict[str, int]] = {}
-    for page in pages:
-        name = extract_feature(page)
-        if not name:
-            continue
-        done_langs = sum(
-            1 for col in lang_cols if normalize_status(extract_status(page, col)) == "Done"
-        )
-        fully_done = 1 if done_langs == total_langs and total_langs > 0 else 0
-        bucket = features.setdefault(name, {"scenario_count": 0, "fully_done": 0})
-        bucket["scenario_count"] += 1
-        bucket["fully_done"] += fully_done
-    return [
-        {"name": name, "scenario_count": b["scenario_count"], "fully_done": b["fully_done"]}
-        for name, b in sorted(features.items())
-    ]
-
-
 # --- Main --------------------------------------------------------------------
 
 def main() -> int:
@@ -214,12 +189,10 @@ def main() -> int:
         "partner": {
             "total_scenarios": len(partner_pages),
             "languages": aggregate(partner_pages, PARTNER_LANGS),
-            "features": aggregate_features(partner_pages, PARTNER_LANGS),
         },
         "marketplace": {
             "total_scenarios": len(marketplace_pages),
             "languages": aggregate(marketplace_pages, MARKETPLACE_LANGS),
-            "features": aggregate_features(marketplace_pages, MARKETPLACE_LANGS),
         },
     }
 
