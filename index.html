@@ -119,6 +119,193 @@
   .leader-bar .postlaunch-seg { background: #a855f7; height: 100%; }
   .leader-bar .repeat-seg { background: #a16207; height: 100%; }
 
+  /* Feature/Area summary (Top 5 / Bottom 5) */
+  .feature-summary {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 720px) {
+    .feature-summary { grid-template-columns: 1fr; }
+  }
+  .feature-box {
+    background: white;
+    border: 1px solid #e8e8f0;
+    border-radius: 10px;
+    padding: 14px 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+  }
+  .feature-box h3 {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .feature-box.top h3 { color: #15803d; }
+  .feature-box.bottom h3 { color: #b91c1c; }
+  .feature-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 5px 0;
+    font-size: 13px;
+    border-top: 1px solid #f1f5f9;
+  }
+  .feature-row:first-of-type { border-top: none; }
+  .feature-rank { width: 22px; color: #9ca3af; font-size: 11px; font-weight: 500; }
+  .feature-name { flex: 1; font-weight: 500; color: #1a1a2e; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .feature-bar {
+    width: 60px;
+    height: 5px;
+    background: #f1f5f9;
+    border-radius: 2px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .feature-bar-fill { height: 100%; }
+  .feature-bar-fill.top { background: #22c55e; }
+  .feature-bar-fill.bottom { background: #ef4444; }
+  .feature-count {
+    font-size: 12px;
+    font-family: 'SF Mono', Menlo, Consolas, monospace;
+    color: #64748b;
+    width: 56px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+  .feature-empty {
+    padding: 14px 4px;
+    color: #94a3b8;
+    font-size: 12px;
+    text-align: center;
+  }
+
+  /* Clickable language cards */
+  .leader-row { cursor: pointer; transition: background 0.15s, border-color 0.15s; }
+  .leader-row:hover { background: #fafbfc; border-color: #c7d2fe; }
+  .leader-row:focus-visible { outline: 2px solid #4f46e5; outline-offset: 2px; }
+
+  /* Modal */
+  .modal-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(26, 26, 46, 0.55);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    padding: 20px;
+  }
+  .modal-overlay.open { display: flex; }
+  .modal-card {
+    background: white;
+    border-radius: 12px;
+    max-width: 620px;
+    width: 100%;
+    max-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 12px 48px rgba(0,0,0,0.3);
+    overflow: hidden;
+  }
+  .modal-header {
+    padding: 18px 22px 16px;
+    border-bottom: 1px solid #e8e8f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .modal-title {
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'SF Mono', Menlo, Consolas, monospace;
+    line-height: 1.1;
+  }
+  .modal-subtitle {
+    font-size: 12px;
+    color: #64748b;
+    margin-top: 4px;
+  }
+  .modal-close {
+    background: #f1f5f9;
+    border: none;
+    font-size: 15px;
+    color: #475569;
+    cursor: pointer;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .modal-close:hover { background: #e2e8f0; color: #1a1a2e; }
+  .modal-body {
+    padding: 8px 22px 18px;
+    overflow-y: auto;
+  }
+  .modal-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 9px 0;
+    font-size: 13px;
+    border-top: 1px solid #f1f5f9;
+  }
+  .modal-row:first-child { border-top: none; }
+  .modal-feat-name {
+    flex: 1;
+    font-weight: 500;
+    color: #1a1a2e;
+    min-width: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .modal-feat-bar {
+    width: 120px;
+    height: 6px;
+    background: #f1f5f9;
+    border-radius: 3px;
+    overflow: hidden;
+    display: flex;
+    flex-shrink: 0;
+  }
+  .modal-feat-pct {
+    font-family: 'SF Mono', Menlo, Consolas, monospace;
+    font-weight: 700;
+    color: #15803d;
+    width: 42px;
+    text-align: right;
+    font-size: 13px;
+    flex-shrink: 0;
+  }
+  .modal-feat-count {
+    color: #94a3b8;
+    font-size: 11px;
+    font-family: 'SF Mono', Menlo, Consolas, monospace;
+    width: 50px;
+    text-align: right;
+    flex-shrink: 0;
+  }
+  .modal-footer {
+    padding: 12px 22px;
+    border-top: 1px solid #e8e8f0;
+    font-size: 11px;
+    color: #94a3b8;
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
+  }
+  .modal-empty { padding: 30px 0; text-align: center; color: #94a3b8; font-size: 13px; }
+
   .banner {
     padding: 10px 14px;
     margin-bottom: 16px;
@@ -158,6 +345,7 @@
       <div class="panel-title">Fresha Partner</div>
       <div class="panel-summary" id="partner-summary"></div>
     </div>
+    <div class="feature-summary" id="features-partner"></div>
     <div class="legend">
       <div class="legend-item"><span class="legend-dot dot-done"></span>Done</div>
       <div class="legend-item"><span class="legend-dot dot-inprogress"></span>In progress</div>
@@ -175,6 +363,7 @@
       <div class="panel-title">Marketplace</div>
       <div class="panel-summary" id="marketplace-summary"></div>
     </div>
+    <div class="feature-summary" id="features-marketplace"></div>
     <div class="legend">
       <div class="legend-item"><span class="legend-dot dot-done"></span>Done</div>
       <div class="legend-item"><span class="legend-dot dot-inprogress"></span>In progress</div>
@@ -189,8 +378,32 @@
 
 </div>
 
+<!-- Language detail modal (hidden by default) -->
+<div id="feature-modal" class="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-lang">
+  <div class="modal-card">
+    <div class="modal-header">
+      <div>
+        <div class="modal-title" id="modal-lang">–</div>
+        <div class="modal-subtitle" id="modal-subtitle">Progress by Feature/Area</div>
+      </div>
+      <button class="modal-close" id="modal-close-btn" aria-label="Close">✕</button>
+    </div>
+    <div class="modal-body" id="modal-body"></div>
+    <div class="modal-footer">
+      <span><span style="display:inline-block;width:8px;height:8px;background:#22c55e;border-radius:2px;vertical-align:middle;margin-right:4px;"></span>Done</span>
+      <span><span style="display:inline-block;width:8px;height:8px;background:#3b82f6;border-radius:2px;vertical-align:middle;margin-right:4px;"></span>In progress</span>
+      <span><span style="display:inline-block;width:8px;height:8px;background:#ef4444;border-radius:2px;vertical-align:middle;margin-right:4px;"></span>Blocked</span>
+      <span><span style="display:inline-block;width:8px;height:8px;background:#a855f7;border-radius:2px;vertical-align:middle;margin-right:4px;"></span>Post-launch</span>
+      <span><span style="display:inline-block;width:8px;height:8px;background:#a16207;border-radius:2px;vertical-align:middle;margin-right:4px;"></span>Repeat</span>
+      <span><span style="display:inline-block;width:8px;height:8px;background:#cbd5e1;border-radius:2px;vertical-align:middle;margin-right:4px;"></span>Not started</span>
+    </div>
+  </div>
+</div>
+
 <script>
 const STATUSES = ['Done','In progress','Blocked','Post-launch','Repeat','Not started'];
+const PLATFORM_LABEL = { partner: 'Fresha Partner', marketplace: 'Marketplace' };
+let CURRENT_DATA = null;  // populated by render()
 
 /* ---------- Tab switching ---------- */
 document.querySelectorAll('.tab').forEach(btn => {
@@ -226,8 +439,50 @@ function platformOverall(entries) {
   return { totals, grand, donePct: grand ? totals['Done']/grand : 0 };
 }
 
+/* ---------- Feature summary (Top 5 / Bottom 5 fully-done) ---------- */
+function renderFeatureSummary(containerId, features) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+  const valid = (features || []).filter(f => f && f.scenario_count > 0);
+  if (valid.length === 0) {
+    container.innerHTML = '';
+    return;
+  }
+
+  // Sort by fully_done (descending for top, ascending for bottom).
+  // Tie-break: for top, prefer fewer total scenarios (higher hit-rate);
+  //            for bottom, prefer more total scenarios (more work outstanding).
+  const top5 = [...valid].sort((a, b) =>
+    (b.fully_done - a.fully_done) || (a.scenario_count - b.scenario_count)
+  ).slice(0, 5);
+  const bottom5 = [...valid].sort((a, b) =>
+    (a.fully_done - b.fully_done) || (b.scenario_count - a.scenario_count)
+  ).slice(0, 5);
+
+  function row(f, i, kind) {
+    const pct = f.scenario_count ? (f.fully_done / f.scenario_count) : 0;
+    return `<div class="feature-row">
+      <span class="feature-rank">#${i+1}</span>
+      <span class="feature-name" title="${f.name}">${f.name}</span>
+      <div class="feature-bar"><div class="feature-bar-fill ${kind}" style="width:${pct*100}%;"></div></div>
+      <span class="feature-count">${f.fully_done}/${f.scenario_count}</span>
+    </div>`;
+  }
+
+  container.innerHTML = `
+    <div class="feature-box top">
+      <h3><span>🟢</span> Top 5 most done</h3>
+      ${top5.map((f, i) => row(f, i, 'top')).join('')}
+    </div>
+    <div class="feature-box bottom">
+      <h3><span>🔴</span> Top 5 least done</h3>
+      ${bottom5.map((f, i) => row(f, i, 'bottom')).join('')}
+    </div>
+  `;
+}
+
 /* ---------- Leaderboard render ---------- */
-function renderLeaderboard(containerId, platformData, summaryId, chipId) {
+function renderLeaderboard(containerId, platformData, summaryId, chipId, platformKey) {
   const entries = platformData.languages.slice();
   entries.forEach(e => e._pct = donePct(e.counts));
   entries.sort((a,b) => b._pct - a._pct);
@@ -242,7 +497,7 @@ function renderLeaderboard(containerId, platformData, summaryId, chipId) {
     const c = r.counts;
     const total = Object.values(c).reduce((a,b)=>a+b,0);
     const p = (n) => total ? ((n||0) / total * 100) : 0;
-    html += `<div class="leader-row">
+    html += `<div class="leader-row" role="button" tabindex="0" data-platform="${platformKey}" data-lang="${r.code}">
       <div class="leader-top">
         <span>
           <span class="leader-rank">#${i+1}</span>
@@ -263,6 +518,78 @@ function renderLeaderboard(containerId, platformData, summaryId, chipId) {
   document.getElementById(containerId).innerHTML = html;
 }
 
+/* ---------- Per-language drill-down modal ---------- */
+function openLanguageDetail(platformKey, langCode) {
+  const data = CURRENT_DATA && CURRENT_DATA[platformKey];
+  if (!data) return;
+  const langEntry = (data.languages || []).find(l => l.code === langCode);
+  if (!langEntry) return;
+
+  document.getElementById('modal-lang').textContent = langCode;
+  document.getElementById('modal-subtitle').textContent =
+    `Progress by Feature/Area · ${PLATFORM_LABEL[platformKey] || platformKey}`;
+
+  const byFeature = langEntry.by_feature || [];
+  const body = document.getElementById('modal-body');
+
+  if (byFeature.length === 0) {
+    body.innerHTML = `<div class="modal-empty">Per-feature breakdown not yet available for this language.<br>It will appear after the next sync.</div>`;
+  } else {
+    // Compute % done and sort descending
+    const rows = byFeature.map(f => {
+      const cts = f.counts || {};
+      const total = Object.values(cts).reduce((a,b) => a + (b||0), 0);
+      const done = cts['Done'] || 0;
+      return { name: f.name, counts: cts, total, done, pct: total ? done/total : 0 };
+    }).sort((a,b) => b.pct - a.pct);
+
+    body.innerHTML = rows.map(r => {
+      const p = (n) => r.total ? ((n||0) / r.total * 100) : 0;
+      const segs = `
+        <div class="done-seg"       style="width:${p(r.counts['Done'])}%;"         title="Done: ${r.counts['Done']||0}"></div>
+        <div class="inprog-seg"     style="width:${p(r.counts['In progress'])}%;"  title="In progress: ${r.counts['In progress']||0}"></div>
+        <div class="blocked-seg"    style="width:${p(r.counts['Blocked'])}%;"      title="Blocked: ${r.counts['Blocked']||0}"></div>
+        <div class="postlaunch-seg" style="width:${p(r.counts['Post-launch'])}%;"  title="Post-launch: ${r.counts['Post-launch']||0}"></div>
+        <div class="repeat-seg"     style="width:${p(r.counts['Repeat'])}%;"       title="Repeat: ${r.counts['Repeat']||0}"></div>`;
+      return `<div class="modal-row">
+        <span class="modal-feat-name" title="${r.name}">${r.name}</span>
+        <div class="modal-feat-bar">${segs}</div>
+        <span class="modal-feat-pct">${fmtPct(r.pct)}</span>
+        <span class="modal-feat-count">${r.done}/${r.total}</span>
+      </div>`;
+    }).join('');
+  }
+
+  document.getElementById('feature-modal').classList.add('open');
+}
+
+function closeModal() {
+  document.getElementById('feature-modal').classList.remove('open');
+}
+
+// Wire up modal event listeners (once, at load time)
+document.addEventListener('click', (e) => {
+  // Open on language-card click
+  const row = e.target.closest('.leader-row');
+  if (row) {
+    openLanguageDetail(row.dataset.platform, row.dataset.lang);
+    return;
+  }
+  // Close on backdrop click (only when clicking the overlay itself)
+  const modal = document.getElementById('feature-modal');
+  if (e.target === modal) closeModal();
+  // Close button
+  if (e.target.id === 'modal-close-btn' || e.target.closest('#modal-close-btn')) closeModal();
+});
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') closeModal();
+  // Enter or Space on a focused card also opens
+  if ((e.key === 'Enter' || e.key === ' ') && document.activeElement && document.activeElement.classList.contains('leader-row')) {
+    e.preventDefault();
+    openLanguageDetail(document.activeElement.dataset.platform, document.activeElement.dataset.lang);
+  }
+});
+
 /* ---------- Sample data fallback (used when data/data.json is missing) ---------- */
 const SAMPLE_DATA = {
   "generated_at": null,
@@ -270,11 +597,47 @@ const SAMPLE_DATA = {
   "partner": {
     "total_scenarios": 85,
     "languages": [
-      {"code":"AR","counts":{"Done":66,"In progress":10,"Blocked":4,"Post-launch":1,"Repeat":0,"Not started":4}},
-      {"code":"ES","counts":{"Done":61,"In progress":10,"Blocked":4,"Post-launch":1,"Repeat":0,"Not started":9}},
+      {"code":"AR","counts":{"Done":66,"In progress":10,"Blocked":4,"Post-launch":1,"Repeat":0,"Not started":4},
+        "by_feature":[
+          {"name":"Calendar","counts":{"Done":8,"In progress":0,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":0}},
+          {"name":"Settings","counts":{"Done":10,"In progress":2,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":0}},
+          {"name":"Clients","counts":{"Done":6,"In progress":0,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":0}},
+          {"name":"Catalog","counts":{"Done":8,"In progress":1,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":0}},
+          {"name":"Payments","counts":{"Done":5,"In progress":1,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":0}},
+          {"name":"Automations","counts":{"Done":2,"In progress":1,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":1}},
+          {"name":"Marketing","counts":{"Done":4,"In progress":2,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":1}},
+          {"name":"Mobile","counts":{"Done":3,"In progress":1,"Blocked":0,"Post-launch":1,"Repeat":0,"Not started":1}},
+          {"name":"Help and support","counts":{"Done":2,"In progress":1,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":1}},
+          {"name":"Deal Manager app","counts":{"Done":0,"In progress":1,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":0}}
+        ]},
+      {"code":"ES","counts":{"Done":61,"In progress":10,"Blocked":4,"Post-launch":1,"Repeat":0,"Not started":9},
+        "by_feature":[
+          {"name":"Calendar","counts":{"Done":7,"In progress":1,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":0}},
+          {"name":"Settings","counts":{"Done":9,"In progress":2,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":1}},
+          {"name":"Clients","counts":{"Done":5,"In progress":0,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":1}},
+          {"name":"Catalog","counts":{"Done":7,"In progress":1,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":1}},
+          {"name":"Payments","counts":{"Done":4,"In progress":2,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":0}},
+          {"name":"Automations","counts":{"Done":1,"In progress":1,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":2}},
+          {"name":"Marketing","counts":{"Done":3,"In progress":2,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":2}},
+          {"name":"Mobile","counts":{"Done":2,"In progress":1,"Blocked":0,"Post-launch":1,"Repeat":0,"Not started":2}},
+          {"name":"Help and support","counts":{"Done":1,"In progress":0,"Blocked":1,"Post-launch":0,"Repeat":0,"Not started":2}},
+          {"name":"Deal Manager app","counts":{"Done":0,"In progress":0,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":2}}
+        ]},
       {"code":"DE","counts":{"Done":72,"In progress":6,"Blocked":2,"Post-launch":1,"Repeat":2,"Not started":2}},
       {"code":"FR","counts":{"Done":58,"In progress":12,"Blocked":5,"Post-launch":2,"Repeat":1,"Not started":7}},
       {"code":"IT","counts":{"Done":45,"In progress":14,"Blocked":3,"Post-launch":1,"Repeat":2,"Not started":20}}
+    ],
+    "features": [
+      {"name":"Calendar","scenario_count":8,"fully_done":7},
+      {"name":"Clients","scenario_count":6,"fully_done":5},
+      {"name":"Settings","scenario_count":12,"fully_done":8},
+      {"name":"Catalog","scenario_count":10,"fully_done":6},
+      {"name":"Payments","scenario_count":7,"fully_done":4},
+      {"name":"Deal Manager app","scenario_count":2,"fully_done":0},
+      {"name":"Automations","scenario_count":4,"fully_done":0},
+      {"name":"Add-ons","scenario_count":3,"fully_done":0},
+      {"name":"Personal account","scenario_count":5,"fully_done":1},
+      {"name":"Help and support","scenario_count":4,"fully_done":1}
     ]
   },
   "marketplace": {
@@ -283,6 +646,18 @@ const SAMPLE_DATA = {
       {"code":"EN-GB","counts":{"Done":38,"In progress":3,"Blocked":0,"Post-launch":0,"Repeat":0,"Not started":1}},
       {"code":"ES","counts":{"Done":30,"In progress":5,"Blocked":2,"Post-launch":0,"Repeat":0,"Not started":5}},
       {"code":"FR","counts":{"Done":28,"In progress":6,"Blocked":3,"Post-launch":1,"Repeat":0,"Not started":4}}
+    ],
+    "features": [
+      {"name":"Home","scenario_count":3,"fully_done":3},
+      {"name":"Search","scenario_count":4,"fully_done":3},
+      {"name":"Booking Flow","scenario_count":6,"fully_done":4},
+      {"name":"Profile","scenario_count":5,"fully_done":3},
+      {"name":"Venue page","scenario_count":4,"fully_done":2},
+      {"name":"Native app iOS","scenario_count":3,"fully_done":0},
+      {"name":"Native app Android","scenario_count":3,"fully_done":0},
+      {"name":"Forms","scenario_count":4,"fully_done":1},
+      {"name":"Wallet","scenario_count":3,"fully_done":0},
+      {"name":"Careers","scenario_count":2,"fully_done":0}
     ]
   }
 };
@@ -310,15 +685,20 @@ function renderEmpty(containerId, summaryId, chipId) {
 }
 
 function render(data) {
+  CURRENT_DATA = data;
   if (data.partner && Array.isArray(data.partner.languages) && data.partner.languages.length > 0) {
-    renderLeaderboard('lb-partner', data.partner, 'partner-summary', 'partner-chip');
+    renderLeaderboard('lb-partner', data.partner, 'partner-summary', 'partner-chip', 'partner');
+    renderFeatureSummary('features-partner', data.partner.features);
   } else {
     renderEmpty('lb-partner', 'partner-summary', 'partner-chip');
+    renderFeatureSummary('features-partner', []);
   }
   if (data.marketplace && Array.isArray(data.marketplace.languages) && data.marketplace.languages.length > 0) {
-    renderLeaderboard('lb-marketplace', data.marketplace, 'marketplace-summary', 'marketplace-chip');
+    renderLeaderboard('lb-marketplace', data.marketplace, 'marketplace-summary', 'marketplace-chip', 'marketplace');
+    renderFeatureSummary('features-marketplace', data.marketplace.features);
   } else {
     renderEmpty('lb-marketplace', 'marketplace-summary', 'marketplace-chip');
+    renderFeatureSummary('features-marketplace', []);
   }
 }
 async function loadData() {
