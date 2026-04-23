@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-04-22T08:28:05.210893+00:00",
+  "generated_at": "2026-04-23T08:50:48.957620+00:00",
   "source": "notion",
   "partner": {
-    "total_scenarios": 362,
+    "total_scenarios": 363,
     "languages": [
       {
         "code": "AR",
         "counts": {
           "Done": 111,
-          "In progress": 2,
+          "In progress": 3,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
@@ -96,11 +96,11 @@
             "name": "Clients",
             "counts": {
               "Done": 14,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -133,7 +133,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -278,7 +278,7 @@
           "Blocked": 6,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 142
+          "Not started": 143
         },
         "by_feature": [
           {
@@ -399,7 +399,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -544,7 +544,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 246
+          "Not started": 247
         },
         "by_feature": [
           {
@@ -665,7 +665,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -810,7 +810,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 213
+          "Not started": 214
         },
         "by_feature": [
           {
@@ -931,7 +931,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -1076,7 +1076,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 277
+          "Not started": 278
         },
         "by_feature": [
           {
@@ -1197,7 +1197,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -1342,7 +1342,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 361
+          "Not started": 362
         },
         "by_feature": [
           {
@@ -1463,7 +1463,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -1608,7 +1608,7 @@
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 57
+          "Not started": 58
         },
         "by_feature": [
           {
@@ -1729,7 +1729,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -1874,7 +1874,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 293
+          "Not started": 294
         },
         "by_feature": [
           {
@@ -1995,7 +1995,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2140,7 +2140,7 @@
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 6
+          "Not started": 7
         },
         "by_feature": [
           {
@@ -2261,7 +2261,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2406,7 +2406,7 @@
           "Blocked": 0,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 256
+          "Not started": 257
         },
         "by_feature": [
           {
@@ -2527,7 +2527,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -2667,12 +2667,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 62,
-          "In progress": 3,
+          "Done": 79,
+          "In progress": 4,
           "Blocked": 0,
-          "Post-launch": 10,
+          "Post-launch": 11,
           "Repeat": 0,
-          "Not started": 287
+          "Not started": 269
         },
         "by_feature": [
           {
@@ -2793,7 +2793,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -2887,12 +2887,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 23,
-              "In progress": 3,
+              "Done": 40,
+              "In progress": 4,
               "Blocked": 0,
-              "Post-launch": 7,
+              "Post-launch": 8,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 0
             }
           },
           {
@@ -2933,7 +2933,7 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 337,
+          "Done": 338,
           "In progress": 7,
           "Blocked": 12,
           "Post-launch": 0,
@@ -2977,12 +2977,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3059,7 +3059,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3199,12 +3199,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 311,
+          "Done": 316,
           "In progress": 2,
           "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 35
+          "Not started": 31
         },
         "by_feature": [
           {
@@ -3325,7 +3325,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3419,12 +3419,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 37,
+              "Done": 42,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 8
             }
           },
           {
@@ -3470,7 +3470,7 @@
           "Blocked": 8,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 76
+          "Not started": 77
         },
         "by_feature": [
           {
@@ -3591,7 +3591,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3736,7 +3736,7 @@
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 355
+          "Not started": 356
         },
         "by_feature": [
           {
@@ -3857,7 +3857,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -4002,7 +4002,7 @@
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 137
+          "Not started": 138
         },
         "by_feature": [
           {
@@ -4123,7 +4123,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4268,7 +4268,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 296
+          "Not started": 297
         },
         "by_feature": [
           {
@@ -4389,7 +4389,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4534,7 +4534,7 @@
           "Blocked": 8,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 130
+          "Not started": 131
         },
         "by_feature": [
           {
@@ -4655,7 +4655,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4800,7 +4800,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 228
+          "Not started": 229
         },
         "by_feature": [
           {
@@ -4921,7 +4921,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5066,7 +5066,7 @@
           "Blocked": 9,
           "Post-launch": 1,
           "Repeat": 1,
-          "Not started": 148
+          "Not started": 149
         },
         "by_feature": [
           {
@@ -5187,7 +5187,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -5332,7 +5332,7 @@
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 138
+          "Not started": 139
         },
         "by_feature": [
           {
@@ -5453,7 +5453,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5598,7 +5598,7 @@
           "Blocked": 4,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 187
+          "Not started": 188
         },
         "by_feature": [
           {
@@ -5719,7 +5719,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5864,7 +5864,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 254
+          "Not started": 255
         },
         "by_feature": [
           {
@@ -5985,7 +5985,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6130,7 +6130,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 216
+          "Not started": 217
         },
         "by_feature": [
           {
@@ -6251,7 +6251,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6396,7 +6396,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 249
+          "Not started": 250
         },
         "by_feature": [
           {
@@ -6517,7 +6517,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6662,7 +6662,7 @@
           "Blocked": 0,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 360
+          "Not started": 361
         },
         "by_feature": [
           {
@@ -6783,7 +6783,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -6928,7 +6928,7 @@
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 163
+          "Not started": 164
         },
         "by_feature": [
           {
@@ -7049,7 +7049,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7190,7 +7190,7 @@
         "code": "es-MX",
         "counts": {
           "Done": 0,
-          "In progress": 0,
+          "In progress": 1,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
@@ -7234,11 +7234,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
@@ -7315,7 +7315,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -7460,7 +7460,7 @@
           "Blocked": 0,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 358
+          "Not started": 359
         },
         "by_feature": [
           {
@@ -7581,7 +7581,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -7726,7 +7726,7 @@
           "Blocked": 17,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 79
+          "Not started": 80
         },
         "by_feature": [
           {
@@ -7847,7 +7847,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7992,7 +7992,7 @@
           "Blocked": 16,
           "Post-launch": 93,
           "Repeat": 0,
-          "Not started": 41
+          "Not started": 42
         },
         "by_feature": [
           {
@@ -8113,7 +8113,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -11144,9 +11144,9 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 44,
+          "Done": 48,
           "In progress": 0,
-          "Blocked": 7,
+          "Blocked": 3,
           "Post-launch": 2,
           "Repeat": 0,
           "Not started": 32
@@ -11155,12 +11155,12 @@
           {
             "name": "Activity",
             "counts": {
-              "Done": 5,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 9
             }
           },
           {
@@ -11179,10 +11179,10 @@
             "counts": {
               "Done": 14,
               "In progress": 0,
-              "Blocked": 2,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -11333,10 +11333,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 3,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 3
             }
           },
           {
@@ -14474,12 +14474,12 @@
       {
         "code": "pt-PT",
         "counts": {
-          "Done": 22,
-          "In progress": 15,
-          "Blocked": 2,
+          "Done": 33,
+          "In progress": 5,
+          "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 46
+          "Not started": 40
         },
         "by_feature": [
           {
@@ -14507,12 +14507,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 1,
-              "In progress": 13,
-              "Blocked": 0,
+              "Done": 12,
+              "In progress": 0,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -14608,10 +14608,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -14662,11 +14662,11 @@
             "name": "Tips and reviews",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
