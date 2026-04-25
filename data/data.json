@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T08:57:32.069344+00:00",
+  "generated_at": "2026-04-25T08:03:01.243626+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 362,
@@ -2401,12 +2401,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 107,
-          "In progress": 3,
+          "Done": 110,
+          "In progress": 0,
           "Blocked": 0,
-          "Post-launch": 3,
+          "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 249
+          "Not started": 248
         },
         "by_feature": [
           {
@@ -2448,9 +2448,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
@@ -2555,8 +2555,8 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 4,
-              "In progress": 3,
+              "Done": 7,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -2670,9 +2670,9 @@
           "Done": 81,
           "In progress": 0,
           "Blocked": 2,
-          "Post-launch": 11,
+          "Post-launch": 12,
           "Repeat": 0,
-          "Not started": 268
+          "Not started": 267
         },
         "by_feature": [
           {
@@ -2714,9 +2714,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
@@ -3731,23 +3731,23 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 3,
-          "In progress": 3,
+          "Done": 7,
+          "In progress": 2,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 352
+          "Not started": 349
         },
         "by_feature": [
           {
             "name": "Account setup",
             "counts": {
-              "Done": 3,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -3775,8 +3775,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 0,
-              "In progress": 3,
+              "Done": 1,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
@@ -5064,9 +5064,9 @@
           "Done": 199,
           "In progress": 4,
           "Blocked": 9,
-          "Post-launch": 1,
+          "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 148
+          "Not started": 147
         },
         "by_feature": [
           {
@@ -5108,9 +5108,9 @@
               "Done": 0,
               "In progress": 3,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           },
           {
@@ -6125,12 +6125,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 141,
+          "Done": 142,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 215
+          "Not started": 214
         },
         "by_feature": [
           {
@@ -6279,12 +6279,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 10
             }
           },
           {
@@ -6657,23 +6657,23 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 0,
+          "Done": 2,
           "In progress": 0,
           "Blocked": 0,
-          "Post-launch": 2,
+          "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 360
+          "Not started": 357
         },
         "by_feature": [
           {
             "name": "Account setup",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 4
             }
           },
           {
@@ -6704,9 +6704,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
@@ -7189,12 +7189,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 2,
+          "Done": 4,
           "In progress": 0,
-          "Blocked": 0,
+          "Blocked": 1,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 360
+          "Not started": 357
         },
         "by_feature": [
           {
@@ -7233,12 +7233,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 2,
+              "Done": 4,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 4
             }
           },
           {
@@ -7458,9 +7458,9 @@
           "Done": 0,
           "In progress": 2,
           "Blocked": 0,
-          "Post-launch": 2,
+          "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 358
+          "Not started": 357
         },
         "by_feature": [
           {
@@ -7502,9 +7502,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
