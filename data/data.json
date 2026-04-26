@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T08:03:01.243626+00:00",
+  "generated_at": "2026-04-26T08:14:11.161123+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 362,
@@ -4795,12 +4795,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 124,
-          "In progress": 4,
+          "Done": 129,
+          "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 228
+          "Not started": 224
         },
         "by_feature": [
           {
@@ -5015,12 +5015,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 28,
-              "In progress": 3,
+              "Done": 33,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 17
             }
           },
           {
