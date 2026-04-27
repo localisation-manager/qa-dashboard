@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T08:14:11.161123+00:00",
+  "generated_at": "2026-04-27T09:14:31.816186+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 362,
@@ -2401,12 +2401,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 110,
+          "Done": 122,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 248
+          "Not started": 236
         },
         "by_feature": [
           {
@@ -2555,12 +2555,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 7,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -2610,12 +2610,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 0,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 6
             }
           },
           {
@@ -4795,12 +4795,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 129,
-          "In progress": 3,
+          "Done": 132,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 224
+          "Not started": 222
         },
         "by_feature": [
           {
@@ -5015,12 +5015,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 33,
-              "In progress": 2,
+              "Done": 36,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 15
             }
           },
           {
@@ -5327,12 +5327,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 212,
+          "Done": 213,
           "In progress": 2,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 137
+          "Not started": 136
         },
         "by_feature": [
           {
@@ -5371,12 +5371,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 7,
+              "Done": 8,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6923,12 +6923,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 190,
+          "Done": 199,
           "In progress": 2,
-          "Blocked": 7,
+          "Blocked": 17,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 163
+          "Not started": 144
         },
         "by_feature": [
           {
@@ -6967,12 +6967,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7000,12 +7000,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 27,
+              "Done": 28,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -7057,10 +7057,10 @@
             "counts": {
               "Done": 6,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 34
+              "Not started": 33
             }
           },
           {
@@ -7099,12 +7099,12 @@
           {
             "name": "Personal account",
             "counts": {
-              "Done": 6,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7132,12 +7132,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 8,
+              "Done": 13,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 0
             }
           },
           {
@@ -7145,10 +7145,10 @@
             "counts": {
               "Done": 39,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 8,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 5
             }
           },
           {
@@ -7165,12 +7165,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -7189,12 +7189,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 4,
+          "Done": 3,
           "In progress": 0,
           "Blocked": 1,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 357
+          "Not started": 358
         },
         "by_feature": [
           {
@@ -7233,12 +7233,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
