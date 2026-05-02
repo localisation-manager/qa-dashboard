@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T08:56:42.996893+00:00",
+  "generated_at": "2026-05-02T08:19:19.212483+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 362,
@@ -8253,7 +8253,7 @@
     ]
   },
   "marketplace": {
-    "total_scenarios": 86,
+    "total_scenarios": 85,
     "languages": [
       {
         "code": "AR",
@@ -8263,20 +8263,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 20
+          "Not started": 19
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -8496,20 +8485,9 @@
           "Blocked": 1,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 18
+          "Not started": 17
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -8729,20 +8707,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -8962,20 +8929,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -9195,20 +9151,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -9428,20 +9373,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -9661,20 +9595,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -9894,20 +9817,9 @@
           "Blocked": 3,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 15
+          "Not started": 14
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -10127,20 +10039,9 @@
           "Blocked": 8,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 6
+          "Not started": 5
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -10355,25 +10256,14 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 58,
+          "Done": 59,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 15
+          "Not started": 13
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -10575,12 +10465,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 2,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           }
         ]
@@ -10593,20 +10483,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 26
+          "Not started": 25
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -10826,20 +10705,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -11059,20 +10927,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 21
+          "Not started": 20
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -11292,20 +11149,9 @@
           "Blocked": 3,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 34
+          "Not started": 33
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -11525,20 +11371,9 @@
           "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 22
+          "Not started": 21
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -11758,20 +11593,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -11991,20 +11815,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -12224,20 +12037,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -12457,20 +12259,9 @@
           "Blocked": 3,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 20
+          "Not started": 19
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -12690,20 +12481,9 @@
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 16
+          "Not started": 15
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -12923,20 +12703,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -13156,20 +12925,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 28
+          "Not started": 27
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -13389,20 +13147,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 86
+          "Not started": 85
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -13622,20 +13369,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 25
+          "Not started": 24
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -13855,20 +13591,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 25
+          "Not started": 24
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -14088,20 +13813,9 @@
           "Blocked": 0,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 85
+          "Not started": 84
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -14321,20 +14035,9 @@
           "Blocked": 5,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 79
+          "Not started": 78
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -14554,20 +14257,9 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 21
+          "Not started": 20
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -14782,25 +14474,14 @@
       {
         "code": "pt-PT",
         "counts": {
-          "Done": 33,
-          "In progress": 5,
-          "Blocked": 7,
+          "Done": 31,
+          "In progress": 2,
+          "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 41
+          "Not started": 48
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -14826,12 +14507,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 12,
+              "Done": 10,
               "In progress": 0,
-              "Blocked": 4,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 5
             }
           },
           {
@@ -14981,11 +14662,11 @@
             "name": "Tips and reviews",
             "counts": {
               "Done": 0,
-              "In progress": 3,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 3
             }
           },
           {
@@ -15020,20 +14701,9 @@
           "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 39
+          "Not started": 38
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
@@ -15253,20 +14923,9 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 8
+          "Not started": 7
         },
         "by_feature": [
-          {
-            "name": "(No feature)",
-            "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 1
-            }
-          },
           {
             "name": "Activity",
             "counts": {
