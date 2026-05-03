@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T08:19:19.212483+00:00",
+  "generated_at": "2026-05-03T08:44:36.274453+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 362,
@@ -3732,11 +3732,11 @@
         "code": "KO",
         "counts": {
           "Done": 40,
-          "In progress": 3,
+          "In progress": 9,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 315
+          "Not started": 309
         },
         "by_feature": [
           {
@@ -3952,11 +3952,11 @@
             "name": "Settings",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 6,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 52
+              "Not started": 46
             }
           },
           {
