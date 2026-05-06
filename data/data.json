@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:05:16.889606+00:00",
+  "generated_at": "2026-05-06T09:19:49.016757+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 362,
@@ -3199,12 +3199,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 323,
-          "In progress": 2,
+          "Done": 327,
+          "In progress": 0,
           "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 23
+          "Not started": 21
         },
         "by_feature": [
           {
@@ -3397,12 +3397,12 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 34,
-              "In progress": 2,
+              "Done": 38,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 19
             }
           },
           {
@@ -3731,12 +3731,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 40,
-          "In progress": 42,
+          "Done": 92,
+          "In progress": 3,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 276
+          "Not started": 263
         },
         "by_feature": [
           {
@@ -3951,12 +3951,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 0,
-              "In progress": 39,
+              "Done": 52,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 0
             }
           },
           {
@@ -6657,12 +6657,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 12,
+          "Done": 20,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 347
+          "Not started": 339
         },
         "by_feature": [
           {
@@ -6745,12 +6745,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 6,
+              "Done": 14,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 1
             }
           },
           {
