@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T08:19:09.988171+00:00",
+  "generated_at": "2026-05-09T08:24:50.318900+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 361,
@@ -273,12 +273,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 212,
+          "Done": 213,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 138
+          "Not started": 137
         },
         "by_feature": [
           {
@@ -493,12 +493,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 50,
+              "Done": 51,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -2401,12 +2401,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 136,
-          "In progress": 0,
+          "Done": 139,
+          "In progress": 1,
           "Blocked": 5,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 216
+          "Not started": 212
         },
         "by_feature": [
           {
@@ -2478,12 +2478,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 7,
-              "In progress": 0,
+              "Done": 10,
+              "In progress": 1,
               "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 13
             }
           },
           {
@@ -3199,12 +3199,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 332,
+          "Done": 341,
           "In progress": 0,
-          "Blocked": 14,
+          "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 15
+          "Not started": 5
         },
         "by_feature": [
           {
@@ -3397,12 +3397,12 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 44,
+              "Done": 53,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 3
             }
           },
           {
@@ -5860,11 +5860,11 @@
         "code": "RU",
         "counts": {
           "Done": 101,
-          "In progress": 2,
+          "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 252
+          "Not started": 250
         },
         "by_feature": [
           {
@@ -6080,11 +6080,11 @@
             "name": "Settings",
             "counts": {
               "Done": 38,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 11
             }
           },
           {
@@ -6391,12 +6391,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 108,
+          "Done": 109,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 241
+          "Not started": 240
         },
         "by_feature": [
           {
@@ -6611,12 +6611,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 36,
+              "Done": 37,
               "In progress": 0,
               "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 9
             }
           },
           {
@@ -6657,12 +6657,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 36,
-          "In progress": 4,
+          "Done": 45,
+          "In progress": 5,
           "Blocked": 0,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 318
+          "Not started": 308
         },
         "by_feature": [
           {
@@ -6712,23 +6712,23 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 11,
-              "In progress": 0,
+              "Done": 18,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 0
             }
           },
           {
             "name": "Catalog",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 11
             }
           },
           {
@@ -7189,12 +7189,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 70,
+          "Done": 84,
           "In progress": 3,
           "Blocked": 1,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 285
+          "Not started": 271
         },
         "by_feature": [
           {
@@ -7409,12 +7409,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 31,
+              "Done": 45,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 5
             }
           },
           {
@@ -8313,7 +8313,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 4,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8456,7 +8456,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8535,7 +8535,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8678,7 +8678,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8762,7 +8762,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -8905,7 +8905,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -8984,7 +8984,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -9127,7 +9127,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -9206,7 +9206,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -9349,7 +9349,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -9428,7 +9428,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -9571,7 +9571,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -9650,7 +9650,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -9793,7 +9793,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -9867,7 +9867,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10010,7 +10010,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10089,7 +10089,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10232,7 +10232,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 5,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10311,7 +10311,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10454,7 +10454,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 5,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10533,7 +10533,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10676,7 +10676,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10760,7 +10760,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -10903,7 +10903,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -10977,7 +10977,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 4,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11120,7 +11120,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11199,7 +11199,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11342,7 +11342,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 5,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11421,7 +11421,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 4,
               "Post-launch": 0,
@@ -11564,7 +11564,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11648,7 +11648,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -11791,7 +11791,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -11870,7 +11870,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -12013,7 +12013,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -12092,7 +12092,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -12235,7 +12235,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -12309,7 +12309,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12452,7 +12452,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 5,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12531,7 +12531,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12674,7 +12674,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 3,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -12758,7 +12758,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -12901,7 +12901,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -12975,7 +12975,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13118,7 +13118,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13197,7 +13197,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13340,7 +13340,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 5,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13419,7 +13419,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13562,7 +13562,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13641,7 +13641,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 4,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13784,7 +13784,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13868,7 +13868,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -14011,7 +14011,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -14090,7 +14090,7 @@
               "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -14233,7 +14233,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -14307,7 +14307,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14450,7 +14450,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14474,23 +14474,23 @@
       {
         "code": "pt-PT",
         "counts": {
-          "Done": 42,
+          "Done": 60,
           "In progress": 2,
-          "Blocked": 3,
+          "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 38
+          "Not started": 19
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 0,
+              "Done": 18,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 1
             }
           },
           {
@@ -14529,7 +14529,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14672,7 +14672,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 5,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14753,7 +14753,7 @@
             "counts": {
               "Done": 4,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -14896,7 +14896,7 @@
             "counts": {
               "Done": 2,
               "In progress": 0,
-              "Blocked": 2,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 1
@@ -14973,7 +14973,7 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -15116,7 +15116,7 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
