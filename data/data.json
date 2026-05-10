@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T08:24:50.318900+00:00",
+  "generated_at": "2026-05-10T08:49:31.290225+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 361,
@@ -6657,12 +6657,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 45,
+          "Done": 48,
           "In progress": 5,
           "Blocked": 0,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 308
+          "Not started": 305
         },
         "by_feature": [
           {
@@ -6723,12 +6723,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 2,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 8
             }
           },
           {
