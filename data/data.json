@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-10T08:49:31.290225+00:00",
+  "generated_at": "2026-05-11T10:33:26.421439+00:00",
   "source": "notion",
   "partner": {
-    "total_scenarios": 361,
+    "total_scenarios": 366,
     "languages": [
       {
         "code": "AR",
@@ -12,9 +12,20 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 240
+          "Not started": 245
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -232,7 +243,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 20
             }
           },
           {
@@ -273,14 +284,25 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 213,
+          "Done": 214,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 137
+          "Not started": 141
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -328,12 +350,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -498,7 +520,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 5
             }
           },
           {
@@ -544,9 +566,20 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 245
+          "Not started": 250
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -764,7 +797,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 18
             }
           },
           {
@@ -810,9 +843,20 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 207
+          "Not started": 212
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -1030,7 +1074,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 18
             }
           },
           {
@@ -1076,9 +1120,20 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 276
+          "Not started": 281
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -1296,7 +1351,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 44
             }
           },
           {
@@ -1342,9 +1397,20 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 360
+          "Not started": 365
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -1562,7 +1628,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 52
+              "Not started": 56
             }
           },
           {
@@ -1608,9 +1674,20 @@
           "Blocked": 19,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 55
+          "Not started": 60
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -1828,7 +1905,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 17
             }
           },
           {
@@ -1874,9 +1951,20 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 292
+          "Not started": 297
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -2094,7 +2182,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 52
+              "Not started": 56
             }
           },
           {
@@ -2135,14 +2223,25 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 341,
+          "Done": 340,
           "In progress": 1,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 5
+          "Not started": 11
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -2355,12 +2454,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 49,
+              "Done": 48,
               "In progress": 1,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 6
             }
           },
           {
@@ -2401,14 +2500,25 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 139,
+          "Done": 138,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 212
+          "Not started": 218
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -2621,12 +2731,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 51,
+              "Done": 50,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 5
             }
           },
           {
@@ -2667,14 +2777,25 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 81,
-          "In progress": 0,
+          "Done": 80,
+          "In progress": 1,
           "Blocked": 2,
           "Post-launch": 12,
           "Repeat": 0,
-          "Not started": 266
+          "Not started": 271
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -2734,11 +2855,11 @@
             "name": "Catalog",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 12
             }
           },
           {
@@ -2887,12 +3008,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 42,
+              "Done": 41,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 8,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 5
             }
           },
           {
@@ -2933,14 +3054,25 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 337,
+          "Done": 336,
           "In progress": 7,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 5
+          "Not started": 11
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -3153,12 +3285,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 43,
+              "Done": 42,
               "In progress": 7,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 6
             }
           },
           {
@@ -3204,9 +3336,20 @@
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 5
+          "Not started": 10
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -3243,12 +3386,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3419,12 +3562,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 49,
+              "Done": 48,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 6
             }
           },
           {
@@ -3465,14 +3608,25 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 295,
+          "Done": 294,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 57
+          "Not started": 63
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -3685,12 +3839,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 51,
+              "Done": 50,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 5
             }
           },
           {
@@ -3731,14 +3885,25 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 92,
+          "Done": 91,
           "In progress": 3,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 262
+          "Not started": 268
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -3951,12 +4116,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 52,
+              "Done": 51,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 5
             }
           },
           {
@@ -3997,14 +4162,25 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 226,
+          "Done": 225,
           "In progress": 2,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 126
+          "Not started": 132
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -4217,12 +4393,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 44,
+              "Done": 43,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 12
             }
           },
           {
@@ -4268,9 +4444,20 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 295
+          "Not started": 300
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -4488,7 +4675,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 52
+              "Not started": 56
             }
           },
           {
@@ -4534,9 +4721,20 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 129
+          "Not started": 134
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -4754,7 +4952,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 17
             }
           },
           {
@@ -4800,9 +4998,20 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 221
+          "Not started": 226
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -5020,7 +5229,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 18
             }
           },
           {
@@ -5066,9 +5275,20 @@
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 147
+          "Not started": 152
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -5286,7 +5506,7 @@
               "Blocked": 1,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 18
             }
           },
           {
@@ -5332,9 +5552,20 @@
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 136
+          "Not started": 141
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -5552,7 +5783,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 20
             }
           },
           {
@@ -5598,9 +5829,20 @@
           "Blocked": 4,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 187
+          "Not started": 192
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -5818,7 +6060,7 @@
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 18
             }
           },
           {
@@ -5864,9 +6106,20 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 250
+          "Not started": 255
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -6084,7 +6337,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 15
             }
           },
           {
@@ -6130,9 +6383,20 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 213
+          "Not started": 218
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -6350,7 +6614,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 17
             }
           },
           {
@@ -6391,14 +6655,25 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 109,
+          "Done": 108,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 240
+          "Not started": 246
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -6611,12 +6886,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 37,
+              "Done": 36,
               "In progress": 0,
               "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 14
             }
           },
           {
@@ -6657,14 +6932,25 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 48,
-          "In progress": 5,
+          "Done": 65,
+          "In progress": 7,
           "Blocked": 0,
-          "Post-launch": 3,
+          "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 305
+          "Not started": 290
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -6723,12 +7009,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 5,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 0
             }
           },
           {
@@ -6746,11 +7032,11 @@
             "name": "Clients",
             "counts": {
               "Done": 14,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6811,12 +7097,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 9,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 0
             }
           },
           {
@@ -6869,9 +7155,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 13
             }
           },
           {
@@ -6882,7 +7168,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 43
+              "Not started": 47
             }
           },
           {
@@ -6928,9 +7214,20 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 138
+          "Not started": 143
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -7148,7 +7445,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 17
             }
           },
           {
@@ -7189,14 +7486,25 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 84,
+          "Done": 83,
           "In progress": 3,
           "Blocked": 1,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 271
+          "Not started": 277
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -7409,12 +7717,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 45,
+              "Done": 44,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 10
             }
           },
           {
@@ -7460,9 +7768,20 @@
           "Blocked": 0,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 352
+          "Not started": 357
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -7680,7 +7999,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 52
+              "Not started": 56
             }
           },
           {
@@ -7721,14 +8040,25 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 275,
+          "Done": 276,
           "In progress": 0,
           "Blocked": 19,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 67
+          "Not started": 71
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -7941,12 +8271,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 42,
+              "Done": 43,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 11
             }
           },
           {
@@ -7992,9 +8322,20 @@
           "Blocked": 16,
           "Post-launch": 93,
           "Repeat": 0,
-          "Not started": 41
+          "Not started": 46
         },
         "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
           {
             "name": "Account setup",
             "counts": {
@@ -8212,7 +8553,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 17
             }
           },
           {
