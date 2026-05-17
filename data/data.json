@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T08:45:47.311033+00:00",
+  "generated_at": "2026-05-17T09:00:33.118225+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 380,
@@ -5191,12 +5191,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 133,
-          "In progress": 3,
+          "Done": 140,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 238
+          "Not started": 232
         },
         "by_feature": [
           {
@@ -5312,12 +5312,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 1,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 0
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 109,
+          "Done": 125,
           "In progress": 7,
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 258
+          "Not started": 242
         },
         "by_feature": [
           {
@@ -7295,12 +7295,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 11,
+              "Done": 27,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 1
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 6,
-          "In progress": 11,
+          "Done": 21,
+          "In progress": 10,
           "Blocked": 0,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 360
+          "Not started": 346
         },
         "by_feature": [
           {
@@ -8138,11 +8138,11 @@
             "name": "Calendar",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 10,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 9
             }
           },
           {
@@ -8170,12 +8170,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 0,
-              "In progress": 11,
+              "Done": 15,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -8359,12 +8359,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 277,
+          "Done": 284,
           "In progress": 0,
           "Blocked": 19,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 84
+          "Not started": 77
         },
         "by_feature": [
           {
@@ -8480,12 +8480,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 1
             }
           },
           {
