@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T11:03:05.003063+00:00",
+  "generated_at": "2026-05-19T10:35:14.820749+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 380,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 111,
+          "Done": 115,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 258
+          "Not started": 254
         },
         "by_feature": [
           {
@@ -128,12 +128,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 1,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 3
             }
           },
           {
@@ -1735,23 +1735,23 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 284,
-          "In progress": 7,
-          "Blocked": 19,
+          "Done": 292,
+          "In progress": 9,
+          "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 70
+          "Not started": 59
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 3,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 1
             }
           },
           {
@@ -1856,12 +1856,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 2,
-              "In progress": 1,
-              "Blocked": 0,
+              "Done": 7,
+              "In progress": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -2311,23 +2311,23 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 350,
+          "Done": 357,
           "In progress": 1,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 17
+          "Not started": 10
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -3175,12 +3175,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 344,
+          "Done": 361,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 24
+          "Not started": 7
         },
         "by_feature": [
           {
@@ -3395,12 +3395,12 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 53,
+              "Done": 57,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -3417,12 +3417,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 42,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 0
             }
           },
           {
@@ -4040,11 +4040,11 @@
         "code": "KO",
         "counts": {
           "Done": 115,
-          "In progress": 17,
+          "In progress": 29,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 244
+          "Not started": 232
         },
         "by_feature": [
           {
@@ -4227,11 +4227,11 @@
             "name": "Payments",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
@@ -4271,11 +4271,11 @@
             "name": "Sales",
             "counts": {
               "Done": 0,
-              "In progress": 3,
+              "In progress": 14,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 0
             }
           },
           {
@@ -5767,23 +5767,23 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 219,
+          "Done": 221,
           "In progress": 3,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 147
+          "Not started": 145
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 1,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -5888,8 +5888,8 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -7495,8 +7495,8 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 214,
-          "In progress": 8,
+          "Done": 215,
+          "In progress": 7,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
@@ -7616,8 +7616,8 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8072,11 +8072,11 @@
         "code": "fr-CA",
         "counts": {
           "Done": 21,
-          "In progress": 17,
+          "In progress": 19,
           "Blocked": 0,
-          "Post-launch": 3,
+          "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 339
+          "Not started": 336
         },
         "by_feature": [
           {
@@ -8138,11 +8138,11 @@
             "name": "Calendar",
             "counts": {
               "Done": 0,
-              "In progress": 17,
+              "In progress": 19,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8316,9 +8316,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 55
             }
           },
           {
@@ -8359,23 +8359,23 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 296,
+          "Done": 303,
           "In progress": 0,
-          "Blocked": 19,
+          "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 65
+          "Not started": 57
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -8482,10 +8482,10 @@
             "counts": {
               "Done": 7,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
