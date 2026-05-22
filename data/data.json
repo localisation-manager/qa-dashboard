@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T10:36:00.512917+00:00",
+  "generated_at": "2026-05-22T10:21:00.520286+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 384,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 124,
+          "Done": 129,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 249
+          "Not started": 244
         },
         "by_feature": [
           {
@@ -249,12 +249,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 41,
+              "Done": 46,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 9
             }
           },
           {
@@ -1159,12 +1159,12 @@
       {
         "code": "EL",
         "counts": {
-          "Done": 84,
+          "Done": 85,
           "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 291
+          "Not started": 290
         },
         "by_feature": [
           {
@@ -1214,12 +1214,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           },
           {
@@ -1735,8 +1735,8 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 295,
-          "In progress": 8,
+          "Done": 296,
+          "In progress": 7,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
@@ -1790,8 +1790,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 10,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4327,12 +4327,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 233,
-          "In progress": 2,
+          "Done": 241,
+          "In progress": 6,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 142
+          "Not started": 130
         },
         "by_feature": [
           {
@@ -4569,12 +4569,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 43,
-              "In progress": 0,
+              "Done": 51,
+              "In progress": 4,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 12
+              "Not started": 0
             }
           },
           {
@@ -5191,23 +5191,23 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 146,
-          "In progress": 3,
+          "Done": 166,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 229
+          "Not started": 210
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 6,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5433,12 +5433,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 37,
-              "In progress": 1,
+              "Done": 56,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 0
             }
           },
           {
@@ -5767,12 +5767,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 227,
+          "Done": 228,
           "In progress": 2,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 144
+          "Not started": 143
         },
         "by_feature": [
           {
@@ -5822,12 +5822,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 147,
+          "Done": 159,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 229
+          "Not started": 217
         },
         "by_feature": [
           {
@@ -7871,12 +7871,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 18,
+              "Done": 25,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 4
             }
           },
           {
@@ -7981,12 +7981,12 @@
           {
             "name": "Personal account",
             "counts": {
-              "Done": 0,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 2
             }
           },
           {
