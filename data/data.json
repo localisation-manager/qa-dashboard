@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-05-22T10:21:00.520286+00:00",
+  "generated_at": "2026-05-23T08:59:55.393520+00:00",
   "source": "notion",
   "partner": {
-    "total_scenarios": 384,
+    "total_scenarios": 382,
     "languages": [
       {
         "code": "AR",
         "counts": {
-          "Done": 129,
+          "Done": 136,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 244
+          "Not started": 235
         },
         "by_feature": [
           {
@@ -34,7 +34,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -111,7 +111,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -249,12 +249,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 46,
+              "Done": 53,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 2
             }
           },
           {
@@ -300,7 +300,7 @@
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 158
+          "Not started": 156
         },
         "by_feature": [
           {
@@ -322,7 +322,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -399,7 +399,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -588,7 +588,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 255
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -610,7 +610,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -687,7 +687,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -876,7 +876,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 221
+          "Not started": 219
         },
         "by_feature": [
           {
@@ -898,7 +898,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -975,7 +975,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -1164,7 +1164,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 290
+          "Not started": 288
         },
         "by_feature": [
           {
@@ -1186,7 +1186,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -1263,7 +1263,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -1452,7 +1452,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 383
+          "Not started": 381
         },
         "by_feature": [
           {
@@ -1474,7 +1474,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -1551,7 +1551,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 17
             }
           },
           {
@@ -1740,7 +1740,7 @@
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 61
+          "Not started": 59
         },
         "by_feature": [
           {
@@ -1762,7 +1762,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -1839,7 +1839,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -2028,7 +2028,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 315
+          "Not started": 313
         },
         "by_feature": [
           {
@@ -2050,7 +2050,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -2127,7 +2127,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -2316,7 +2316,7 @@
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 13
+          "Not started": 11
         },
         "by_feature": [
           {
@@ -2338,7 +2338,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -2415,7 +2415,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -2604,7 +2604,7 @@
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 215
+          "Not started": 213
         },
         "by_feature": [
           {
@@ -2626,7 +2626,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -2703,7 +2703,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -2892,7 +2892,7 @@
           "Blocked": 3,
           "Post-launch": 12,
           "Repeat": 0,
-          "Not started": 277
+          "Not started": 275
         },
         "by_feature": [
           {
@@ -2914,7 +2914,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -2991,7 +2991,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3180,7 +3180,7 @@
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 11
+          "Not started": 9
         },
         "by_feature": [
           {
@@ -3202,7 +3202,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3279,7 +3279,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3468,7 +3468,7 @@
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 20
+          "Not started": 18
         },
         "by_feature": [
           {
@@ -3490,7 +3490,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3567,7 +3567,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3756,7 +3756,7 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 25
+          "Not started": 23
         },
         "by_feature": [
           {
@@ -3778,7 +3778,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3855,7 +3855,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4040,11 +4040,11 @@
         "code": "KO",
         "counts": {
           "Done": 150,
-          "In progress": 2,
+          "In progress": 14,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 228
+          "Not started": 214
         },
         "by_feature": [
           {
@@ -4066,7 +4066,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4128,11 +4128,11 @@
             "name": "Client Loyalty",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 12,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 29
+              "Not started": 17
             }
           },
           {
@@ -4143,7 +4143,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4332,7 +4332,7 @@
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 130
+          "Not started": 128
         },
         "by_feature": [
           {
@@ -4354,7 +4354,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4431,7 +4431,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4620,7 +4620,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 310
+          "Not started": 308
         },
         "by_feature": [
           {
@@ -4642,7 +4642,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4719,7 +4719,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -4908,7 +4908,7 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 132
+          "Not started": 130
         },
         "by_feature": [
           {
@@ -4930,7 +4930,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5007,7 +5007,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5196,7 +5196,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 210
+          "Not started": 208
         },
         "by_feature": [
           {
@@ -5218,7 +5218,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5295,7 +5295,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -5484,7 +5484,7 @@
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 162
+          "Not started": 160
         },
         "by_feature": [
           {
@@ -5506,7 +5506,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5583,7 +5583,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -5772,7 +5772,7 @@
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 143
+          "Not started": 141
         },
         "by_feature": [
           {
@@ -5794,7 +5794,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5871,7 +5871,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6060,7 +6060,7 @@
           "Blocked": 4,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 201
+          "Not started": 199
         },
         "by_feature": [
           {
@@ -6082,7 +6082,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6159,7 +6159,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -6348,7 +6348,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 261
+          "Not started": 259
         },
         "by_feature": [
           {
@@ -6370,7 +6370,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6447,7 +6447,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 150,
+          "Done": 159,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 228
+          "Not started": 217
         },
         "by_feature": [
           {
@@ -6658,7 +6658,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6735,7 +6735,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -6807,12 +6807,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 1,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 0
             }
           },
           {
@@ -6924,7 +6924,7 @@
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 259
+          "Not started": 257
         },
         "by_feature": [
           {
@@ -6946,7 +6946,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7023,7 +7023,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7212,7 +7212,7 @@
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 245
+          "Not started": 243
         },
         "by_feature": [
           {
@@ -7234,7 +7234,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7311,7 +7311,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7500,7 +7500,7 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 153
+          "Not started": 151
         },
         "by_feature": [
           {
@@ -7522,7 +7522,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7599,7 +7599,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 159,
+          "Done": 175,
           "In progress": 1,
-          "Blocked": 5,
+          "Blocked": 6,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 217
+          "Not started": 198
         },
         "by_feature": [
           {
@@ -7810,7 +7810,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7887,7 +7887,7 @@
               "Blocked": 1,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7981,12 +7981,12 @@
           {
             "name": "Personal account",
             "counts": {
-              "Done": 5,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8036,12 +8036,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 0,
+              "Done": 14,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 0
             }
           },
           {
@@ -8076,7 +8076,7 @@
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 340
+          "Not started": 338
         },
         "by_feature": [
           {
@@ -8098,7 +8098,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8175,7 +8175,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8364,7 +8364,7 @@
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 61
+          "Not started": 59
         },
         "by_feature": [
           {
@@ -8386,7 +8386,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8463,7 +8463,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8652,7 +8652,7 @@
           "Blocked": 16,
           "Post-launch": 93,
           "Repeat": 0,
-          "Not started": 56
+          "Not started": 54
         },
         "by_feature": [
           {
@@ -8674,7 +8674,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8751,7 +8751,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
