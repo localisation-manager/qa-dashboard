@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T08:59:55.393520+00:00",
+  "generated_at": "2026-05-24T09:18:04.696252+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 382,
@@ -7495,12 +7495,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 215,
-          "In progress": 7,
+          "Done": 220,
+          "In progress": 6,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 151
+          "Not started": 147
         },
         "by_feature": [
           {
@@ -7528,8 +7528,8 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
-              "In progress": 5,
+              "Done": 4,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -7738,18 +7738,18 @@
             "name": "Settings",
             "counts": {
               "Done": 39,
-              "In progress": 0,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 13
             }
           },
           {
             "name": "Team",
             "counts": {
-              "Done": 7,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
