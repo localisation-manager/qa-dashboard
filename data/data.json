@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T11:06:32.233130+00:00",
+  "generated_at": "2026-05-27T10:52:46.188076+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 383,
@@ -3463,12 +3463,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 349,
+          "Done": 350,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 19
+          "Not started": 18
         },
         "by_feature": [
           {
@@ -3518,12 +3518,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 9,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 150,
-          "In progress": 30,
-          "Blocked": 0,
+          "Done": 193,
+          "In progress": 2,
+          "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 199
+          "Not started": 183
         },
         "by_feature": [
           {
@@ -4127,12 +4127,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 0,
-              "In progress": 28,
+              "Done": 29,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4160,12 +4160,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 0
             }
           },
           {
@@ -4237,12 +4237,12 @@
           {
             "name": "Personal account",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -6055,12 +6055,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 174,
-          "In progress": 2,
+          "Done": 176,
+          "In progress": 1,
           "Blocked": 4,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 200
+          "Not started": 199
         },
         "by_feature": [
           {
@@ -6121,8 +6121,8 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 17,
-              "In progress": 1,
+              "Done": 18,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -6297,12 +6297,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 37,
+              "Done": 38,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 17
             }
           },
           {
@@ -7495,8 +7495,8 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 224,
-          "In progress": 10,
+          "Done": 232,
+          "In progress": 2,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
@@ -7737,8 +7737,8 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 43,
-              "In progress": 8,
+              "Done": 51,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8072,11 +8072,11 @@
         "code": "fr-CA",
         "counts": {
           "Done": 40,
-          "In progress": 0,
+          "In progress": 5,
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 339
+          "Not started": 334
         },
         "by_feature": [
           {
@@ -8314,11 +8314,11 @@
             "name": "Settings",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 55
+              "Not started": 50
             }
           },
           {
@@ -8647,12 +8647,12 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 222,
+          "Done": 232,
           "In progress": 1,
           "Blocked": 16,
           "Post-launch": 93,
           "Repeat": 0,
-          "Not started": 51
+          "Not started": 41
         },
         "by_feature": [
           {
@@ -8889,12 +8889,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 42,
+              "Done": 52,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 3
             }
           },
           {
