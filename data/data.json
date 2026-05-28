@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-27T10:52:46.188076+00:00",
+  "generated_at": "2026-05-28T10:51:08.748158+00:00",
   "source": "notion",
   "partner": {
-    "total_scenarios": 383,
+    "total_scenarios": 382,
     "languages": [
       {
         "code": "AR",
@@ -12,7 +12,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 236
+          "Not started": 235
         },
         "by_feature": [
           {
@@ -232,7 +232,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 215,
+          "Done": 216,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 157
+          "Not started": 155
         },
         "by_feature": [
           {
@@ -350,12 +350,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 9
             }
           },
           {
@@ -520,7 +520,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -588,7 +588,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 254
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -808,7 +808,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -876,7 +876,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 207
+          "Not started": 206
         },
         "by_feature": [
           {
@@ -1096,7 +1096,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 48
+              "Not started": 47
             }
           },
           {
@@ -1164,7 +1164,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 289
+          "Not started": 288
         },
         "by_feature": [
           {
@@ -1384,7 +1384,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -1452,7 +1452,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 382
+          "Not started": 381
         },
         "by_feature": [
           {
@@ -1672,7 +1672,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -1740,7 +1740,7 @@
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 60
+          "Not started": 59
         },
         "by_feature": [
           {
@@ -1960,7 +1960,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 36
+              "Not started": 35
             }
           },
           {
@@ -2028,7 +2028,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 314
+          "Not started": 313
         },
         "by_feature": [
           {
@@ -2248,7 +2248,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -2311,12 +2311,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 357,
-          "In progress": 2,
+          "Done": 359,
+          "In progress": 1,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 12
+          "Not started": 10
         },
         "by_feature": [
           {
@@ -2366,12 +2366,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -2536,7 +2536,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -2604,7 +2604,7 @@
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 214
+          "Not started": 213
         },
         "by_feature": [
           {
@@ -2824,7 +2824,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -2887,12 +2887,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 92,
+          "Done": 93,
           "In progress": 0,
           "Blocked": 3,
           "Post-launch": 12,
           "Repeat": 0,
-          "Not started": 276
+          "Not started": 274
         },
         "by_feature": [
           {
@@ -2942,12 +2942,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 9
             }
           },
           {
@@ -3112,7 +3112,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -3180,7 +3180,7 @@
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 10
+          "Not started": 9
         },
         "by_feature": [
           {
@@ -3400,7 +3400,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3464,11 +3464,11 @@
         "code": "IT",
         "counts": {
           "Done": 350,
-          "In progress": 0,
+          "In progress": 1,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 18
+          "Not started": 16
         },
         "by_feature": [
           {
@@ -3519,11 +3519,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 10,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3688,7 +3688,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
@@ -3751,12 +3751,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 350,
+          "Done": 360,
           "In progress": 0,
-          "Blocked": 9,
+          "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 24
+          "Not started": 8
         },
         "by_feature": [
           {
@@ -3808,10 +3808,10 @@
             "counts": {
               "Done": 10,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3971,12 +3971,12 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 43,
+              "Done": 53,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 0
             }
           },
           {
@@ -4044,7 +4044,7 @@
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 183
+          "Not started": 182
         },
         "by_feature": [
           {
@@ -4264,7 +4264,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -4328,11 +4328,11 @@
         "code": "MS",
         "counts": {
           "Done": 241,
-          "In progress": 6,
+          "In progress": 7,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 129
+          "Not started": 127
         },
         "by_feature": [
           {
@@ -4383,11 +4383,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 6,
-              "In progress": 2,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -4552,7 +4552,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -4620,7 +4620,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 309
+          "Not started": 308
         },
         "by_feature": [
           {
@@ -4840,7 +4840,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -4908,7 +4908,7 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 131
+          "Not started": 130
         },
         "by_feature": [
           {
@@ -5128,7 +5128,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 166,
-          "In progress": 2,
+          "Done": 167,
+          "In progress": 1,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 209
+          "Not started": 208
         },
         "by_feature": [
           {
@@ -5246,8 +5246,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
-              "In progress": 1,
+              "Done": 9,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -5416,7 +5416,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -5484,7 +5484,7 @@
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 161
+          "Not started": 160
         },
         "by_feature": [
           {
@@ -5704,7 +5704,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -5772,7 +5772,7 @@
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 142
+          "Not started": 141
         },
         "by_feature": [
           {
@@ -5992,7 +5992,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 55
+              "Not started": 54
             }
           },
           {
@@ -6056,11 +6056,11 @@
         "code": "RO",
         "counts": {
           "Done": 176,
-          "In progress": 1,
+          "In progress": 2,
           "Blocked": 4,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 199
+          "Not started": 197
         },
         "by_feature": [
           {
@@ -6111,11 +6111,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
@@ -6280,7 +6280,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -6348,7 +6348,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 260
+          "Not started": 259
         },
         "by_feature": [
           {
@@ -6568,7 +6568,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -6636,7 +6636,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 218
+          "Not started": 217
         },
         "by_feature": [
           {
@@ -6856,7 +6856,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -6919,12 +6919,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 114,
+          "Done": 115,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 257
+          "Not started": 255
         },
         "by_feature": [
           {
@@ -7040,12 +7040,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -7144,7 +7144,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -7212,7 +7212,7 @@
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 244
+          "Not started": 243
         },
         "by_feature": [
           {
@@ -7432,7 +7432,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -7500,7 +7500,7 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 140
+          "Not started": 139
         },
         "by_feature": [
           {
@@ -7720,7 +7720,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 175,
-          "In progress": 1,
-          "Blocked": 6,
+          "Done": 181,
+          "In progress": 5,
+          "Blocked": 10,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 199
+          "Not started": 184
         },
         "by_feature": [
           {
@@ -7816,12 +7816,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 6,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 7
             }
           },
           {
@@ -8008,7 +8008,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -8049,10 +8049,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 4
             }
           },
           {
@@ -8076,7 +8076,7 @@
           "Blocked": 0,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 334
+          "Not started": 333
         },
         "by_feature": [
           {
@@ -8296,7 +8296,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 58
+              "Not started": 57
             }
           },
           {
@@ -8364,7 +8364,7 @@
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 60
+          "Not started": 59
         },
         "by_feature": [
           {
@@ -8584,7 +8584,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 57
+              "Not started": 56
             }
           },
           {
@@ -8650,9 +8650,9 @@
           "Done": 232,
           "In progress": 1,
           "Blocked": 16,
-          "Post-launch": 93,
+          "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 41
+          "Not started": 133
         },
         "by_feature": [
           {
@@ -8804,9 +8804,9 @@
               "Done": 2,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 37,
+              "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 38
             }
           },
           {
@@ -8870,9 +8870,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 56,
+              "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 57
             }
           },
           {
