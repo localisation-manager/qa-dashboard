@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:41:07.309540+00:00",
+  "generated_at": "2026-05-30T09:12:04.005479+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 383,
@@ -871,12 +871,12 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 167,
+          "Done": 168,
           "In progress": 3,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 207
+          "Not started": 206
         },
         "by_feature": [
           {
@@ -926,12 +926,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -2599,12 +2599,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 164,
+          "Done": 165,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 213
+          "Not started": 212
         },
         "by_feature": [
           {
@@ -2654,12 +2654,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 9
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 138,
+          "Done": 148,
           "In progress": 7,
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 232
+          "Not started": 222
         },
         "by_feature": [
           {
@@ -7471,12 +7471,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 4,
+              "Done": 14,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 1
             }
           },
           {
