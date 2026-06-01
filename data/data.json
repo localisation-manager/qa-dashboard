@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T09:45:39.500805+00:00",
+  "generated_at": "2026-06-01T12:31:51.183716+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 383,
@@ -584,11 +584,11 @@
         "code": "DA",
         "counts": {
           "Done": 122,
-          "In progress": 2,
+          "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 254
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -639,11 +639,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 8,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -1736,11 +1736,11 @@
         "code": "ES",
         "counts": {
           "Done": 296,
-          "In progress": 7,
+          "In progress": 8,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 60
+          "Not started": 59
         },
         "by_feature": [
           {
@@ -1791,11 +1791,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 10,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3175,12 +3175,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 361,
+          "Done": 362,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 10
+          "Not started": 9
         },
         "by_feature": [
           {
@@ -3230,12 +3230,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 9,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -4039,8 +4039,8 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 193,
-          "In progress": 3,
+          "Done": 194,
+          "In progress": 2,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
@@ -4149,8 +4149,8 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 1,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4903,12 +4903,12 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 243,
+          "Done": 244,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 131
+          "Not started": 130
         },
         "by_feature": [
           {
@@ -4958,12 +4958,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -7207,23 +7207,23 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 156,
+          "Done": 164,
           "In progress": 7,
           "Blocked": 9,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 206
+          "Not started": 198
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -7339,12 +7339,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 7
             }
           },
           {
@@ -8359,12 +8359,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 304,
+          "Done": 306,
           "In progress": 0,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 59
+          "Not started": 57
         },
         "by_feature": [
           {
@@ -8414,12 +8414,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 9,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
