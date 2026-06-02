@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T12:31:51.183716+00:00",
+  "generated_at": "2026-06-02T11:13:59.713840+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 383,
@@ -583,8 +583,8 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 122,
-          "In progress": 3,
+          "Done": 123,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
@@ -638,8 +638,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
-              "In progress": 1,
+              "Done": 9,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -2023,12 +2023,12 @@
       {
         "code": "FI",
         "counts": {
-          "Done": 68,
+          "Done": 69,
           "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 306
+          "Not started": 305
         },
         "by_feature": [
           {
@@ -2078,12 +2078,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -3464,22 +3464,22 @@
         "code": "IT",
         "counts": {
           "Done": 351,
-          "In progress": 0,
+          "In progress": 1,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 17
+          "Not started": 16
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -4615,12 +4615,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 68,
+          "Done": 69,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 309
+          "Not started": 308
         },
         "by_feature": [
           {
@@ -4670,12 +4670,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 7,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
@@ -6055,8 +6055,8 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 176,
-          "In progress": 2,
+          "Done": 177,
+          "In progress": 1,
           "Blocked": 4,
           "Post-launch": 3,
           "Repeat": 0,
@@ -6110,8 +6110,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 1,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
@@ -6343,12 +6343,12 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 117,
+          "Done": 118,
           "In progress": 1,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 259
+          "Not started": 258
         },
         "by_feature": [
           {
@@ -6398,12 +6398,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 8
             }
           },
           {
@@ -6919,12 +6919,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 116,
+          "Done": 117,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 255
+          "Not started": 254
         },
         "by_feature": [
           {
@@ -6974,12 +6974,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 164,
+          "Done": 170,
           "In progress": 7,
           "Blocked": 9,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 198
+          "Not started": 192
         },
         "by_feature": [
           {
@@ -7339,12 +7339,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 1,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 1
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 192,
+          "Done": 193,
           "In progress": 5,
-          "Blocked": 9,
-          "Post-launch": 2,
+          "Blocked": 10,
+          "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 175
+          "Not started": 172
         },
         "by_feature": [
           {
@@ -7874,9 +7874,9 @@
               "Done": 25,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
@@ -8058,12 +8058,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 2,
+              "Done": 3,
               "In progress": 0,
-              "Blocked": 4,
+              "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           }
         ]
@@ -8648,11 +8648,11 @@
         "code": "zh-HK",
         "counts": {
           "Done": 233,
-          "In progress": 1,
+          "In progress": 2,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 133
+          "Not started": 132
         },
         "by_feature": [
           {
@@ -8703,11 +8703,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 4,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -11683,23 +11683,23 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 47,
+          "Done": 26,
           "In progress": 0,
-          "Blocked": 3,
+          "Blocked": 2,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 31
+          "Not started": 53
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 9,
+              "Done": 1,
               "In progress": 0,
-              "Blocked": 2,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 18
             }
           },
           {
@@ -11716,12 +11716,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 14,
+              "Done": 1,
               "In progress": 0,
-              "Blocked": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 15
             }
           },
           {
@@ -11817,10 +11817,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -13582,23 +13582,23 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 44,
+          "Done": 39,
           "In progress": 0,
-          "Blocked": 17,
+          "Blocked": 3,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 22
+          "Not started": 41
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 7,
+              "Done": 5,
               "In progress": 0,
-              "Blocked": 8,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 14
             }
           },
           {
@@ -13615,12 +13615,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 10,
+              "Done": 7,
               "In progress": 0,
-              "Blocked": 6,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 9
             }
           },
           {
@@ -13782,10 +13782,10 @@
             "counts": {
               "Done": 2,
               "In progress": 0,
-              "Blocked": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           }
         ]
