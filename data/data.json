@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T11:13:59.713840+00:00",
+  "generated_at": "2026-06-03T11:51:48.468324+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 383,
@@ -8,11 +8,11 @@
         "code": "AR",
         "counts": {
           "Done": 137,
-          "In progress": 4,
+          "In progress": 5,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 235
+          "Not started": 234
         },
         "by_feature": [
           {
@@ -63,11 +63,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 4,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -3463,8 +3463,8 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 351,
-          "In progress": 1,
+          "Done": 352,
+          "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
@@ -3474,8 +3474,8 @@
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 1,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -5767,12 +5767,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 228,
+          "Done": 229,
           "In progress": 2,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 142
+          "Not started": 141
         },
         "by_feature": [
           {
@@ -5822,12 +5822,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 9,
+              "Done": 10,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 170,
-          "In progress": 7,
-          "Blocked": 9,
+          "Done": 173,
+          "In progress": 5,
+          "Blocked": 10,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 192
+          "Not started": 190
         },
         "by_feature": [
           {
@@ -7240,12 +7240,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 8,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7339,12 +7339,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7449,9 +7449,9 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 10,
-              "In progress": 2,
-              "Blocked": 1,
+              "Done": 11,
+              "In progress": 0,
+              "Blocked": 2,
               "Post-launch": 1,
               "Repeat": 0,
               "Not started": 0
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 193,
-          "In progress": 5,
+          "Done": 200,
+          "In progress": 2,
           "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 172
+          "Not started": 168
         },
         "by_feature": [
           {
@@ -7816,8 +7816,8 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 6,
-              "In progress": 4,
+              "Done": 9,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -7827,12 +7827,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 12
             }
           },
           {
@@ -13582,12 +13582,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 39,
+          "Done": 41,
           "In progress": 0,
           "Blocked": 3,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 41
+          "Not started": 39
         },
         "by_feature": [
           {
@@ -13615,12 +13615,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 7,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 7
             }
           },
           {
@@ -14217,10 +14217,10 @@
         "counts": {
           "Done": 0,
           "In progress": 0,
-          "Blocked": 0,
-          "Post-launch": 1,
+          "Blocked": 1,
+          "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 82
+          "Not started": 80
         },
         "by_feature": [
           {
@@ -14228,10 +14228,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 19
             }
           },
           {
@@ -14416,9 +14416,9 @@
               "Done": 0,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 1,
+              "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           }
         ]
