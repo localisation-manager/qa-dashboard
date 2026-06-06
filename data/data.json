@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T10:43:03.458752+00:00",
+  "generated_at": "2026-06-06T09:21:34.319919+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 385,
@@ -7,8 +7,8 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 137,
-          "In progress": 5,
+          "Done": 138,
+          "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
@@ -62,8 +62,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 4,
-              "In progress": 1,
+              "Done": 5,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4327,23 +4327,23 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 247,
+          "Done": 254,
           "In progress": 1,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 130
+          "Not started": 123
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -8072,11 +8072,11 @@
         "code": "fr-CA",
         "counts": {
           "Done": 95,
-          "In progress": 1,
+          "In progress": 5,
           "Blocked": 0,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 284
+          "Not started": 280
         },
         "by_feature": [
           {
@@ -8259,11 +8259,11 @@
             "name": "Online booking",
             "counts": {
               "Done": 1,
-              "In progress": 1,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 4
             }
           },
           {
@@ -8647,8 +8647,8 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 233,
-          "In progress": 2,
+          "Done": 234,
+          "In progress": 1,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 0,
@@ -8702,8 +8702,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 4,
-              "In progress": 1,
+              "Done": 5,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
