@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T09:21:34.319919+00:00",
+  "generated_at": "2026-06-07T09:57:01.111218+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 385,
@@ -3175,23 +3175,23 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 362,
+          "Done": 369,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 11
+          "Not started": 4
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
