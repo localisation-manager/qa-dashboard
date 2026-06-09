@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T11:52:22.291293+00:00",
+  "generated_at": "2026-06-09T10:31:09.127611+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 230,
+          "Done": 233,
           "In progress": 2,
           "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 141
+          "Not started": 138
         },
         "by_feature": [
           {
@@ -7948,12 +7948,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 39
             }
           },
           {
@@ -8047,12 +8047,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 14,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -14426,12 +14426,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 0,
+          "Done": 1,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 76
+          "Not started": 75
         },
         "by_feature": [
           {
@@ -14514,12 +14514,12 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
