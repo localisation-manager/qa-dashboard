@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T10:52:23.436568+00:00",
+  "generated_at": "2026-06-11T11:19:36.251996+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -7,34 +7,34 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 138,
+          "Done": 141,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 237
+          "Not started": 234
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -56,7 +56,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -177,7 +177,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -344,7 +344,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -465,7 +465,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -632,7 +632,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -753,7 +753,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
@@ -871,12 +871,12 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 168,
-          "In progress": 3,
+          "Done": 175,
+          "In progress": 7,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 209
+          "Not started": 198
         },
         "by_feature": [
           {
@@ -920,7 +920,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -1041,7 +1041,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
@@ -1135,12 +1135,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 5,
-              "In progress": 0,
+              "Done": 12,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 0
             }
           },
           {
@@ -1208,7 +1208,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -1329,7 +1329,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -1496,7 +1496,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -1617,7 +1617,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -1779,7 +1779,7 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 16,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -1900,7 +1900,7 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 39,
+              "Done": 37,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -2072,7 +2072,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -2193,7 +2193,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -2355,7 +2355,7 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 16,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -2476,7 +2476,7 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 40,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -2648,7 +2648,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -2769,7 +2769,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -2936,7 +2936,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -3057,7 +3057,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -3219,7 +3219,7 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 16,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -3340,7 +3340,7 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 40,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -3507,7 +3507,7 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 16,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -3628,7 +3628,7 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 40,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -3751,23 +3751,23 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 363,
+          "Done": 371,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 8
+          "Not started": 0
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -3795,7 +3795,7 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 16,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -3916,7 +3916,7 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 39,
+              "Done": 37,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -3927,12 +3927,12 @@
           {
             "name": "Mobile",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4039,34 +4039,34 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 194,
-          "In progress": 2,
+          "Done": 195,
+          "In progress": 11,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 185
+          "Not started": 175
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 7,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
-              "In progress": 0,
+              "Done": 7,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -4084,11 +4084,11 @@
             "name": "Automations",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 17
             }
           },
           {
@@ -4209,7 +4209,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -4327,8 +4327,8 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 255,
-          "In progress": 1,
+          "Done": 256,
+          "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
@@ -4376,14 +4376,14 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 10,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4497,7 +4497,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
@@ -4664,7 +4664,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -4785,7 +4785,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -4952,7 +4952,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 17
             }
           },
           {
@@ -5073,7 +5073,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 34
+              "Not started": 32
             }
           },
           {
@@ -5240,7 +5240,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -5361,7 +5361,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
@@ -5528,7 +5528,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -5649,7 +5649,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -5816,7 +5816,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 17
             }
           },
           {
@@ -5937,7 +5937,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -6104,7 +6104,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -6225,7 +6225,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -6392,7 +6392,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -6513,7 +6513,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
@@ -6680,7 +6680,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -6801,7 +6801,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
@@ -6968,7 +6968,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -7089,7 +7089,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 173,
+          "Done": 176,
           "In progress": 5,
-          "Blocked": 10,
+          "Blocked": 15,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 193
+          "Not started": 185
         },
         "by_feature": [
           {
@@ -7229,12 +7229,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -7256,7 +7256,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -7317,12 +7317,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7377,7 +7377,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -7484,10 +7484,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 3
             }
           }
         ]
@@ -7539,12 +7539,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 16
             }
           },
           {
@@ -7660,12 +7660,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 13,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 26
+              "Not started": 25
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 233,
-          "In progress": 2,
-          "Blocked": 10,
+          "Done": 258,
+          "In progress": 6,
+          "Blocked": 11,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 138
+          "Not started": 108
         },
         "by_feature": [
           {
@@ -7832,7 +7832,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 2
             }
           },
           {
@@ -7948,12 +7948,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 1,
-              "In progress": 0,
-              "Blocked": 0,
+              "Done": 25,
+              "In progress": 5,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 39
+              "Not started": 7
             }
           },
           {
@@ -7970,8 +7970,8 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 10,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8072,11 +8072,11 @@
         "code": "fr-CA",
         "counts": {
           "Done": 104,
-          "In progress": 0,
+          "In progress": 4,
           "Blocked": 0,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 277
+          "Not started": 273
         },
         "by_feature": [
           {
@@ -8120,7 +8120,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -8149,11 +8149,11 @@
             "name": "Catalog",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 9
             }
           },
           {
@@ -8241,7 +8241,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 38
             }
           },
           {
@@ -8403,7 +8403,7 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 16,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8524,7 +8524,7 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 39,
+              "Done": 37,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -8696,7 +8696,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 18
             }
           },
           {
@@ -8817,7 +8817,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 36
             }
           },
           {
