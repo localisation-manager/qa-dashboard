@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T11:19:36.251996+00:00",
+  "generated_at": "2026-06-12T10:57:49.186978+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -4039,19 +4039,19 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 195,
-          "In progress": 11,
+          "Done": 224,
+          "In progress": 2,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 175
+          "Not started": 155
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 7,
+              "Done": 7,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4061,8 +4061,8 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 7,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4083,12 +4083,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 18,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 0
             }
           },
           {
@@ -4182,12 +4182,12 @@
           {
             "name": "Help and support",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 258,
-          "In progress": 6,
-          "Blocked": 11,
+          "Done": 271,
+          "In progress": 2,
+          "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 108
+          "Not started": 100
         },
         "by_feature": [
           {
@@ -7827,12 +7827,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 16,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -7948,12 +7948,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 25,
-              "In progress": 5,
-              "Blocked": 1,
+              "Done": 37,
+              "In progress": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 104,
-          "In progress": 4,
+          "Done": 117,
+          "In progress": 0,
           "Blocked": 0,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 273
+          "Not started": 264
         },
         "by_feature": [
           {
@@ -8148,12 +8148,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 0,
-              "In progress": 4,
+              "Done": 13,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 0
             }
           },
           {
