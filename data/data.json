@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T13:09:17.668553+00:00",
+  "generated_at": "2026-06-16T12:08:00.008117+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -7207,12 +7207,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 176,
+          "Done": 180,
           "In progress": 5,
           "Blocked": 15,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 185
+          "Not started": 181
         },
         "by_feature": [
           {
@@ -7460,12 +7460,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 5,
+              "Done": 9,
               "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 47
+              "Not started": 43
             }
           },
           {
@@ -8072,11 +8072,11 @@
         "code": "fr-CA",
         "counts": {
           "Done": 117,
-          "In progress": 3,
+          "In progress": 4,
           "Blocked": 0,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 261
+          "Not started": 260
         },
         "by_feature": [
           {
@@ -8182,11 +8182,11 @@
             "name": "Customer notifications",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
