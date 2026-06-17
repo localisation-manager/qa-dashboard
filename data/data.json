@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:08:00.008117+00:00",
+  "generated_at": "2026-06-17T11:42:59.154760+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -7207,12 +7207,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 180,
-          "In progress": 5,
+          "Done": 189,
+          "In progress": 4,
           "Blocked": 15,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 181
+          "Not started": 173
         },
         "by_feature": [
           {
@@ -7460,12 +7460,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 9,
-              "In progress": 4,
+              "Done": 18,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 43
+              "Not started": 35
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 271,
-          "In progress": 2,
+          "Done": 273,
+          "In progress": 1,
           "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 100
+          "Not started": 99
         },
         "by_feature": [
           {
@@ -7816,12 +7816,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 15,
-              "In progress": 1,
+              "Done": 17,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7948,8 +7948,8 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 37,
-              "In progress": 1,
+              "Done": 38,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8047,8 +8047,8 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 16,
-              "In progress": 0,
+              "Done": 15,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
