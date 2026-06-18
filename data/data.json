@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T11:42:59.154760+00:00",
+  "generated_at": "2026-06-18T11:06:03.277756+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -1159,12 +1159,12 @@
       {
         "code": "EL",
         "counts": {
-          "Done": 86,
+          "Done": 87,
           "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 291
+          "Not started": 290
         },
         "by_feature": [
           {
@@ -1214,12 +1214,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
@@ -2311,12 +2311,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 369,
+          "Done": 370,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 4
+          "Not started": 3
         },
         "by_feature": [
           {
@@ -2575,12 +2575,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3463,23 +3463,23 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 354,
-          "In progress": 0,
+          "Done": 360,
+          "In progress": 1,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 17
+          "Not started": 10
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 3,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -3716,23 +3716,23 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 48,
-              "In progress": 0,
+              "Done": 49,
+              "In progress": 1,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 4
             }
           },
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -10417,22 +10417,22 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 57,
+          "Done": 72,
           "In progress": 0,
-          "Blocked": 5,
+          "Blocked": 7,
           "Post-launch": 0,
-          "Repeat": 14,
-          "Not started": 7
+          "Repeat": 0,
+          "Not started": 4
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 15,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 4,
+              "Repeat": 0,
               "Not started": 1
             }
           },
@@ -10450,11 +10450,11 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 10,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 6,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -10516,11 +10516,11 @@
           {
             "name": "Mobile",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 1,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -10604,12 +10604,12 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 3,
-              "Not started": 1
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -10617,10 +10617,10 @@
             "counts": {
               "Done": 4,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           }
         ]
