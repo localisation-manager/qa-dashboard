@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T11:06:03.277756+00:00",
+  "generated_at": "2026-06-19T11:16:38.270468+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -1735,12 +1735,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 303,
-          "In progress": 10,
+          "Done": 317,
+          "In progress": 6,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 53
+          "Not started": 43
         },
         "by_feature": [
           {
@@ -1757,12 +1757,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -1988,12 +1988,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 43,
-              "In progress": 4,
+              "Done": 55,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 1
             }
           },
           {
@@ -2313,10 +2313,10 @@
         "counts": {
           "Done": 370,
           "In progress": 0,
-          "Blocked": 13,
+          "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 3
+          "Not started": 2
         },
         "by_feature": [
           {
@@ -2335,10 +2335,10 @@
             "counts": {
               "Done": 6,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -3463,12 +3463,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 360,
+          "Done": 363,
           "In progress": 1,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 10
+          "Not started": 7
         },
         "by_feature": [
           {
@@ -3485,12 +3485,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -3573,12 +3573,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 167,
+          "Done": 171,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 0,
-          "Repeat": 1,
-          "Not started": 212
+          "Repeat": 0,
+          "Not started": 209
         },
         "by_feature": [
           {
@@ -5257,12 +5257,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 15,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 3
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 273,
-          "In progress": 1,
+          "Done": 276,
+          "In progress": 0,
           "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 99
+          "Not started": 97
         },
         "by_feature": [
           {
@@ -7893,12 +7893,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8047,8 +8047,8 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
-              "In progress": 1,
+              "Done": 16,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
