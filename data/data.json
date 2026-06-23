@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T12:45:05.035341+00:00",
+  "generated_at": "2026-06-23T10:32:22.985330+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 252,
+          "Done": 253,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 123
+          "Not started": 122
         },
         "by_feature": [
           {
@@ -405,12 +405,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -871,12 +871,12 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 175,
-          "In progress": 7,
+          "Done": 193,
+          "In progress": 15,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 198
+          "Not started": 172
         },
         "by_feature": [
           {
@@ -905,11 +905,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 8,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 9
             }
           },
           {
@@ -1124,12 +1124,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 38,
+              "Done": 56,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 0
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "FI",
         "counts": {
-          "Done": 69,
-          "In progress": 3,
+          "Done": 75,
+          "In progress": 1,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 308
+          "Not started": 304
         },
         "by_feature": [
           {
@@ -2089,12 +2089,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 9,
-              "In progress": 2,
+              "Done": 15,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 7
+              "Not started": 3
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 224,
+          "Done": 225,
           "In progress": 2,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 155
+          "Not started": 154
         },
         "by_feature": [
           {
@@ -4149,12 +4149,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4903,23 +4903,23 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 244,
+          "Done": 261,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 133
+          "Not started": 116
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -4969,34 +4969,34 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
             "name": "Catalog",
             "counts": {
-              "Done": 11,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 27,
+              "Done": 28,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5090,12 +5090,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 8,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -5156,12 +5156,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 51,
+              "Done": 56,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 198,
-          "In progress": 1,
+          "Done": 211,
+          "In progress": 4,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 182
+          "Not started": 166
         },
         "by_feature": [
           {
@@ -5268,23 +5268,23 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 11,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 27,
+              "Done": 28,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -5378,12 +5378,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 8,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -5433,12 +5433,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 1,
-              "In progress": 0,
+              "Done": 9,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 2
             }
           },
           {
@@ -7495,8 +7495,8 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 246,
-          "In progress": 9,
+          "Done": 253,
+          "In progress": 2,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
@@ -7506,8 +7506,8 @@
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 7,
+              "Done": 7,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 284,
-          "In progress": 2,
+          "Done": 288,
+          "In progress": 1,
           "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 84
         },
         "by_feature": [
           {
@@ -7981,8 +7981,8 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 7,
-              "In progress": 2,
+              "Done": 9,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8025,12 +8025,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 2,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 11
             }
           },
           {
@@ -8647,12 +8647,12 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 237,
+          "Done": 242,
           "In progress": 1,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 132
+          "Not started": 127
         },
         "by_feature": [
           {
@@ -8834,12 +8834,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 8,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8900,12 +8900,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 52,
+              "Done": 55,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
