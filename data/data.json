@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T10:32:22.985330+00:00",
+  "generated_at": "2026-06-24T10:17:23.355974+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 253,
+          "Done": 254,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 122
+          "Not started": 121
         },
         "by_feature": [
           {
@@ -559,12 +559,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -872,22 +872,22 @@
         "code": "DE",
         "counts": {
           "Done": 193,
-          "In progress": 15,
+          "In progress": 16,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 172
+          "Not started": 171
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -5767,12 +5767,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 230,
+          "Done": 242,
           "In progress": 2,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 143
+          "Not started": 131
         },
         "by_feature": [
           {
@@ -6020,12 +6020,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 37,
+              "Done": 49,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 7
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 288,
+          "Done": 299,
           "In progress": 1,
           "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 84
+          "Not started": 73
         },
         "by_feature": [
           {
@@ -8025,12 +8025,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 2,
+              "Done": 13,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 0
             }
           },
           {
