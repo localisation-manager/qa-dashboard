@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T10:17:23.355974+00:00",
+  "generated_at": "2026-06-25T10:12:56.011136+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 254,
+          "Done": 269,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 121
+          "Not started": 106
         },
         "by_feature": [
           {
@@ -460,12 +460,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 0,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 23
             }
           },
           {
@@ -4040,11 +4040,11 @@
         "code": "KO",
         "counts": {
           "Done": 225,
-          "In progress": 2,
+          "In progress": 4,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 154
+          "Not started": 152
         },
         "by_feature": [
           {
@@ -4304,11 +4304,11 @@
             "name": "Team",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 14
             }
           },
           {
@@ -5480,22 +5480,22 @@
         "code": "PT",
         "counts": {
           "Done": 208,
-          "In progress": 3,
+          "In progress": 10,
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 163
+          "Not started": 156
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 7,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
