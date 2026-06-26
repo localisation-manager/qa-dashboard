@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T10:12:56.011136+00:00",
+  "generated_at": "2026-06-26T10:19:02.307760+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 269,
+          "Done": 292,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 106
+          "Not started": 83
         },
         "by_feature": [
           {
@@ -460,12 +460,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 15,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 23
+              "Not started": 0
             }
           },
           {
@@ -2887,23 +2887,23 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 94,
+          "Done": 109,
           "In progress": 0,
           "Blocked": 3,
           "Post-launch": 12,
           "Repeat": 0,
-          "Not started": 277
+          "Not started": 262
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -3019,12 +3019,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 0,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 0
             }
           },
           {
@@ -4040,11 +4040,11 @@
         "code": "KO",
         "counts": {
           "Done": 225,
-          "In progress": 4,
+          "In progress": 21,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 152
+          "Not started": 135
         },
         "by_feature": [
           {
@@ -4073,11 +4073,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 7,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 10
             }
           },
           {
@@ -4304,11 +4304,11 @@
             "name": "Team",
             "counts": {
               "Done": 0,
-              "In progress": 2,
+              "In progress": 12,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 4
             }
           },
           {
@@ -7783,8 +7783,8 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 299,
-          "In progress": 1,
+          "Done": 300,
+          "In progress": 0,
           "Blocked": 10,
           "Post-launch": 3,
           "Repeat": 0,
@@ -8025,8 +8025,8 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 13,
-              "In progress": 1,
+              "Done": 14,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
