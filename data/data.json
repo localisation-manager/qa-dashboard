@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:19:02.307760+00:00",
+  "generated_at": "2026-06-27T09:25:56.530545+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -8,11 +8,11 @@
         "code": "AR",
         "counts": {
           "Done": 141,
-          "In progress": 4,
+          "In progress": 5,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 234
+          "Not started": 233
         },
         "by_feature": [
           {
@@ -195,7 +195,7 @@
             "name": "Online booking",
             "counts": {
               "Done": 7,
-              "In progress": 1,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -265,7 +265,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -295,23 +295,23 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 292,
+          "Done": 300,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 83
+          "Not started": 75
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 0
             }
           },
           {
@@ -427,12 +427,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -482,7 +482,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -548,7 +548,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -770,7 +770,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -836,7 +836,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 43,
+              "Done": 42,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -1058,7 +1058,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -1124,7 +1124,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -1351,7 +1351,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 11
             }
           },
           {
@@ -1417,7 +1417,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 44
+              "Not started": 43
             }
           },
           {
@@ -1639,7 +1639,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 11
             }
           },
           {
@@ -1705,7 +1705,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 55
             }
           },
           {
@@ -1922,7 +1922,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -1988,7 +1988,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -2215,7 +2215,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 9
             }
           },
           {
@@ -2281,7 +2281,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 55
             }
           },
           {
@@ -2498,7 +2498,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -2564,7 +2564,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -2599,23 +2599,23 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 166,
+          "Done": 167,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 214
+          "Not started": 213
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -2786,7 +2786,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -2852,7 +2852,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 50,
+              "Done": 49,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
@@ -3076,7 +3076,7 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 10
@@ -3142,7 +3142,7 @@
             "counts": {
               "Done": 41,
               "In progress": 0,
-              "Blocked": 2,
+              "Blocked": 1,
               "Post-launch": 8,
               "Repeat": 0,
               "Not started": 5
@@ -3362,7 +3362,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -3428,7 +3428,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -3650,7 +3650,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -3716,7 +3716,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
@@ -3938,7 +3938,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -4004,7 +4004,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -4039,12 +4039,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 225,
-          "In progress": 21,
+          "Done": 251,
+          "In progress": 3,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 135
+          "Not started": 127
         },
         "by_feature": [
           {
@@ -4072,12 +4072,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
-              "In progress": 7,
+              "Done": 10,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 6
             }
           },
           {
@@ -4226,7 +4226,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -4292,7 +4292,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 51,
+              "Done": 50,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -4303,12 +4303,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 0,
-              "In progress": 12,
+              "Done": 16,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -4514,7 +4514,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -4580,7 +4580,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -4807,7 +4807,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 11
             }
           },
           {
@@ -4873,7 +4873,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 55
             }
           },
           {
@@ -5090,7 +5090,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -5156,7 +5156,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -5378,7 +5378,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -5444,7 +5444,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -5666,7 +5666,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -5732,7 +5732,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 36,
+              "Done": 35,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 1,
@@ -5954,7 +5954,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6020,7 +6020,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 49,
+              "Done": 48,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6242,7 +6242,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6308,7 +6308,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -6530,7 +6530,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6596,7 +6596,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 50,
+              "Done": 49,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -6818,7 +6818,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6884,7 +6884,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -7106,7 +7106,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 6,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -7172,7 +7172,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 43,
+              "Done": 42,
               "In progress": 0,
               "Blocked": 6,
               "Post-launch": 0,
@@ -7394,7 +7394,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -7460,7 +7460,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 18,
+              "Done": 17,
               "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
@@ -7682,7 +7682,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -7748,7 +7748,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -7970,7 +7970,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8036,7 +8036,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -8071,12 +8071,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 117,
-          "In progress": 4,
-          "Blocked": 0,
+          "Done": 125,
+          "In progress": 12,
+          "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 260
+          "Not started": 243
         },
         "by_feature": [
           {
@@ -8258,7 +8258,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8269,12 +8269,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 4
             }
           },
           {
@@ -8291,12 +8291,12 @@
           {
             "name": "Products & Inventory",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 4,
+              "In progress": 8,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 12
+              "Not started": 0
             }
           },
           {
@@ -8324,7 +8324,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
@@ -8546,7 +8546,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8612,7 +8612,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
@@ -8834,7 +8834,7 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8900,7 +8900,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 54,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
