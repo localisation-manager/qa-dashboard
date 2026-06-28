@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T09:25:56.530545+00:00",
+  "generated_at": "2026-06-28T09:54:59.975778+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -2599,23 +2599,23 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 167,
+          "Done": 171,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 213
+          "Not started": 209
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 1,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 3
             }
           },
           {
@@ -2643,12 +2643,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 17
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 125,
+          "Done": 134,
           "In progress": 12,
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 243
+          "Not started": 234
         },
         "by_feature": [
           {
@@ -8269,12 +8269,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 4,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 2
             }
           },
           {
@@ -8291,8 +8291,8 @@
           {
             "name": "Products & Inventory",
             "counts": {
-              "Done": 4,
-              "In progress": 8,
+              "Done": 11,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8314,11 +8314,11 @@
             "name": "Sales",
             "counts": {
               "Done": 0,
-              "In progress": 3,
+              "In progress": 10,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 4
             }
           },
           {
