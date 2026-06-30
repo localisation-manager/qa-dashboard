@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T11:54:19.602355+00:00",
+  "generated_at": "2026-06-30T10:28:35.157516+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -7,8 +7,8 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 141,
-          "In progress": 5,
+          "Done": 142,
+          "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
@@ -260,8 +260,8 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
-              "In progress": 1,
+              "Done": 54,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -2599,23 +2599,23 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 171,
+          "Done": 175,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 209
+          "Not started": 205
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 4,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -2643,12 +2643,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 16
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 136,
-          "In progress": 16,
+          "Done": 138,
+          "In progress": 15,
           "Blocked": 0,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 229
+          "Not started": 228
         },
         "by_feature": [
           {
@@ -8269,12 +8269,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8291,8 +8291,8 @@
           {
             "name": "Products & Inventory",
             "counts": {
-              "Done": 11,
-              "In progress": 1,
+              "Done": 12,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
