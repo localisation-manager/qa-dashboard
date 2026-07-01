@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T10:28:35.157516+00:00",
+  "generated_at": "2026-07-01T10:38:51.715236+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 386,
@@ -1159,8 +1159,8 @@
       {
         "code": "EL",
         "counts": {
-          "Done": 87,
-          "In progress": 3,
+          "Done": 88,
+          "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
@@ -1214,8 +1214,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 6,
-              "In progress": 3,
+              "Done": 7,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -2599,12 +2599,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 175,
-          "In progress": 0,
+          "Done": 180,
+          "In progress": 3,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 205
+          "Not started": 197
         },
         "by_feature": [
           {
@@ -2643,12 +2643,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 2,
-              "In progress": 0,
+              "Done": 7,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 8
             }
           },
           {
@@ -6344,11 +6344,11 @@
         "code": "RU",
         "counts": {
           "Done": 124,
-          "In progress": 1,
+          "In progress": 2,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 254
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -6476,11 +6476,11 @@
             "name": "Fresha Connect",
             "counts": {
               "Done": 1,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
