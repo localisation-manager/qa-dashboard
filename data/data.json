@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T09:52:26.204126+00:00",
+  "generated_at": "2026-07-04T09:18:09.136834+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -583,12 +583,12 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 122,
+          "Done": 145,
           "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
-          "Repeat": 1,
-          "Not started": 277
+          "Repeat": 0,
+          "Not started": 255
         },
         "by_feature": [
           {
@@ -660,12 +660,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 11,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 22
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -871,12 +871,12 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 192,
+          "Done": 214,
           "In progress": 16,
           "Blocked": 6,
           "Post-launch": 0,
-          "Repeat": 1,
-          "Not started": 192
+          "Repeat": 0,
+          "Not started": 171
         },
         "by_feature": [
           {
@@ -948,12 +948,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 12,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 21
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -1735,12 +1735,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 322,
-          "In progress": 11,
+          "Done": 339,
+          "In progress": 8,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 53
+          "Not started": 39
         },
         "by_feature": [
           {
@@ -1812,12 +1812,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 12,
-              "In progress": 4,
+              "Done": 29,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 17
+              "Not started": 3
             }
           },
           {
@@ -2311,12 +2311,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 369,
+          "Done": 391,
           "In progress": 0,
           "Blocked": 14,
           "Post-launch": 0,
-          "Repeat": 2,
-          "Not started": 22
+          "Repeat": 1,
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -2388,12 +2388,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 12,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 21
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -4615,12 +4615,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 78,
+          "Done": 94,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 322
+          "Not started": 306
         },
         "by_feature": [
           {
@@ -4692,12 +4692,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 17,
+              "Done": 33,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 16
+              "Not started": 0
             }
           },
           {
@@ -4903,12 +4903,12 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 263,
+          "Done": 282,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 135
+          "Not started": 116
         },
         "by_feature": [
           {
@@ -4980,12 +4980,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 14,
+              "Done": 33,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 0
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 211,
-          "In progress": 5,
+          "Done": 213,
+          "In progress": 4,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 186
+          "Not started": 185
         },
         "by_feature": [
           {
@@ -5268,12 +5268,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 13,
-              "In progress": 1,
+              "Done": 15,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 19
             }
           },
           {
@@ -6055,12 +6055,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 197,
-          "In progress": 3,
+          "Done": 198,
+          "In progress": 24,
           "Blocked": 5,
           "Post-launch": 3,
-          "Repeat": 1,
-          "Not started": 198
+          "Repeat": 0,
+          "Not started": 177
         },
         "by_feature": [
           {
@@ -6132,12 +6132,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 11,
-              "In progress": 1,
+              "Done": 12,
+              "In progress": 22,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 21
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -6344,11 +6344,11 @@
         "code": "RU",
         "counts": {
           "Done": 123,
-          "In progress": 6,
+          "In progress": 8,
           "Blocked": 7,
           "Post-launch": 0,
-          "Repeat": 1,
-          "Not started": 270
+          "Repeat": 0,
+          "Not started": 269
         },
         "by_feature": [
           {
@@ -6421,11 +6421,11 @@
             "name": "Catalog",
             "counts": {
               "Done": 12,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 21
+              "Repeat": 0,
+              "Not started": 20
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 176,
+          "Done": 200,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
-          "Repeat": 1,
-          "Not started": 224
+          "Repeat": 0,
+          "Not started": 201
         },
         "by_feature": [
           {
@@ -6708,12 +6708,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 10,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 23
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 252,
+          "Done": 269,
           "In progress": 2,
           "Blocked": 9,
           "Post-launch": 0,
-          "Repeat": 1,
-          "Not started": 143
+          "Repeat": 0,
+          "Not started": 127
         },
         "by_feature": [
           {
@@ -7572,12 +7572,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 12,
+              "Done": 29,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 21
+              "Repeat": 0,
+              "Not started": 5
             }
           },
           {
@@ -8647,12 +8647,12 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 241,
+          "Done": 262,
           "In progress": 1,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 148
+          "Not started": 127
         },
         "by_feature": [
           {
@@ -8724,12 +8724,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 12,
+              "Done": 33,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 21
+              "Not started": 0
             }
           },
           {
