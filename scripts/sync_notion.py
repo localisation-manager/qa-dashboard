@@ -4,7 +4,11 @@ Sync L10N QA testing scenario statuses from Notion to data/data.json.
 
 Reads:
   - NOTION_TOKEN env var (Notion internal integration token, 'ntn_...')
-  - Hardcoded database IDs for Fresha Partner and Marketplace
+  - Database IDs for Fresha Partner and Marketplace
+
+Language columns are auto-discovered from the Notion database schema:
+every `status`-type property is treated as a language column unless it
+appears in EXCLUDED_STATUS_PROPS.
 
 Writes:
   - data/data.json  (aggregated counts per language per platform)
@@ -37,20 +41,11 @@ NOTION_VERSION = "2022-06-28"
 PARTNER_DB_ID = "a4ba8c62-6fbe-4311-949f-4f89ce4a8cd6"
 MARKETPLACE_DB_ID = "031f5fda-b918-41ec-8ba2-9d31e185f22e"
 
-# Language columns (these are `status` properties in Notion)
-PARTNER_LANGS = [
-    "AR", "BG", "DA", "DE", "EL", "EN-US", "ES", "FI", "FR", "HR", "HU",
-    "ID ",  # trailing space matches the real Notion property name
-    "IT", "JA", "KO", "MS", "NB", "NL", "PL", "PT", "PT-BR", "RO", "RU",
-    "SV", "TH", "TR", "VI", "es-MX", "fr-CA", "zh-CN", "zh-HK",
-]
-MARKETPLACE_LANGS = [
-    "AR", "BG", "DA", "DE", "EL", "ES", "FI", "FR", "HR", "HU",
-    "ID ",
-    "IT", "JA", "KO", "MS", "NB", "NL", "PL", "RO", "RU", "SV",
-    "TH", "TR", "VI", "en-GB", "es-MX", "fr-CA", "pt-BR", "pt-PT",
-    "zh-CN", "zh-HK",
-]
+# Status-type properties that are NOT language columns. Any status property
+# whose name (case-insensitive) is in this set will be skipped during
+# auto-discovery. Add entries here if a non-language status column is added
+# to the Notion databases.
+EXCLUDED_STATUS_PROPS: set[str] = set()
 
 # --- Status normalization ----------------------------------------------------
 # Maps Notion's raw option names to our canonical buckets. Anything not matched
@@ -117,6 +112,30 @@ def query_all_pages(token: str, database_id: str) -> list[dict[str, Any]]:
     return results
 
 
+def discover_language_cols(token: str, database_id: str) -> list[str]:
+    """Fetch the database schema and return every status-type property name
+    that isn't in EXCLUDED_STATUS_PROPS. This replaces the old hardcoded
+    language lists so new languages added in Notion are picked up automatically.
+    """
+    url = f"{NOTION_API}/databases/{database_id}"
+    with httpx.Client(timeout=30.0) as client:
+        resp = client.get(url, headers=notion_headers(token))
+        if resp.status_code != 200:
+            raise RuntimeError(
+                f"Notion database retrieve failed ({resp.status_code}) for db "
+                f"{database_id}: {resp.text[:500]}"
+            )
+    props = resp.json().get("properties", {})
+    excluded_lower = {e.lower() for e in EXCLUDED_STATUS_PROPS}
+    cols = [
+        name
+        for name, meta in props.items()
+        if meta.get("type") == "status" and name.strip().lower() not in excluded_lower
+    ]
+    cols.sort(key=lambda c: c.strip().lower())
+    return cols
+
+
 # --- Aggregation -------------------------------------------------------------
 
 def extract_status(page: dict[str, Any], prop: str) -> str | None:
@@ -175,9 +194,17 @@ def main() -> int:
         print("ERROR: NOTION_TOKEN env var is required.", file=sys.stderr)
         return 2
 
+    print("Discovering Fresha Partner language columns…")
+    partner_langs = discover_language_cols(token, PARTNER_DB_ID)
+    print(f"  → {len(partner_langs)} languages: {', '.join(c.strip() for c in partner_langs)}")
+
     print("Querying Fresha Partner database…")
     partner_pages = query_all_pages(token, PARTNER_DB_ID)
     print(f"  → {len(partner_pages)} scenarios")
+
+    print("Discovering Marketplace language columns…")
+    marketplace_langs = discover_language_cols(token, MARKETPLACE_DB_ID)
+    print(f"  → {len(marketplace_langs)} languages: {', '.join(c.strip() for c in marketplace_langs)}")
 
     print("Querying Marketplace database…")
     marketplace_pages = query_all_pages(token, MARKETPLACE_DB_ID)
@@ -188,11 +215,11 @@ def main() -> int:
         "source": "notion",
         "partner": {
             "total_scenarios": len(partner_pages),
-            "languages": aggregate(partner_pages, PARTNER_LANGS),
+            "languages": aggregate(partner_pages, partner_langs),
         },
         "marketplace": {
             "total_scenarios": len(marketplace_pages),
-            "languages": aggregate(marketplace_pages, MARKETPLACE_LANGS),
+            "languages": aggregate(marketplace_pages, marketplace_langs),
         },
     }
 
