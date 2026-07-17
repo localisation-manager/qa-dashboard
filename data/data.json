@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:27:50.208810+00:00",
+  "generated_at": "2026-07-17T09:04:50.417993+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 316,
+          "Done": 321,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 80
+          "Not started": 75
         },
         "by_feature": [
           {
@@ -537,23 +537,23 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 13,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 56,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 315,
+          "Done": 316,
           "In progress": 0,
           "Blocked": 10,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 80
+          "Not started": 79
         },
         "by_feature": [
           {
@@ -2122,12 +2122,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 14,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -6632,11 +6632,11 @@
         "code": "RO",
         "counts": {
           "Done": 215,
-          "In progress": 3,
+          "In progress": 9,
           "Blocked": 5,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 181
+          "Not started": 175
         },
         "by_feature": [
           {
@@ -6676,11 +6676,11 @@
             "name": "Automations",
             "counts": {
               "Done": 4,
-              "In progress": 1,
+              "In progress": 6,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 8
             }
           },
           {
@@ -6709,11 +6709,11 @@
             "name": "Catalog",
             "counts": {
               "Done": 31,
-              "In progress": 1,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
