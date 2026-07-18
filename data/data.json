@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T09:04:50.417993+00:00",
+  "generated_at": "2026-07-18T08:45:18.166150+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -1735,8 +1735,8 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 346,
-          "In progress": 8,
+          "Done": 347,
+          "In progress": 7,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
@@ -1966,8 +1966,8 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 17,
-              "In progress": 7,
+              "Done": 18,
+              "In progress": 6,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -6055,19 +6055,19 @@
       {
         "code": "PT",
         "counts": {
-          "Done": 210,
-          "In progress": 4,
+          "Done": 213,
+          "In progress": 8,
           "Blocked": 9,
           "Post-launch": 2,
-          "Repeat": 2,
-          "Not started": 180
+          "Repeat": 1,
+          "Not started": 174
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 4,
-              "In progress": 1,
+              "Done": 5,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -6132,12 +6132,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 11,
-              "In progress": 0,
+              "Done": 13,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 21
+              "Repeat": 0,
+              "Not started": 15
             }
           },
           {
