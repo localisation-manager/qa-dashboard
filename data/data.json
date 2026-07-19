@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:45:18.166150+00:00",
+  "generated_at": "2026-07-19T09:02:15.962248+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -4903,12 +4903,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 272,
+          "Done": 273,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 128
+          "Not started": 127
         },
         "by_feature": [
           {
@@ -4991,12 +4991,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 28,
+              "Done": 29,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8359,12 +8359,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 226,
+          "Done": 227,
           "In progress": 1,
           "Blocked": 15,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 160
+          "Not started": 159
         },
         "by_feature": [
           {
@@ -8436,12 +8436,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 17,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 15
             }
           },
           {
