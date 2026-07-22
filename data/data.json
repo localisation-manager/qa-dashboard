@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:23:48.830168+00:00",
+  "generated_at": "2026-07-22T09:23:10.422486+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 321,
+          "Done": 322,
           "In progress": 0,
-          "Blocked": 11,
+          "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 75
+          "Not started": 73
         },
         "by_feature": [
           {
@@ -350,12 +350,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 2,
+              "Done": 3,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 7
             }
           },
           {
@@ -2026,9 +2026,9 @@
           "Done": 323,
           "In progress": 0,
           "Blocked": 11,
-          "Post-launch": 2,
+          "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 71
+          "Not started": 69
         },
         "by_feature": [
           {
@@ -2081,9 +2081,9 @@
               "Done": 3,
               "In progress": 0,
               "Blocked": 1,
-              "Post-launch": 0,
+              "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -2888,8 +2888,8 @@
         "code": "fr-CA",
         "counts": {
           "Done": 169,
-          "In progress": 2,
-          "Blocked": 0,
+          "In progress": 1,
+          "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
           "Not started": 231
@@ -2965,8 +2965,8 @@
             "name": "Catalog",
             "counts": {
               "Done": 32,
-              "In progress": 1,
-              "Blocked": 0,
+              "In progress": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -8359,12 +8359,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 240,
+          "Done": 243,
           "In progress": 1,
           "Blocked": 15,
           "Post-launch": 5,
-          "Repeat": 0,
-          "Not started": 146
+          "Repeat": 1,
+          "Not started": 142
         },
         "by_feature": [
           {
@@ -8403,12 +8403,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 17
             }
           },
           {
@@ -8440,8 +8440,8 @@
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 2
+              "Repeat": 1,
+              "Not started": 1
             }
           },
           {
@@ -8612,12 +8612,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 1
             }
           },
           {
