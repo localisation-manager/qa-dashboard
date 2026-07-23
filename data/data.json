@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:23:10.422486+00:00",
+  "generated_at": "2026-07-23T09:21:13.928991+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 145,
+          "Done": 155,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 250
+          "Not started": 240
         },
         "by_feature": [
           {
@@ -84,12 +84,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 15,
+              "Done": 25,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 16
+              "Not started": 6
             }
           },
           {
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 322,
+          "Done": 323,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 73
+          "Not started": 72
         },
         "by_feature": [
           {
@@ -350,12 +350,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 6
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 323,
+          "Done": 325,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 69
+          "Not started": 67
         },
         "by_feature": [
           {
@@ -2078,12 +2078,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 3,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 3
             }
           },
           {
@@ -4903,8 +4903,8 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 273,
-          "In progress": 1,
+          "Done": 274,
+          "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
@@ -4958,8 +4958,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 10,
-              "In progress": 1,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8647,12 +8647,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 269,
+          "Done": 271,
           "In progress": 2,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 127
+          "Not started": 125
         },
         "by_feature": [
           {
@@ -8669,12 +8669,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8935,11 +8935,11 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 365,
+          "Done": 366,
           "In progress": 0,
           "Blocked": 25,
           "Post-launch": 0,
-          "Repeat": 16,
+          "Repeat": 15,
           "Not started": 1
         },
         "by_feature": [
@@ -9177,11 +9177,11 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 4,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 12,
+              "Repeat": 11,
               "Not started": 0
             }
           },
@@ -12624,23 +12624,23 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 64,
+          "Done": 67,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 23
+          "Not started": 20
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 16,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 3
             }
           },
           {
@@ -12833,12 +12833,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 4,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           }
         ]
@@ -12846,23 +12846,23 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 62,
-          "In progress": 2,
+          "Done": 0,
+          "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 23
+          "Not started": 87
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 18,
-              "In progress": 1,
+              "Done": 0,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 21
             }
           },
           {
@@ -12879,23 +12879,23 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 15,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 16
             }
           },
           {
             "name": "Careers",
             "counts": {
-              "Done": 2,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 2
             }
           },
           {
@@ -12912,45 +12912,45 @@
           {
             "name": "Don't do",
             "counts": {
-              "Done": 5,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 5
             }
           },
           {
             "name": "Favourites",
             "counts": {
-              "Done": 1,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
             "name": "Forms",
             "counts": {
               "Done": 0,
-              "In progress": 1,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
             "name": "Home",
             "counts": {
-              "Done": 2,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 4
             }
           },
           {
@@ -12967,12 +12967,12 @@
           {
             "name": "Profile",
             "counts": {
-              "Done": 3,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 4
             }
           },
           {
@@ -12989,23 +12989,23 @@
           {
             "name": "SEO focused LPs",
             "counts": {
-              "Done": 1,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
             "name": "Search",
             "counts": {
-              "Done": 4,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 4
             }
           },
           {
@@ -13022,45 +13022,45 @@
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 4,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 4
             }
           },
           {
             "name": "Tips and reviews",
             "counts": {
-              "Done": 3,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 3
             }
           },
           {
             "name": "Venue page",
             "counts": {
-              "Done": 3,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 2
-            }
-          },
-          {
-            "name": "Wallet",
-            "counts": {
-              "Done": 1,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 5
+            }
+          },
+          {
+            "name": "Wallet",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 6
             }
           }
         ]
