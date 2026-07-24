@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:21:13.928991+00:00",
+  "generated_at": "2026-07-24T09:16:18.429829+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 155,
+          "Done": 159,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 240
+          "Not started": 236
         },
         "by_feature": [
           {
@@ -84,12 +84,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 25,
+              "Done": 29,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 6
+              "Not started": 2
             }
           },
           {
@@ -1735,12 +1735,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 358,
-          "In progress": 6,
+          "Done": 359,
+          "In progress": 7,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 23
+          "Not started": 21
         },
         "by_feature": [
           {
@@ -1966,12 +1966,12 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 29,
-              "In progress": 5,
+              "Done": 30,
+              "In progress": 6,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 23
+              "Not started": 21
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 325,
+          "Done": 327,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 67
+          "Not started": 65
         },
         "by_feature": [
           {
@@ -2078,12 +2078,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 5,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 1
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 182,
+          "Done": 184,
           "In progress": 0,
           "Blocked": 1,
           "Post-launch": 1,
           "Repeat": 1,
-          "Not started": 222
+          "Not started": 220
         },
         "by_feature": [
           {
@@ -7693,12 +7693,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 7
             }
           },
           {
@@ -12624,23 +12624,23 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 67,
+          "Done": 72,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 20
+          "Not started": 15
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 18,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -12657,12 +12657,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 15,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -12833,12 +12833,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           }
         ]
