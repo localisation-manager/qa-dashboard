@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:16:18.429829+00:00",
+  "generated_at": "2026-07-25T08:56:31.158226+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -583,23 +583,23 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 143,
-          "In progress": 2,
+          "Done": 146,
+          "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 257
+          "Not started": 253
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 3,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 1
             }
           },
           {
@@ -4903,12 +4903,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 274,
+          "Done": 278,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 126
+          "Not started": 122
         },
         "by_feature": [
           {
@@ -4947,12 +4947,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 14
             }
           },
           {
@@ -6343,12 +6343,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 254,
-          "In progress": 2,
+          "Done": 262,
+          "In progress": 3,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 139
+          "Not started": 130
         },
         "by_feature": [
           {
@@ -6596,12 +6596,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 47,
-              "In progress": 0,
+              "Done": 55,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 0
             }
           },
           {
@@ -7783,23 +7783,23 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 198,
+          "Done": 203,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 203
+          "Not started": 198
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -12624,12 +12624,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 72,
+          "Done": 74,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 15
+          "Not started": 13
         },
         "by_feature": [
           {
@@ -12668,12 +12668,12 @@
           {
             "name": "Careers",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -12846,12 +12846,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 0,
+          "Done": 32,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 55
         },
         "by_feature": [
           {
@@ -12879,12 +12879,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 0,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 3
             }
           },
           {
@@ -12945,12 +12945,12 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -12967,12 +12967,12 @@
           {
             "name": "Profile",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -13000,34 +13000,34 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
             "name": "Settings",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
