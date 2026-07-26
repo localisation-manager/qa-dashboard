@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:56:31.158226+00:00",
+  "generated_at": "2026-07-26T09:08:09.451121+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -872,22 +872,22 @@
         "code": "DE",
         "counts": {
           "Done": 212,
-          "In progress": 16,
+          "In progress": 20,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 173
+          "Not started": 169
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
               "Done": 0,
-              "In progress": 1,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -2888,22 +2888,22 @@
         "code": "fr-CA",
         "counts": {
           "Done": 169,
-          "In progress": 1,
+          "In progress": 6,
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 231
+          "Not started": 226
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -6343,12 +6343,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 262,
-          "In progress": 3,
-          "Blocked": 11,
+          "Done": 266,
+          "In progress": 4,
+          "Blocked": 12,
           "Post-launch": 0,
-          "Repeat": 1,
-          "Not started": 130
+          "Repeat": 0,
+          "Not started": 125
         },
         "by_feature": [
           {
@@ -6420,12 +6420,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 26,
-              "In progress": 0,
-              "Blocked": 1,
+              "Done": 30,
+              "In progress": 1,
+              "Blocked": 2,
               "Post-launch": 0,
-              "Repeat": 1,
-              "Not started": 5
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 184,
+          "Done": 188,
           "In progress": 0,
           "Blocked": 1,
           "Post-launch": 1,
           "Repeat": 1,
-          "Not started": 220
+          "Not started": 216
         },
         "by_feature": [
           {
@@ -7693,12 +7693,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 2,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 3
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 203,
+          "Done": 206,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 198
+          "Not started": 195
         },
         "by_feature": [
           {
@@ -7981,12 +7981,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 7
             }
           },
           {
@@ -8036,12 +8036,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8935,11 +8935,11 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 366,
+          "Done": 370,
           "In progress": 0,
           "Blocked": 25,
           "Post-launch": 0,
-          "Repeat": 15,
+          "Repeat": 11,
           "Not started": 1
         },
         "by_feature": [
@@ -9177,11 +9177,11 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 5,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 11,
+              "Repeat": 7,
               "Not started": 0
             }
           },
