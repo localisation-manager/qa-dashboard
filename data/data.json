@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:36:32.480891+00:00",
+  "generated_at": "2026-07-28T09:32:13.373262+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -576,6 +576,294 @@
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
+            }
+          }
+        ]
+      },
+      {
+        "code": "CS",
+        "counts": {
+          "Done": 1,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 406
+        },
+        "by_feature": [
+          {
+            "name": "AI Concierge",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 5
+            }
+          },
+          {
+            "name": "Account setup",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 8
+            }
+          },
+          {
+            "name": "Add-ons",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 17
+            }
+          },
+          {
+            "name": "Automations",
+            "counts": {
+              "Done": 1,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 17
+            }
+          },
+          {
+            "name": "B2B pages",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 11
+            }
+          },
+          {
+            "name": "Calendar",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 19
+            }
+          },
+          {
+            "name": "Catalog",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 33
+            }
+          },
+          {
+            "name": "Client Loyalty",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 29
+            }
+          },
+          {
+            "name": "Clients",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 17
+            }
+          },
+          {
+            "name": "Customer notifications",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 2
+            }
+          },
+          {
+            "name": "Deal Manager app",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 5
+            }
+          },
+          {
+            "name": "Fresha Connect",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 8
+            }
+          },
+          {
+            "name": "Help and support",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 3
+            }
+          },
+          {
+            "name": "L10N guide",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
+          {
+            "name": "Marketing",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 38
+            }
+          },
+          {
+            "name": "Mobile",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
+          {
+            "name": "Online booking",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 11
+            }
+          },
+          {
+            "name": "Payments",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 9
+            }
+          },
+          {
+            "name": "Personal account",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 7
+            }
+          },
+          {
+            "name": "Products & Inventory",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 12
+            }
+          },
+          {
+            "name": "Reporting and analytics",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 57
+            }
+          },
+          {
+            "name": "Sales",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 16
+            }
+          },
+          {
+            "name": "Settings",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 56
+            }
+          },
+          {
+            "name": "Team",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 16
+            }
+          },
+          {
+            "name": "Wallet",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 8
             }
           }
         ]
@@ -2599,11 +2887,11 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 393,
+          "Done": 363,
           "In progress": 0,
           "Blocked": 14,
           "Post-launch": 0,
-          "Repeat": 0,
+          "Repeat": 30,
           "Not started": 0
         },
         "by_feature": [
@@ -2687,11 +2975,11 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 28,
+              "Done": 14,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 14,
               "Not started": 0
             }
           },
@@ -2863,11 +3151,11 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 16,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 16,
               "Not started": 0
             }
           },
@@ -2887,19 +3175,19 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 169,
-          "In progress": 8,
+          "Done": 181,
+          "In progress": 2,
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 224
+          "Not started": 218
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 5,
+              "Done": 5,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -3019,12 +3307,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 0,
-              "In progress": 2,
+              "Done": 7,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 0
             }
           },
           {
@@ -7495,12 +7783,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 202,
+          "Done": 204,
           "In progress": 0,
           "Blocked": 1,
           "Post-launch": 1,
           "Repeat": 1,
-          "Not started": 202
+          "Not started": 200
         },
         "by_feature": [
           {
@@ -7539,12 +7827,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 11,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -8071,12 +8359,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 144,
+          "Done": 145,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 251
+          "Not started": 250
         },
         "by_feature": [
           {
@@ -8324,12 +8612,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 42,
+              "Done": 43,
               "In progress": 0,
               "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 7
             }
           },
           {
@@ -8647,8 +8935,8 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 284,
-          "In progress": 13,
+          "Done": 286,
+          "In progress": 11,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
@@ -8691,8 +8979,8 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 7,
-              "In progress": 11,
+              "Done": 9,
+              "In progress": 9,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -9953,6 +10241,228 @@
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 2
+            }
+          }
+        ]
+      },
+      {
+        "code": "CS",
+        "counts": {
+          "Done": 0,
+          "In progress": 0,
+          "Blocked": 0,
+          "Post-launch": 0,
+          "Repeat": 0,
+          "Not started": 87
+        },
+        "by_feature": [
+          {
+            "name": "Activity",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 21
+            }
+          },
+          {
+            "name": "App Store Listing",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 2
+            }
+          },
+          {
+            "name": "Booking Flow",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 16
+            }
+          },
+          {
+            "name": "Careers",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 2
+            }
+          },
+          {
+            "name": "Client notifications",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 2
+            }
+          },
+          {
+            "name": "Don't do",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 5
+            }
+          },
+          {
+            "name": "Favourites",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
+          {
+            "name": "Forms",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
+          {
+            "name": "Home",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 4
+            }
+          },
+          {
+            "name": "Mobile",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 2
+            }
+          },
+          {
+            "name": "Profile",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 4
+            }
+          },
+          {
+            "name": "Rate the App",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
+          {
+            "name": "SEO focused LPs",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 1
+            }
+          },
+          {
+            "name": "Search",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 4
+            }
+          },
+          {
+            "name": "Settings",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 3
+            }
+          },
+          {
+            "name": "Sign in / Sign up",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 4
+            }
+          },
+          {
+            "name": "Tips and reviews",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 3
+            }
+          },
+          {
+            "name": "Venue page",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 5
+            }
+          },
+          {
+            "name": "Wallet",
+            "counts": {
+              "Done": 0,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 6
             }
           }
         ]
