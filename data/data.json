@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:32:13.373262+00:00",
+  "generated_at": "2026-07-29T09:33:47.134111+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 1,
+          "Done": 0,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 406
+          "Not started": 407
         },
         "by_feature": [
           {
@@ -627,12 +627,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 1,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 18
             }
           },
           {
@@ -3175,8 +3175,8 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 181,
-          "In progress": 2,
+          "Done": 182,
+          "In progress": 1,
           "Blocked": 1,
           "Post-launch": 5,
           "Repeat": 0,
@@ -3307,8 +3307,8 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 184,
+          "Done": 185,
           "In progress": 3,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 213
+          "Not started": 212
         },
         "by_feature": [
           {
@@ -3573,12 +3573,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "sq-AL",
         "counts": {
-          "Done": 143,
+          "Done": 170,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 263
+          "Not started": 236
         },
         "by_feature": [
           {
@@ -7539,12 +7539,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 0
             }
           },
           {
@@ -7693,12 +7693,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 0,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 0
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 204,
+          "Done": 209,
           "In progress": 0,
           "Blocked": 1,
           "Post-launch": 1,
           "Repeat": 1,
-          "Not started": 200
+          "Not started": 195
         },
         "by_feature": [
           {
@@ -7827,12 +7827,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 13,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
