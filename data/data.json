@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T09:33:47.134111+00:00",
+  "generated_at": "2026-07-30T09:26:22.875984+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 407,
@@ -2023,12 +2023,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 359,
+          "Done": 361,
           "In progress": 7,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 21
+          "Not started": 19
         },
         "by_feature": [
           {
@@ -2254,12 +2254,12 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 30,
+              "Done": 32,
               "In progress": 6,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 19
             }
           },
           {
