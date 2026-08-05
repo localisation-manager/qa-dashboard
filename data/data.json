@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:35:51.591987+00:00",
+  "generated_at": "2026-08-05T09:31:18.696079+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 409,
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 193,
+          "Done": 196,
           "In progress": 2,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 207
+          "Not started": 204
         },
         "by_feature": [
           {
@@ -3263,12 +3263,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 11,
+              "Done": 14,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 13
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 288,
+          "Done": 292,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 114
+          "Not started": 110
         },
         "by_feature": [
           {
@@ -5235,12 +5235,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 14,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 211,
+          "Done": 217,
           "In progress": 0,
           "Blocked": 1,
           "Post-launch": 1,
           "Repeat": 1,
-          "Not started": 195
+          "Not started": 189
         },
         "by_feature": [
           {
@@ -8047,12 +8047,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 2,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 8
             }
           },
           {
@@ -11868,12 +11868,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 0,
-          "In progress": 0,
+          "Done": 15,
+          "In progress": 3,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 69
         },
         "by_feature": [
           {
@@ -11967,12 +11967,12 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -11989,12 +11989,12 @@
           {
             "name": "Profile",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 3,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -12022,34 +12022,34 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
             "name": "Settings",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 2,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 3,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
