@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:35:51.808087+00:00",
+  "generated_at": "2026-08-07T08:09:22.706578+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 413,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 323,
+          "Done": 327,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 78
+          "Not started": 74
         },
         "by_feature": [
           {
@@ -394,12 +394,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -1447,12 +1447,12 @@
       {
         "code": "EL",
         "counts": {
-          "Done": 112,
+          "Done": 113,
           "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 292
+          "Not started": 291
         },
         "by_feature": [
           {
@@ -1546,12 +1546,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 16,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 210,
-          "In progress": 1,
+          "Done": 220,
+          "In progress": 9,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 195
+          "Not started": 177
         },
         "by_feature": [
           {
@@ -3219,12 +3219,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 10,
+              "In progress": 8,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 0
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 396,
+          "Done": 400,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 4
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4138,12 +4138,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 384,
+          "Done": 391,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 11
+          "Not started": 4
         },
         "by_feature": [
           {
@@ -4426,12 +4426,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -4569,12 +4569,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 13,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 294,
+          "Done": 296,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 112
+          "Not started": 110
         },
         "by_feature": [
           {
@@ -5290,12 +5290,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 19,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 231,
+          "Done": 236,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 173
+          "Not started": 168
         },
         "by_feature": [
           {
@@ -7018,12 +7018,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 16,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 149,
+          "Done": 153,
           "In progress": 1,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 256
+          "Not started": 252
         },
         "by_feature": [
           {
@@ -7306,12 +7306,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 206,
+          "Done": 210,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 201
+          "Not started": 197
         },
         "by_feature": [
           {
@@ -8170,12 +8170,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 16,
+              "Done": 20,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 1
             }
           },
           {
@@ -8359,12 +8359,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 145,
+          "Done": 149,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 256
+          "Not started": 252
         },
         "by_feature": [
           {
@@ -8458,12 +8458,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -11868,23 +11868,23 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 18,
-          "In progress": 3,
+          "Done": 41,
+          "In progress": 5,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 66
+          "Not started": 41
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 0,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 13
             }
           },
           {
@@ -11901,12 +11901,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 4,
-              "In progress": 0,
+              "Done": 14,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 2
             }
           },
           {
@@ -12066,12 +12066,12 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 0,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
