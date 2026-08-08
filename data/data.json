@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T08:09:22.706578+00:00",
+  "generated_at": "2026-08-08T07:43:05.425467+00:00",
   "source": "notion",
   "partner": {
-    "total_scenarios": 413,
+    "total_scenarios": 415,
     "languages": [
       {
         "code": "AR",
@@ -12,7 +12,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 238
+          "Not started": 240
         },
         "by_feature": [
           {
@@ -89,7 +89,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -265,7 +265,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -300,7 +300,7 @@
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 74
+          "Not started": 76
         },
         "by_feature": [
           {
@@ -377,7 +377,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -553,7 +553,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -588,7 +588,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 413
+          "Not started": 415
         },
         "by_feature": [
           {
@@ -665,7 +665,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 33
+              "Not started": 34
             }
           },
           {
@@ -841,7 +841,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 57
             }
           },
           {
@@ -871,12 +871,12 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 150,
-          "In progress": 3,
+          "Done": 151,
+          "In progress": 6,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 255
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -953,7 +953,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -970,12 +970,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
-              "In progress": 0,
+              "Done": 18,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -1129,7 +1129,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 16
             }
           },
           {
@@ -1160,11 +1160,11 @@
         "code": "DE",
         "counts": {
           "Done": 212,
-          "In progress": 20,
+          "In progress": 24,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 175
+          "Not started": 173
         },
         "by_feature": [
           {
@@ -1241,7 +1241,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -1259,11 +1259,11 @@
             "name": "Clients",
             "counts": {
               "Done": 17,
-              "In progress": 0,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -1417,7 +1417,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -1447,12 +1447,12 @@
       {
         "code": "EL",
         "counts": {
-          "Done": 113,
+          "Done": 117,
           "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 291
+          "Not started": 289
         },
         "by_feature": [
           {
@@ -1529,7 +1529,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -1546,12 +1546,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 20,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 1
             }
           },
           {
@@ -1634,12 +1634,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 10
             }
           },
           {
@@ -1705,7 +1705,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 44
+              "Not started": 45
             }
           },
           {
@@ -1740,7 +1740,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 412
+          "Not started": 414
         },
         "by_feature": [
           {
@@ -1817,7 +1817,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 33
+              "Not started": 34
             }
           },
           {
@@ -1993,7 +1993,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 57
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 361,
+          "Done": 362,
           "In progress": 7,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 25
+          "Not started": 26
         },
         "by_feature": [
           {
@@ -2105,7 +2105,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2122,12 +2122,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
@@ -2281,7 +2281,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2316,7 +2316,7 @@
           "Blocked": 11,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 70
+          "Not started": 72
         },
         "by_feature": [
           {
@@ -2393,7 +2393,7 @@
               "Blocked": 1,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2569,7 +2569,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2599,12 +2599,12 @@
       {
         "code": "FI",
         "counts": {
-          "Done": 94,
-          "In progress": 1,
+          "Done": 97,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 311
+          "Not started": 309
         },
         "by_feature": [
           {
@@ -2681,7 +2681,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -2698,12 +2698,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 15,
-              "In progress": 1,
+              "Done": 18,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 1
             }
           },
           {
@@ -2857,7 +2857,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 57
             }
           },
           {
@@ -2887,12 +2887,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 363,
+          "Done": 367,
           "In progress": 0,
           "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 30,
-          "Not started": 6
+          "Not started": 4
         },
         "by_feature": [
           {
@@ -2969,7 +2969,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2986,12 +2986,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -3145,7 +3145,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 220,
-          "In progress": 9,
+          "Done": 224,
+          "In progress": 5,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 177
+          "Not started": 179
         },
         "by_feature": [
           {
@@ -3219,8 +3219,8 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 10,
-              "In progress": 8,
+              "Done": 14,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -3257,7 +3257,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3433,7 +3433,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 185,
+          "Done": 189,
           "In progress": 3,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 218
+          "Not started": 216
         },
         "by_feature": [
           {
@@ -3545,7 +3545,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 12
+              "Not started": 13
             }
           },
           {
@@ -3562,12 +3562,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 15,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -3721,7 +3721,7 @@
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 7
             }
           },
           {
@@ -3756,7 +3756,7 @@
           "Blocked": 3,
           "Post-launch": 12,
           "Repeat": 1,
-          "Not started": 265
+          "Not started": 267
         },
         "by_feature": [
           {
@@ -3833,7 +3833,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4009,7 +4009,7 @@
               "Blocked": 1,
               "Post-launch": 8,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 7
             }
           },
           {
@@ -4044,7 +4044,7 @@
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 0
+          "Not started": 2
         },
         "by_feature": [
           {
@@ -4121,7 +4121,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4297,7 +4297,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4328,7 +4328,7 @@
         "code": "IT",
         "counts": {
           "Done": 391,
-          "In progress": 0,
+          "In progress": 2,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
@@ -4409,7 +4409,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4581,11 +4581,11 @@
             "name": "Settings",
             "counts": {
               "Done": 52,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -4620,7 +4620,7 @@
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 0
+          "Not started": 2
         },
         "by_feature": [
           {
@@ -4697,7 +4697,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4873,7 +4873,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4908,7 +4908,7 @@
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 157
+          "Not started": 159
         },
         "by_feature": [
           {
@@ -4985,7 +4985,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 20
+              "Not started": 21
             }
           },
           {
@@ -5161,7 +5161,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 7
             }
           },
           {
@@ -5196,7 +5196,7 @@
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 110
+          "Not started": 112
         },
         "by_feature": [
           {
@@ -5273,7 +5273,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5449,7 +5449,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -5484,7 +5484,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 313
+          "Not started": 315
         },
         "by_feature": [
           {
@@ -5561,7 +5561,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5737,7 +5737,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 57
             }
           },
           {
@@ -5767,12 +5767,12 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 282,
+          "Done": 286,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 122
+          "Not started": 120
         },
         "by_feature": [
           {
@@ -5849,7 +5849,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5866,12 +5866,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -6025,7 +6025,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6055,12 +6055,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 238,
-          "In progress": 3,
+          "Done": 240,
+          "In progress": 4,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 167
+          "Not started": 166
         },
         "by_feature": [
           {
@@ -6137,7 +6137,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6154,12 +6154,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 14,
-              "In progress": 1,
+              "Done": 16,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 3
             }
           },
           {
@@ -6313,7 +6313,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6348,7 +6348,7 @@
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 178
+          "Not started": 180
         },
         "by_feature": [
           {
@@ -6425,7 +6425,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 14
             }
           },
           {
@@ -6601,7 +6601,7 @@
               "Blocked": 1,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 20
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 272,
-          "In progress": 4,
+          "Done": 275,
+          "In progress": 5,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 124
+          "Not started": 122
         },
         "by_feature": [
           {
@@ -6713,7 +6713,7 @@
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6730,12 +6730,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
-              "In progress": 0,
+              "Done": 20,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -6889,7 +6889,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6924,7 +6924,7 @@
           "Blocked": 5,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 168
+          "Not started": 170
         },
         "by_feature": [
           {
@@ -7001,7 +7001,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7177,7 +7177,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -7212,7 +7212,7 @@
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 252
+          "Not started": 254
         },
         "by_feature": [
           {
@@ -7289,7 +7289,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7465,7 +7465,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 7
             }
           },
           {
@@ -7500,7 +7500,7 @@
           "Blocked": 0,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 241
+          "Not started": 243
         },
         "by_feature": [
           {
@@ -7577,7 +7577,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7753,7 +7753,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 224,
+          "Done": 240,
           "In progress": 0,
-          "Blocked": 1,
+          "Blocked": 5,
           "Post-launch": 1,
           "Repeat": 1,
-          "Not started": 186
+          "Not started": 168
         },
         "by_feature": [
           {
@@ -7816,12 +7816,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
+              "Done": 15,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 0
             }
           },
           {
@@ -7865,7 +7865,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 20
+              "Not started": 21
             }
           },
           {
@@ -8041,18 +8041,18 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8076,7 +8076,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 197
+          "Not started": 199
         },
         "by_feature": [
           {
@@ -8153,7 +8153,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8329,7 +8329,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8364,7 +8364,7 @@
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 252
+          "Not started": 254
         },
         "by_feature": [
           {
@@ -8441,7 +8441,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8617,7 +8617,7 @@
               "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 8
             }
           },
           {
@@ -8652,7 +8652,7 @@
           "Blocked": 15,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 132
+          "Not started": 134
         },
         "by_feature": [
           {
@@ -8729,7 +8729,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -8905,7 +8905,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -8940,7 +8940,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 413
+          "Not started": 415
         },
         "by_feature": [
           {
@@ -9017,7 +9017,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 33
+              "Not started": 34
             }
           },
           {
@@ -9193,7 +9193,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 56
+              "Not started": 57
             }
           },
           {
@@ -9228,7 +9228,7 @@
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 107
+          "Not started": 109
         },
         "by_feature": [
           {
@@ -9305,7 +9305,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9481,7 +9481,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -9516,7 +9516,7 @@
           "Blocked": 25,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 7
+          "Not started": 9
         },
         "by_feature": [
           {
@@ -9593,7 +9593,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9769,7 +9769,7 @@
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9799,12 +9799,12 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 263,
+          "Done": 267,
           "In progress": 1,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 132
+          "Not started": 130
         },
         "by_feature": [
           {
@@ -9881,7 +9881,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9898,12 +9898,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -10057,7 +10057,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
