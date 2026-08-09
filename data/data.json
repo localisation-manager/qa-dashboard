@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:43:05.425467+00:00",
+  "generated_at": "2026-08-09T07:48:51.889858+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 415,
@@ -3175,8 +3175,8 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 224,
-          "In progress": 5,
+          "Done": 228,
+          "In progress": 1,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
@@ -3219,8 +3219,8 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 14,
-              "In progress": 4,
+              "Done": 18,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8647,12 +8647,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 260,
-          "In progress": 1,
+          "Done": 264,
+          "In progress": 4,
           "Blocked": 15,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 134
+          "Not started": 127
         },
         "by_feature": [
           {
@@ -8680,23 +8680,23 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 9,
-              "In progress": 0,
+              "Done": 10,
+              "In progress": 1,
               "Blocked": 8,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
             "name": "Automations",
             "counts": {
               "Done": 17,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8746,12 +8746,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 14,
-              "In progress": 1,
+              "Done": 17,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -9511,12 +9511,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 379,
+          "Done": 381,
           "In progress": 0,
           "Blocked": 25,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 9
+          "Not started": 7
         },
         "by_feature": [
           {
@@ -9610,12 +9610,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 2
             }
           },
           {
@@ -11868,23 +11868,23 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 41,
+          "Done": 48,
           "In progress": 5,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 41
+          "Not started": 34
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 8,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 13
+              "Not started": 8
             }
           },
           {
@@ -12077,12 +12077,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 4
             }
           }
         ]
