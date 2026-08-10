@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T07:48:51.889858+00:00",
+  "generated_at": "2026-08-10T08:22:55.499967+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 415,
@@ -2023,12 +2023,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 362,
+          "Done": 365,
           "In progress": 7,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 26
+          "Not started": 23
         },
         "by_feature": [
           {
@@ -2122,12 +2122,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 18,
+              "Done": 21,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -4615,12 +4615,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 398,
+          "Done": 399,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 2
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -4868,12 +4868,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 56,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6055,12 +6055,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 240,
+          "Done": 241,
           "In progress": 4,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 166
+          "Not started": 165
         },
         "by_feature": [
           {
@@ -6154,12 +6154,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 16,
+              "Done": 17,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -8647,12 +8647,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 264,
-          "In progress": 4,
-          "Blocked": 15,
+          "Done": 275,
+          "In progress": 6,
+          "Blocked": 16,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 127
+          "Not started": 113
         },
         "by_feature": [
           {
@@ -8724,12 +8724,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 32,
-              "In progress": 0,
+              "Done": 33,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8790,12 +8790,12 @@
           {
             "name": "Help and support",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -8889,45 +8889,45 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 10,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
-              "In progress": 0,
+              "Done": 56,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
             "name": "Team",
             "counts": {
-              "Done": 14,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
             "name": "Wallet",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
-              "Blocked": 5,
+              "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           }
         ]
@@ -9223,12 +9223,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 286,
-          "In progress": 11,
+          "Done": 297,
+          "In progress": 4,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 109
+          "Not started": 105
         },
         "by_feature": [
           {
@@ -9267,8 +9267,8 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 9,
-              "In progress": 9,
+              "Done": 18,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -9322,12 +9322,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
-              "In progress": 0,
+              "Done": 19,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -9511,12 +9511,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 381,
+          "Done": 384,
           "In progress": 0,
           "Blocked": 25,
           "Post-launch": 0,
-          "Repeat": 2,
-          "Not started": 7
+          "Repeat": 0,
+          "Not started": 6
         },
         "by_feature": [
           {
@@ -9610,12 +9610,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 19,
+              "Done": 20,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -9709,11 +9709,11 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 7,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 2,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -11868,23 +11868,23 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 48,
-          "In progress": 5,
-          "Blocked": 0,
+          "Done": 55,
+          "In progress": 12,
+          "Blocked": 1,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 34
+          "Not started": 19
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
               "Done": 13,
-              "In progress": 0,
-              "Blocked": 0,
+              "In progress": 3,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 4
             }
           },
           {
@@ -11901,12 +11901,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 14,
-              "In progress": 2,
+              "Done": 15,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -11924,11 +11924,11 @@
             "name": "Client notifications",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -11945,23 +11945,23 @@
           {
             "name": "Favourites",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
             "name": "Forms",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -12000,12 +12000,12 @@
           {
             "name": "Rate the App",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -12077,12 +12077,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 2,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           }
         ]
