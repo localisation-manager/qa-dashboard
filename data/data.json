@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:11:09.200839+00:00",
+  "generated_at": "2026-08-13T08:14:54.361760+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -2887,11 +2887,11 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 374,
-          "In progress": 0,
+          "Done": 382,
+          "In progress": 1,
           "Blocked": 14,
           "Post-launch": 0,
-          "Repeat": 23,
+          "Repeat": 14,
           "Not started": 5
         },
         "by_feature": [
@@ -3151,11 +3151,11 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 7,
-              "In progress": 0,
+              "Done": 15,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 9,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -3751,12 +3751,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 133,
+          "Done": 145,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 12,
           "Repeat": 1,
-          "Not started": 268
+          "Not started": 256
         },
         "by_feature": [
           {
@@ -3839,12 +3839,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 0,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 29
+              "Not started": 17
             }
           },
           {
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 396,
+          "Done": 397,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 2
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -4404,12 +4404,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 32,
+              "Done": 33,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6631,8 +6631,8 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 275,
-          "In progress": 5,
+          "Done": 277,
+          "In progress": 3,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
@@ -6730,8 +6730,8 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 20,
-              "In progress": 1,
+              "Done": 21,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -6884,8 +6884,8 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
-              "In progress": 1,
+              "Done": 56,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
