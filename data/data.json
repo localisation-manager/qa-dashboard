@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:09:51.814236+00:00",
+  "generated_at": "2026-08-15T07:24:48.764169+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -871,12 +871,12 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 153,
-          "In progress": 4,
+          "Done": 159,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 254
+          "Not started": 250
         },
         "by_feature": [
           {
@@ -970,8 +970,8 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 20,
-              "In progress": 1,
+              "Done": 21,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -1058,12 +1058,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 4,
-              "In progress": 1,
+              "Done": 9,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 2
             }
           },
           {
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 228,
+          "Done": 230,
           "In progress": 2,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 179
+          "Not started": 177
         },
         "by_feature": [
           {
@@ -3208,12 +3208,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 16
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "sq-AL",
         "counts": {
-          "Done": 173,
+          "Done": 211,
           "In progress": 0,
           "Blocked": 0,
-          "Post-launch": 2,
+          "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 241
+          "Not started": 204
         },
         "by_feature": [
           {
@@ -7583,12 +7583,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 3,
+              "Done": 29,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 1,
+              "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 25
+              "Not started": 0
             }
           },
           {
@@ -7715,12 +7715,12 @@
           {
             "name": "Products & Inventory",
             "counts": {
-              "Done": 0,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 12
+              "Not started": 0
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 250,
+          "Done": 258,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 5,
           "Repeat": 1,
-          "Not started": 155
+          "Not started": 147
         },
         "by_feature": [
           {
@@ -7860,12 +7860,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 22,
+              "Done": 30,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 11
+              "Not started": 3
             }
           },
           {
