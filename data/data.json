@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:25:09.929986+00:00",
+  "generated_at": "2026-08-17T07:46:33.237074+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 236,
-          "In progress": 1,
+          "Done": 240,
+          "In progress": 2,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 172
+          "Not started": 167
         },
         "by_feature": [
           {
@@ -3208,12 +3208,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 8,
-              "In progress": 0,
+              "Done": 12,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 6
             }
           },
           {
@@ -7497,10 +7497,10 @@
         "counts": {
           "Done": 211,
           "In progress": 0,
-          "Blocked": 0,
+          "Blocked": 1,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 204
+          "Not started": 203
         },
         "by_feature": [
           {
@@ -7761,10 +7761,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 15
             }
           },
           {
