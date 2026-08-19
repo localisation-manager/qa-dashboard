@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:32:30.265398+00:00",
+  "generated_at": "2026-08-19T07:32:26.278417+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 241,
-          "In progress": 2,
+          "Done": 247,
+          "In progress": 3,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 166
+          "Not started": 159
         },
         "by_feature": [
           {
@@ -3208,12 +3208,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 13,
+              "Done": 15,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 3
             }
           },
           {
@@ -3384,12 +3384,12 @@
           {
             "name": "Personal account",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 4,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 2
             }
           },
           {
@@ -7783,23 +7783,23 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 258,
+          "Done": 266,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 5,
           "Repeat": 1,
-          "Not started": 147
+          "Not started": 139
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 1
             }
           },
           {
@@ -7860,12 +7860,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 30,
+              "Done": 33,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -9223,8 +9223,8 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 297,
-          "In progress": 4,
+          "Done": 299,
+          "In progress": 2,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
@@ -9322,8 +9322,8 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 19,
-              "In progress": 2,
+              "Done": 21,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -16974,12 +16974,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 3,
+          "Done": 9,
           "In progress": 1,
           "Blocked": 1,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 82
+          "Not started": 76
         },
         "by_feature": [
           {
@@ -17008,11 +17008,11 @@
             "name": "Booking Flow",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 17
             }
           },
           {
@@ -17128,12 +17128,12 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -17150,12 +17150,12 @@
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 3,
+              "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
