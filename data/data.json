@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:32:26.278417+00:00",
+  "generated_at": "2026-08-20T07:35:34.949056+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -872,11 +872,11 @@
         "code": "DA",
         "counts": {
           "Done": 159,
-          "In progress": 2,
+          "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 250
+          "Not started": 249
         },
         "by_feature": [
           {
@@ -1059,11 +1059,11 @@
             "name": "Online booking",
             "counts": {
               "Done": 9,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -2887,11 +2887,11 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 382,
+          "Done": 396,
           "In progress": 1,
           "Blocked": 14,
           "Post-launch": 0,
-          "Repeat": 14,
+          "Repeat": 0,
           "Not started": 5
         },
         "by_feature": [
@@ -2975,11 +2975,11 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 14,
+              "Done": 28,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 14,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 247,
-          "In progress": 3,
-          "Blocked": 1,
+          "Done": 253,
+          "In progress": 1,
+          "Blocked": 5,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 159
+          "Not started": 151
         },
         "by_feature": [
           {
@@ -3208,12 +3208,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 15,
-              "In progress": 1,
-              "Blocked": 0,
+              "Done": 16,
+              "In progress": 0,
+              "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -3318,12 +3318,12 @@
           {
             "name": "Help and support",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -3384,12 +3384,12 @@
           {
             "name": "Personal account",
             "counts": {
-              "Done": 4,
-              "In progress": 1,
-              "Blocked": 0,
+              "Done": 6,
+              "In progress": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -5479,12 +5479,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 94,
+          "Done": 96,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 316
+          "Not started": 314
         },
         "by_feature": [
           {
@@ -5545,12 +5545,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 2,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 16
+              "Not started": 14
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "sq-AL",
         "counts": {
-          "Done": 211,
-          "In progress": 0,
-          "Blocked": 1,
+          "Done": 227,
+          "In progress": 15,
+          "Blocked": 4,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 203
+          "Not started": 169
         },
         "by_feature": [
           {
@@ -7528,12 +7528,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
+              "Done": 1,
+              "In progress": 14,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 0
             }
           },
           {
@@ -7759,12 +7759,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 1,
+              "Done": 15,
+              "In progress": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 0
             }
           },
           {
@@ -7783,23 +7783,23 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 266,
-          "In progress": 0,
+          "Done": 275,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 5,
           "Repeat": 1,
-          "Not started": 139
+          "Not started": 128
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7839,11 +7839,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 4,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -7915,12 +7915,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 0,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 0
             }
           },
           {
@@ -8936,11 +8936,11 @@
         "code": "UK",
         "counts": {
           "Done": 0,
-          "In progress": 0,
-          "Blocked": 0,
+          "In progress": 3,
+          "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 410
+          "Not started": 406
         },
         "by_feature": [
           {
@@ -8958,11 +8958,11 @@
             "name": "Account setup",
             "counts": {
               "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
+              "In progress": 3,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 4
             }
           },
           {
@@ -10536,23 +10536,23 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 3,
+          "Done": 19,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 84
+          "Not started": 68
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 20
             }
           },
           {
@@ -10569,12 +10569,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 16
             }
           },
           {
@@ -10657,12 +10657,12 @@
           {
             "name": "Profile",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -10690,34 +10690,34 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
             "name": "Settings",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 1
             }
           },
           {
@@ -16974,12 +16974,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 9,
-          "In progress": 1,
-          "Blocked": 1,
+          "Done": 27,
+          "In progress": 0,
+          "Blocked": 3,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 76
+          "Not started": 57
         },
         "by_feature": [
           {
@@ -17007,12 +17007,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
-              "Blocked": 0,
+              "Done": 10,
+              "In progress": 0,
+              "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 5
             }
           },
           {
@@ -17095,12 +17095,12 @@
           {
             "name": "Profile",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -17139,20 +17139,20 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
-              "Blocked": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
