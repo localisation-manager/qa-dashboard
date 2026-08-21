@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:35:34.949056+00:00",
+  "generated_at": "2026-08-21T07:37:15.644437+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -7784,11 +7784,11 @@
         "code": "sr-Latn",
         "counts": {
           "Done": 275,
-          "In progress": 2,
+          "In progress": 5,
           "Blocked": 5,
           "Post-launch": 5,
           "Repeat": 1,
-          "Not started": 128
+          "Not started": 125
         },
         "by_feature": [
           {
@@ -7839,11 +7839,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 0,
-              "In progress": 2,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 4,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 2
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 0,
-          "In progress": 3,
-          "Blocked": 1,
+          "Done": 1,
+          "In progress": 1,
+          "Blocked": 0,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 406
+          "Not started": 408
         },
         "by_feature": [
           {
@@ -8957,12 +8957,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 0,
-              "In progress": 3,
-              "Blocked": 1,
+              "Done": 1,
+              "In progress": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 6
             }
           },
           {
@@ -10536,23 +10536,23 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 19,
+          "Done": 37,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 68
+          "Not started": 50
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 1,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -10569,12 +10569,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 2,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 7
             }
           },
           {
@@ -10613,12 +10613,12 @@
           {
             "name": "Favourites",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -10734,23 +10734,23 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 0,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
             "name": "Wallet",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -16974,12 +16974,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 27,
+          "Done": 41,
           "In progress": 0,
-          "Blocked": 3,
+          "Blocked": 1,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 57
+          "Not started": 45
         },
         "by_feature": [
           {
@@ -17007,12 +17007,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 10,
+              "Done": 17,
               "In progress": 0,
-              "Blocked": 3,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -17161,34 +17161,34 @@
           {
             "name": "Tips and reviews",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
             "name": "Venue page",
             "counts": {
-              "Done": 0,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
             "name": "Wallet",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
