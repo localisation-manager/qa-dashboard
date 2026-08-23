@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:25:39.769837+00:00",
+  "generated_at": "2026-08-23T07:27:56.195616+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -2023,19 +2023,19 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 365,
+          "Done": 367,
           "In progress": 8,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 23
+          "Not started": 21
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 5,
-              "In progress": 1,
+              "Done": 6,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -2057,11 +2057,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 9,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 8,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -2276,12 +2276,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 57,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -10536,23 +10536,23 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 44,
+          "Done": 51,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 43
+          "Not started": 36
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 7,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 11
             }
           },
           {
@@ -10569,12 +10569,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 14,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 1
             }
           },
           {
@@ -10624,12 +10624,12 @@
           {
             "name": "Forms",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
