@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:27:56.195616+00:00",
+  "generated_at": "2026-08-24T07:52:24.180020+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 164,
+          "Done": 168,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 240
+          "Not started": 236
         },
         "by_feature": [
           {
@@ -106,12 +106,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 15,
+              "Done": 19,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 278,
-          "In progress": 3,
+          "Done": 282,
+          "In progress": 12,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 123
+          "Not started": 110
         },
         "by_feature": [
           {
@@ -6686,8 +6686,8 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 10,
-              "In progress": 1,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -6797,11 +6797,11 @@
             "name": "Marketing",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 10,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 28
             }
           },
           {
@@ -6873,12 +6873,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 13,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 210,
+          "Done": 212,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 200
+          "Not started": 198
         },
         "by_feature": [
           {
@@ -8269,12 +8269,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 2,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -8647,12 +8647,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 276,
+          "Done": 277,
           "In progress": 5,
           "Blocked": 16,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 114
+          "Not started": 113
         },
         "by_feature": [
           {
@@ -8911,12 +8911,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -10536,23 +10536,23 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 51,
-          "In progress": 0,
+          "Done": 57,
+          "In progress": 1,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 36
+          "Not started": 29
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 10,
-              "In progress": 0,
+              "Done": 14,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 6
             }
           },
           {
@@ -10745,12 +10745,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 1,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 3
             }
           }
         ]
@@ -15420,23 +15420,23 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 63,
-          "In progress": 6,
-          "Blocked": 6,
+          "Done": 65,
+          "In progress": 4,
+          "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 12
+          "Not started": 9
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 13,
-              "In progress": 1,
-              "Blocked": 3,
+              "Done": 14,
+              "In progress": 0,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
@@ -15488,10 +15488,10 @@
             "counts": {
               "Done": 1,
               "In progress": 0,
-              "Blocked": 1,
+              "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -15530,12 +15530,12 @@
           {
             "name": "Mobile",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -15630,8 +15630,8 @@
             "name": "Wallet",
             "counts": {
               "Done": 3,
-              "In progress": 2,
-              "Blocked": 1,
+              "In progress": 1,
+              "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
