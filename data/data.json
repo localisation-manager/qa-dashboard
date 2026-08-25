@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-24T07:52:24.180020+00:00",
+  "generated_at": "2026-08-25T07:38:27.302392+00:00",
   "source": "notion",
   "partner": {
-    "total_scenarios": 416,
+    "total_scenarios": 413,
     "languages": [
       {
         "code": "AR",
         "counts": {
-          "Done": 168,
+          "Done": 165,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 0,
@@ -260,7 +260,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 50,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 327,
+          "Done": 326,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 77
+          "Not started": 75
         },
         "by_feature": [
           {
@@ -317,12 +317,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -548,7 +548,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -588,7 +588,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 416
+          "Not started": 413
         },
         "by_feature": [
           {
@@ -841,7 +841,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 57
+              "Not started": 54
             }
           },
           {
@@ -871,7 +871,7 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 159,
+          "Done": 156,
           "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
@@ -1124,7 +1124,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 41,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -1159,7 +1159,7 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 212,
+          "Done": 209,
           "In progress": 24,
           "Blocked": 6,
           "Post-launch": 0,
@@ -1412,7 +1412,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 51,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -1452,7 +1452,7 @@
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 290
+          "Not started": 287
         },
         "by_feature": [
           {
@@ -1705,7 +1705,7 @@
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 45
+              "Not started": 42
             }
           },
           {
@@ -1740,7 +1740,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 415
+          "Not started": 412
         },
         "by_feature": [
           {
@@ -1993,7 +1993,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 57
+              "Not started": 54
             }
           },
           {
@@ -2023,7 +2023,7 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 367,
+          "Done": 364,
           "In progress": 8,
           "Blocked": 20,
           "Post-launch": 0,
@@ -2276,7 +2276,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 57,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -2311,7 +2311,7 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 332,
+          "Done": 329,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 4,
@@ -2564,7 +2564,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -2604,7 +2604,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 310
+          "Not started": 307
         },
         "by_feature": [
           {
@@ -2857,7 +2857,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 57
+              "Not started": 54
             }
           },
           {
@@ -2887,11 +2887,11 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 396,
+          "Done": 377,
           "In progress": 1,
           "Blocked": 14,
           "Post-launch": 0,
-          "Repeat": 0,
+          "Repeat": 16,
           "Not started": 5
         },
         "by_feature": [
@@ -3019,11 +3019,11 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 8,
               "Not started": 0
             }
           },
@@ -3140,11 +3140,11 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 44,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 8,
               "Not started": 1
             }
           },
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 256,
-          "In progress": 0,
+          "Done": 257,
+          "In progress": 1,
           "Blocked": 5,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 149
+          "Not started": 144
         },
         "by_feature": [
           {
@@ -3274,12 +3274,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 15,
-              "In progress": 0,
+              "Done": 18,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -3428,12 +3428,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 52,
+              "Done": 50,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 189,
+          "Done": 188,
           "In progress": 3,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 217
+          "Not started": 215
         },
         "by_feature": [
           {
@@ -3716,12 +3716,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 49,
+              "Done": 48,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -3751,12 +3751,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 160,
+          "Done": 159,
           "In progress": 0,
           "Blocked": 4,
           "Post-launch": 12,
           "Repeat": 1,
-          "Not started": 239
+          "Not started": 237
         },
         "by_feature": [
           {
@@ -4004,12 +4004,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 41,
+              "Done": 40,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 8,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -4039,7 +4039,7 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 402,
+          "Done": 399,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
@@ -4292,7 +4292,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -4327,7 +4327,7 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 398,
+          "Done": 395,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
@@ -4580,7 +4580,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 52,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
@@ -4615,7 +4615,7 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 401,
+          "Done": 398,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
@@ -4868,7 +4868,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -4903,12 +4903,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 247,
+          "Done": 246,
           "In progress": 3,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 160
+          "Not started": 158
         },
         "by_feature": [
           {
@@ -5156,12 +5156,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 50,
+              "Done": 49,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -5191,7 +5191,7 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 296,
+          "Done": 293,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
@@ -5444,7 +5444,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 50,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -5484,7 +5484,7 @@
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 308
+          "Not started": 305
         },
         "by_feature": [
           {
@@ -5737,7 +5737,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 57
+              "Not started": 54
             }
           },
           {
@@ -5767,7 +5767,7 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 289,
+          "Done": 286,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
@@ -6020,7 +6020,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 57,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6055,7 +6055,7 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 246,
+          "Done": 243,
           "In progress": 4,
           "Blocked": 5,
           "Post-launch": 0,
@@ -6308,7 +6308,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6343,12 +6343,12 @@
       {
         "code": "PT",
         "counts": {
-          "Done": 219,
+          "Done": 218,
           "In progress": 4,
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 181
+          "Not started": 179
         },
         "by_feature": [
           {
@@ -6596,12 +6596,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 35,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -6631,7 +6631,7 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 282,
+          "Done": 279,
           "In progress": 12,
           "Blocked": 12,
           "Post-launch": 0,
@@ -6884,7 +6884,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -6919,7 +6919,7 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 236,
+          "Done": 233,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 3,
@@ -7172,7 +7172,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 50,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -7207,12 +7207,12 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 153,
+          "Done": 152,
           "In progress": 1,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 255
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -7460,12 +7460,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 49,
+              "Done": 48,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -7495,7 +7495,7 @@
       {
         "code": "sq-AL",
         "counts": {
-          "Done": 227,
+          "Done": 224,
           "In progress": 15,
           "Blocked": 4,
           "Post-launch": 1,
@@ -7748,7 +7748,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 51,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -7783,7 +7783,7 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 282,
+          "Done": 279,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 5,
@@ -8036,7 +8036,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 51,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8071,7 +8071,7 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 212,
+          "Done": 209,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
@@ -8324,7 +8324,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 55,
+              "Done": 52,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -8359,7 +8359,7 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 149,
+          "Done": 146,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
@@ -8612,7 +8612,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 43,
+              "Done": 40,
               "In progress": 0,
               "Blocked": 6,
               "Post-launch": 0,
@@ -8647,7 +8647,7 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 277,
+          "Done": 274,
           "In progress": 5,
           "Blocked": 16,
           "Post-launch": 5,
@@ -8900,7 +8900,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 56,
+              "Done": 53,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 3,
+          "Done": 6,
           "In progress": 0,
-          "Blocked": 0,
+          "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 407
+          "Not started": 400
         },
         "by_feature": [
           {
@@ -8957,12 +8957,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 3,
+              "Done": 6,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 1
             }
           },
           {
@@ -9193,7 +9193,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 57
+              "Not started": 54
             }
           },
           {
@@ -9223,12 +9223,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 299,
-          "In progress": 2,
+          "Done": 297,
+          "In progress": 3,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 106
+          "Not started": 104
         },
         "by_feature": [
           {
@@ -9279,11 +9279,11 @@
             "name": "B2B pages",
             "counts": {
               "Done": 10,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -9333,12 +9333,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -9476,7 +9476,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 51,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -9511,7 +9511,7 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 384,
+          "Done": 381,
           "In progress": 0,
           "Blocked": 25,
           "Post-launch": 0,
@@ -9764,7 +9764,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 51,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
@@ -9799,12 +9799,12 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 267,
+          "Done": 270,
           "In progress": 1,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 131
+          "Not started": 125
         },
         "by_feature": [
           {
@@ -9843,12 +9843,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 12
             }
           },
           {
@@ -10052,7 +10052,7 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 50,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10087,7 +10087,7 @@
     ]
   },
   "marketplace": {
-    "total_scenarios": 87,
+    "total_scenarios": 86,
     "languages": [
       {
         "code": "AR",
@@ -10097,7 +10097,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 23
+          "Not started": 22
         },
         "by_feature": [
           {
@@ -10306,7 +10306,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           }
         ]
@@ -10314,7 +10314,7 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 66,
+          "Done": 65,
           "In progress": 0,
           "Blocked": 1,
           "Post-launch": 0,
@@ -10523,7 +10523,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10536,23 +10536,23 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 57,
-          "In progress": 1,
-          "Blocked": 0,
-          "Post-launch": 0,
+          "Done": 60,
+          "In progress": 2,
+          "Blocked": 3,
+          "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 29
+          "Not started": 20
         },
         "by_feature": [
           {
             "name": "Activity",
             "counts": {
-              "Done": 14,
-              "In progress": 1,
-              "Blocked": 0,
+              "Done": 15,
+              "In progress": 2,
+              "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 1
             }
           },
           {
@@ -10668,12 +10668,12 @@
           {
             "name": "Rate the App",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -10712,12 +10712,12 @@
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -10748,9 +10748,9 @@
               "Done": 3,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
+              "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 1
             }
           }
         ]
@@ -10763,7 +10763,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -10972,7 +10972,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -10985,7 +10985,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -11194,7 +11194,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -11207,7 +11207,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -11416,7 +11416,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -11429,7 +11429,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 27
+          "Not started": 26
         },
         "by_feature": [
           {
@@ -11638,7 +11638,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           }
         ]
@@ -11651,7 +11651,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -11860,7 +11860,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -11868,7 +11868,7 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 69,
+          "Done": 68,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 0,
@@ -12077,7 +12077,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 6,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12095,7 +12095,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -12304,7 +12304,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -12312,7 +12312,7 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 75,
+          "Done": 74,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
@@ -12521,7 +12521,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
@@ -12539,7 +12539,7 @@
           "Blocked": 5,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 79
+          "Not started": 78
         },
         "by_feature": [
           {
@@ -12748,7 +12748,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           }
         ]
@@ -12756,7 +12756,7 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 67,
+          "Done": 66,
           "In progress": 0,
           "Blocked": 8,
           "Post-launch": 2,
@@ -12965,7 +12965,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
@@ -12978,7 +12978,7 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 57,
+          "Done": 56,
           "In progress": 2,
           "Blocked": 11,
           "Post-launch": 1,
@@ -13187,7 +13187,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 3,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 1,
@@ -13205,7 +13205,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 28
+          "Not started": 27
         },
         "by_feature": [
           {
@@ -13414,7 +13414,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           }
         ]
@@ -13422,7 +13422,7 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 76,
+          "Done": 75,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
@@ -13631,7 +13631,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 6,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13649,7 +13649,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -13858,7 +13858,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -13871,7 +13871,7 @@
           "Blocked": 2,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 58
+          "Not started": 57
         },
         "by_feature": [
           {
@@ -14080,7 +14080,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           }
         ]
@@ -14093,7 +14093,7 @@
           "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 24
+          "Not started": 23
         },
         "by_feature": [
           {
@@ -14302,7 +14302,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           }
         ]
@@ -14315,7 +14315,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -14524,7 +14524,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -14537,7 +14537,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -14746,7 +14746,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -14759,7 +14759,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -14968,7 +14968,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -14976,7 +14976,7 @@
       {
         "code": "pt-BR",
         "counts": {
-          "Done": 65,
+          "Done": 64,
           "In progress": 1,
           "Blocked": 0,
           "Post-launch": 0,
@@ -15185,7 +15185,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 3,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15203,7 +15203,7 @@
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 24
+          "Not started": 23
         },
         "by_feature": [
           {
@@ -15412,7 +15412,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -15420,9 +15420,9 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 65,
-          "In progress": 4,
-          "Blocked": 9,
+          "Done": 64,
+          "In progress": 3,
+          "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 0,
           "Not started": 9
@@ -15629,9 +15629,9 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 3,
-              "In progress": 1,
-              "Blocked": 2,
+              "Done": 2,
+              "In progress": 0,
+              "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -15647,7 +15647,7 @@
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 19
+          "Not started": 18
         },
         "by_feature": [
           {
@@ -15856,7 +15856,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           }
         ]
@@ -15869,7 +15869,7 @@
           "Blocked": 2,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 46
+          "Not started": 45
         },
         "by_feature": [
           {
@@ -16078,7 +16078,7 @@
               "Blocked": 0,
               "Post-launch": 2,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           }
         ]
@@ -16086,7 +16086,7 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 64,
+          "Done": 63,
           "In progress": 0,
           "Blocked": 16,
           "Post-launch": 5,
@@ -16295,7 +16295,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 3,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 2,
@@ -16313,7 +16313,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 87
+          "Not started": 86
         },
         "by_feature": [
           {
@@ -16522,7 +16522,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           }
         ]
@@ -16530,12 +16530,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 54,
+          "Done": 56,
           "In progress": 2,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 31
+          "Not started": 28
         },
         "by_feature": [
           {
@@ -16629,12 +16629,12 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -16744,7 +16744,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           }
         ]
@@ -16753,7 +16753,7 @@
         "code": "TR",
         "counts": {
           "Done": 55,
-          "In progress": 14,
+          "In progress": 13,
           "Blocked": 3,
           "Post-launch": 0,
           "Repeat": 0,
@@ -16962,7 +16962,7 @@
             "name": "Wallet",
             "counts": {
               "Done": 3,
-              "In progress": 3,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -16974,7 +16974,7 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 70,
+          "Done": 69,
           "In progress": 0,
           "Blocked": 3,
           "Post-launch": 2,
@@ -17183,7 +17183,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 2,
@@ -17201,7 +17201,7 @@
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 27
+          "Not started": 26
         },
         "by_feature": [
           {
@@ -17410,7 +17410,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           }
         ]
@@ -17423,7 +17423,7 @@
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 41
+          "Not started": 40
         },
         "by_feature": [
           {
@@ -17632,7 +17632,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           }
         ]
@@ -17640,7 +17640,7 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 70,
+          "Done": 69,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
@@ -17849,7 +17849,7 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 4,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
