@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:01:47.955775+00:00",
+  "generated_at": "2026-08-28T19:11:39.327385+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 413,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 2,
+          "Done": 5,
           "In progress": 0,
-          "Blocked": 0,
+          "Blocked": 1,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 411
+          "Not started": 407
         },
         "by_feature": [
           {
@@ -605,12 +605,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 2,
+              "Done": 5,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 2
             }
           },
           {
