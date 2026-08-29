@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:11:39.327385+00:00",
+  "generated_at": "2026-08-29T12:55:13.495324+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 413,
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 274,
+          "Done": 275,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 127
+          "Not started": 126
         },
         "by_feature": [
           {
@@ -3439,12 +3439,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
