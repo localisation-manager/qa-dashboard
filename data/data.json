@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T14:44:40.831262+00:00",
+  "generated_at": "2026-09-01T12:17:14.052110+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 413,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 326,
+          "Done": 327,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 75
+          "Not started": 74
         },
         "by_feature": [
           {
@@ -350,12 +350,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 4,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           },
           {
@@ -583,9 +583,9 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 5,
+          "Done": 6,
           "In progress": 0,
-          "Blocked": 1,
+          "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
           "Not started": 407
@@ -605,9 +605,9 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 0,
-              "Blocked": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 2
@@ -6920,11 +6920,11 @@
         "code": "RO",
         "counts": {
           "Done": 233,
-          "In progress": 1,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 171
+          "Not started": 170
         },
         "by_feature": [
           {
@@ -7184,11 +7184,11 @@
             "name": "Team",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 15
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 12,
+          "Done": 16,
           "In progress": 2,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 392
+          "Not started": 388
         },
         "by_feature": [
           {
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 6,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 48
+              "Not started": 44
             }
           },
           {
