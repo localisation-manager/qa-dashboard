@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:17:14.052110+00:00",
+  "generated_at": "2026-09-02T11:54:15.929604+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 413,
@@ -295,23 +295,23 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 327,
+          "Done": 332,
           "In progress": 0,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 74
+          "Not started": 69
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -328,12 +328,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 11,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -372,12 +372,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 33,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -548,12 +548,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6920,11 +6920,11 @@
         "code": "RO",
         "counts": {
           "Done": 233,
-          "In progress": 2,
+          "In progress": 3,
           "Blocked": 5,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 170
+          "Not started": 169
         },
         "by_feature": [
           {
@@ -7184,11 +7184,11 @@
             "name": "Team",
             "counts": {
               "Done": 0,
-              "In progress": 1,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 14
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 16,
+          "Done": 19,
           "In progress": 2,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 388
+          "Not started": 385
         },
         "by_feature": [
           {
@@ -9045,12 +9045,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 10,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 44
+              "Not started": 42
             }
           },
           {
