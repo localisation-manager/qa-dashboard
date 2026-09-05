@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:55:34.813472+00:00",
+  "generated_at": "2026-09-05T11:04:59.213845+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 14,
-          "In progress": 3,
-          "Blocked": 0,
+          "Done": 18,
+          "In progress": 0,
+          "Blocked": 2,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 399
+          "Not started": 396
         },
         "by_feature": [
           {
@@ -607,10 +607,10 @@
             "counts": {
               "Done": 6,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -803,12 +803,12 @@
           {
             "name": "Products & Inventory",
             "counts": {
-              "Done": 8,
-              "In progress": 3,
+              "Done": 12,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3751,12 +3751,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 159,
-          "In progress": 1,
+          "Done": 162,
+          "In progress": 0,
           "Blocked": 4,
           "Post-launch": 12,
           "Repeat": 1,
-          "Not started": 239
+          "Not started": 237
         },
         "by_feature": [
           {
@@ -3784,12 +3784,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 3,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 19
             }
           },
           {
@@ -5768,11 +5768,11 @@
         "code": "NL",
         "counts": {
           "Done": 288,
-          "In progress": 0,
+          "In progress": 1,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 119
+          "Not started": 118
         },
         "by_feature": [
           {
@@ -5801,11 +5801,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 15,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -6920,11 +6920,11 @@
         "code": "RO",
         "counts": {
           "Done": 233,
-          "In progress": 3,
+          "In progress": 7,
           "Blocked": 5,
           "Post-launch": 3,
           "Repeat": 0,
-          "Not started": 172
+          "Not started": 168
         },
         "by_feature": [
           {
@@ -6953,11 +6953,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 18
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 30,
-          "In progress": 2,
+          "Done": 35,
+          "In progress": 4,
           "Blocked": 1,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 377
+          "Not started": 370
         },
         "by_feature": [
           {
@@ -9034,23 +9034,23 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 10,
-              "In progress": 0,
+              "Done": 15,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 5
             }
           },
           {
             "name": "Customer notifications",
             "counts": {
               "Done": 1,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
