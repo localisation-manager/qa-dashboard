@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T11:04:59.213845+00:00",
+  "generated_at": "2026-09-06T11:28:23.039803+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -4903,12 +4903,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 246,
+          "Done": 249,
           "In progress": 3,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 161
+          "Not started": 158
         },
         "by_feature": [
           {
@@ -4936,12 +4936,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 10,
+              "Done": 13,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 8
             }
           },
           {
