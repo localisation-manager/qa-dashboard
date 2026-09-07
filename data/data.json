@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:28:23.039803+00:00",
+  "generated_at": "2026-09-07T13:12:46.505526+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 18,
+          "Done": 19,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 396
+          "Not started": 395
         },
         "by_feature": [
           {
@@ -693,12 +693,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -2024,11 +2024,11 @@
         "code": "ES",
         "counts": {
           "Done": 364,
-          "In progress": 8,
+          "In progress": 9,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 24
+          "Not started": 23
         },
         "by_feature": [
           {
@@ -2057,11 +2057,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 9,
-              "In progress": 1,
+              "In progress": 2,
               "Blocked": 8,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 3
             }
           },
           {
@@ -2887,12 +2887,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 394,
+          "Done": 399,
           "In progress": 1,
           "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 7
+          "Not started": 2
         },
         "by_feature": [
           {
@@ -2920,12 +2920,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 12,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 399,
+          "Done": 400,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 4
+          "Not started": 3
         },
         "by_feature": [
           {
@@ -4072,12 +4072,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 14,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 293,
+          "Done": 295,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 116
+          "Not started": 114
         },
         "by_feature": [
           {
@@ -5224,12 +5224,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 15,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 7
+              "Not started": 5
             }
           },
           {
@@ -6919,8 +6919,8 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 233,
-          "In progress": 7,
+          "Done": 234,
+          "In progress": 6,
           "Blocked": 5,
           "Post-launch": 3,
           "Repeat": 0,
@@ -6952,8 +6952,8 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
-              "In progress": 4,
+              "Done": 1,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8359,12 +8359,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 146,
+          "Done": 147,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 258
+          "Not started": 257
         },
         "by_feature": [
           {
@@ -8392,12 +8392,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 21
             }
           },
           {
@@ -8936,8 +8936,8 @@
         "code": "UK",
         "counts": {
           "Done": 35,
-          "In progress": 4,
-          "Blocked": 1,
+          "In progress": 3,
+          "Blocked": 2,
           "Post-launch": 6,
           "Repeat": 0,
           "Not started": 370
@@ -9200,8 +9200,8 @@
             "name": "Team",
             "counts": {
               "Done": 0,
-              "In progress": 1,
-              "Blocked": 0,
+              "In progress": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 15
@@ -9511,12 +9511,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 381,
+          "Done": 383,
           "In progress": 0,
           "Blocked": 25,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 10
+          "Not started": 8
         },
         "by_feature": [
           {
@@ -9544,12 +9544,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 11,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 3
             }
           },
           {
