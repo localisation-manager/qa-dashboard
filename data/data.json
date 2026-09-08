@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T13:12:46.505526+00:00",
+  "generated_at": "2026-09-08T11:55:48.918939+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -1160,11 +1160,11 @@
         "code": "DE",
         "counts": {
           "Done": 213,
-          "In progress": 20,
+          "In progress": 21,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 177
+          "Not started": 176
         },
         "by_feature": [
           {
@@ -1193,11 +1193,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 8,
+              "In progress": 9,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 13
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 364,
-          "In progress": 9,
+          "Done": 367,
+          "In progress": 8,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 23
+          "Not started": 21
         },
         "by_feature": [
           {
@@ -2056,12 +2056,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 9,
-              "In progress": 2,
+              "Done": 12,
+              "In progress": 1,
               "Blocked": 8,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 1
             }
           },
           {
@@ -3464,11 +3464,11 @@
         "code": "HR",
         "counts": {
           "Done": 188,
-          "In progress": 3,
+          "In progress": 6,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 218
+          "Not started": 215
         },
         "by_feature": [
           {
@@ -3497,11 +3497,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 19
             }
           },
           {
@@ -4039,23 +4039,23 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 400,
+          "Done": 403,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 3
+          "Not started": 0
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4072,12 +4072,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 15,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 395,
+          "Done": 398,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 3
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4360,12 +4360,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 14,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 295,
+          "Done": 296,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 114
+          "Not started": 113
         },
         "by_feature": [
           {
@@ -5224,12 +5224,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 17,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -5767,12 +5767,12 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 288,
-          "In progress": 1,
+          "Done": 291,
+          "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 118
+          "Not started": 116
         },
         "by_feature": [
           {
@@ -5800,12 +5800,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 15,
-              "In progress": 1,
+              "Done": 18,
+              "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 2
             }
           },
           {
@@ -6056,11 +6056,11 @@
         "code": "PL",
         "counts": {
           "Done": 243,
-          "In progress": 4,
+          "In progress": 7,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 164
+          "Not started": 161
         },
         "by_feature": [
           {
@@ -6089,11 +6089,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 19
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 279,
+          "Done": 282,
           "In progress": 12,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 113
+          "Not started": 110
         },
         "by_feature": [
           {
@@ -6664,12 +6664,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 12,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 2
             }
           },
           {
@@ -7208,11 +7208,11 @@
         "code": "RU",
         "counts": {
           "Done": 152,
-          "In progress": 1,
+          "In progress": 4,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 256
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -7241,11 +7241,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 19
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 209,
+          "Done": 212,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 201
+          "Not started": 198
         },
         "by_feature": [
           {
@@ -8104,12 +8104,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 19
             }
           },
           {
@@ -8359,12 +8359,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 147,
+          "Done": 149,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 257
+          "Not started": 255
         },
         "by_feature": [
           {
@@ -8392,12 +8392,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 1,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 19
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 35,
+          "Done": 42,
           "In progress": 3,
           "Blocked": 2,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 370
+          "Not started": 363
         },
         "by_feature": [
           {
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 13,
+              "Done": 20,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 41
+              "Not started": 34
             }
           },
           {
