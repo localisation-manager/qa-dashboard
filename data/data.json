@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T11:59:43.037728+00:00",
+  "generated_at": "2026-09-11T11:58:38.943287+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 168,
+          "Done": 171,
           "In progress": 1,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 239
+          "Not started": 236
         },
         "by_feature": [
           {
@@ -40,12 +40,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 19
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 48,
-          "In progress": 2,
-          "Blocked": 1,
+          "Done": 51,
+          "In progress": 1,
+          "Blocked": 2,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 359
+          "Not started": 356
         },
         "by_feature": [
           {
@@ -8958,8 +8958,8 @@
             "name": "Account setup",
             "counts": {
               "Done": 6,
-              "In progress": 1,
-              "Blocked": 1,
+              "In progress": 0,
+              "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 24,
+              "Done": 27,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 30
+              "Not started": 27
             }
           },
           {
