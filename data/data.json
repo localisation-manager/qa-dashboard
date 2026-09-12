@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:58:38.943287+00:00",
+  "generated_at": "2026-09-12T11:25:08.755208+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 337,
+          "Done": 338,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 66
+          "Not started": 65
         },
         "by_feature": [
           {
@@ -350,12 +350,12 @@
           {
             "name": "B2B pages",
             "counts": {
-              "Done": 7,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
