@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:29:15.268471+00:00",
+  "generated_at": "2026-09-14T13:33:29.068378+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -872,11 +872,11 @@
         "code": "DA",
         "counts": {
           "Done": 156,
-          "In progress": 3,
+          "In progress": 4,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 252
+          "Not started": 251
         },
         "by_feature": [
           {
@@ -905,11 +905,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 21
             }
           },
           {
@@ -1447,12 +1447,12 @@
       {
         "code": "EL",
         "counts": {
-          "Done": 119,
+          "Done": 120,
           "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 288
+          "Not started": 287
         },
         "by_feature": [
           {
@@ -1480,12 +1480,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 2,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 19
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 51,
-          "In progress": 1,
+          "Done": 55,
+          "In progress": 2,
           "Blocked": 2,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 356
+          "Not started": 351
         },
         "by_feature": [
           {
@@ -9001,12 +9001,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 1,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 17
             }
           },
           {
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 27,
+              "Done": 30,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 27
+              "Not started": 24
             }
           },
           {
