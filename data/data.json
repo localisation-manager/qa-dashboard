@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T13:33:29.068378+00:00",
+  "generated_at": "2026-09-15T12:24:17.268311+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 416,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 19,
-          "In progress": 0,
+          "Done": 21,
+          "In progress": 1,
           "Blocked": 2,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 395
+          "Not started": 392
         },
         "by_feature": [
           {
@@ -836,12 +836,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 2,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 54
+              "Not started": 51
             }
           },
           {
@@ -871,12 +871,12 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 156,
-          "In progress": 4,
+          "Done": 159,
+          "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 251
+          "Not started": 249
         },
         "by_feature": [
           {
@@ -904,12 +904,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 3,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 19
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 55,
-          "In progress": 2,
+          "Done": 71,
+          "In progress": 1,
           "Blocked": 2,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 351
+          "Not started": 336
         },
         "by_feature": [
           {
@@ -9001,12 +9001,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 1,
-              "In progress": 1,
+              "Done": 13,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 6
             }
           },
           {
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 30,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 24
+              "Not started": 20
             }
           },
           {
@@ -9223,8 +9223,8 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 301,
-          "In progress": 3,
+          "Done": 302,
+          "In progress": 2,
           "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 0,
@@ -9256,8 +9256,8 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 8,
-              "In progress": 2,
+              "Done": 9,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
