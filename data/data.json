@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:21:39.189183+00:00",
+  "generated_at": "2026-09-17T12:21:26.296019+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 422,
@@ -583,23 +583,23 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 33,
+          "Done": 40,
           "In progress": 1,
           "Blocked": 2,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 386
+          "Not started": 379
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 1,
+              "Done": 6,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -716,11 +716,11 @@
             "name": "Fresha Connect",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 7
             }
           },
           {
@@ -836,12 +836,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 14,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 40
+              "Not started": 39
             }
           },
           {
@@ -2887,12 +2887,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 400,
+          "Done": 406,
           "In progress": 0,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 6
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -3129,12 +3129,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 16,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 0
             }
           },
           {
@@ -4615,12 +4615,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 401,
+          "Done": 407,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 6
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4857,12 +4857,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 16,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 0
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 82,
+          "Done": 91,
           "In progress": 1,
           "Blocked": 2,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 331
+          "Not started": 322
         },
         "by_feature": [
           {
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 39,
+              "Done": 48,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 6
             }
           },
           {
