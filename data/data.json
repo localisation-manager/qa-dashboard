@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T12:00:55.566524+00:00",
+  "generated_at": "2026-09-19T11:44:40.641132+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 171,
+          "Done": 170,
           "In progress": 1,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 243
+          "Not started": 244
         },
         "by_feature": [
           {
@@ -139,12 +139,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 338,
+          "Done": 337,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 72
+          "Not started": 73
         },
         "by_feature": [
           {
@@ -427,12 +427,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 47,
-          "In progress": 2,
+          "Done": 55,
+          "In progress": 1,
           "Blocked": 2,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 372
+          "Not started": 365
         },
         "by_feature": [
           {
@@ -715,12 +715,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -836,12 +836,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 17,
-              "In progress": 1,
+              "Done": 24,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 36
+              "Not started": 30
             }
           },
           {
@@ -871,12 +871,12 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 159,
+          "Done": 158,
           "In progress": 3,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 256
+          "Not started": 257
         },
         "by_feature": [
           {
@@ -1003,12 +1003,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -1159,12 +1159,12 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 216,
+          "Done": 215,
           "In progress": 20,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 181
+          "Not started": 182
         },
         "by_feature": [
           {
@@ -1291,12 +1291,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -1447,12 +1447,12 @@
       {
         "code": "EL",
         "counts": {
-          "Done": 120,
+          "Done": 119,
           "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 294
+          "Not started": 295
         },
         "by_feature": [
           {
@@ -1579,12 +1579,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 367,
+          "Done": 366,
           "In progress": 8,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 28
+          "Not started": 29
         },
         "by_feature": [
           {
@@ -2155,12 +2155,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2311,12 +2311,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 332,
+          "Done": 331,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 76
+          "Not started": 77
         },
         "by_feature": [
           {
@@ -2443,12 +2443,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2599,12 +2599,12 @@
       {
         "code": "FI",
         "counts": {
-          "Done": 102,
+          "Done": 101,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 313
+          "Not started": 314
         },
         "by_feature": [
           {
@@ -2731,12 +2731,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2887,12 +2887,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 406,
+          "Done": 405,
           "In progress": 0,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 1
+          "Not started": 2
         },
         "by_feature": [
           {
@@ -3019,12 +3019,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 278,
+          "Done": 277,
           "In progress": 1,
           "Blocked": 5,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 133
+          "Not started": 134
         },
         "by_feature": [
           {
@@ -3307,12 +3307,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 202,
+          "Done": 201,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 214
+          "Not started": 215
         },
         "by_feature": [
           {
@@ -3595,12 +3595,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3751,12 +3751,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 162,
+          "Done": 161,
           "In progress": 0,
           "Blocked": 4,
           "Post-launch": 12,
           "Repeat": 1,
-          "Not started": 244
+          "Not started": 245
         },
         "by_feature": [
           {
@@ -3883,12 +3883,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 403,
+          "Done": 402,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 7
+          "Not started": 8
         },
         "by_feature": [
           {
@@ -4171,12 +4171,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 398,
+          "Done": 397,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 7
+          "Not started": 8
         },
         "by_feature": [
           {
@@ -4459,12 +4459,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4615,12 +4615,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 407,
+          "Done": 408,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 1
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4714,12 +4714,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 21,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4903,12 +4903,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 249,
+          "Done": 248,
           "In progress": 3,
           "Blocked": 1,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 165
+          "Not started": 166
         },
         "by_feature": [
           {
@@ -5035,12 +5035,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 296,
+          "Done": 295,
           "In progress": 0,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 120
+          "Not started": 121
         },
         "by_feature": [
           {
@@ -5323,12 +5323,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5479,12 +5479,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 102,
+          "Done": 101,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 315
+          "Not started": 316
         },
         "by_feature": [
           {
@@ -5611,12 +5611,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5767,12 +5767,12 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 291,
+          "Done": 290,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 123
+          "Not started": 124
         },
         "by_feature": [
           {
@@ -5899,12 +5899,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6055,12 +6055,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 246,
+          "Done": 245,
           "In progress": 4,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 168
+          "Not started": 169
         },
         "by_feature": [
           {
@@ -6187,12 +6187,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6343,12 +6343,12 @@
       {
         "code": "PT",
         "counts": {
-          "Done": 218,
+          "Done": 217,
           "In progress": 4,
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 189
+          "Not started": 190
         },
         "by_feature": [
           {
@@ -6475,12 +6475,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 282,
+          "Done": 281,
           "In progress": 12,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 117
+          "Not started": 118
         },
         "by_feature": [
           {
@@ -6763,12 +6763,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 237,
+          "Done": 236,
           "In progress": 7,
           "Blocked": 5,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 172
+          "Not started": 173
         },
         "by_feature": [
           {
@@ -7051,12 +7051,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 155,
+          "Done": 154,
           "In progress": 1,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 260
+          "Not started": 261
         },
         "by_feature": [
           {
@@ -7339,12 +7339,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "sq-AL",
         "counts": {
-          "Done": 249,
+          "Done": 248,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 162
+          "Not started": 163
         },
         "by_feature": [
           {
@@ -7627,12 +7627,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 279,
+          "Done": 278,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 5,
           "Repeat": 1,
-          "Not started": 133
+          "Not started": 134
         },
         "by_feature": [
           {
@@ -7915,12 +7915,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 212,
+          "Done": 211,
           "In progress": 0,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 205
+          "Not started": 206
         },
         "by_feature": [
           {
@@ -8203,12 +8203,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8647,12 +8647,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 277,
+          "Done": 276,
           "In progress": 5,
           "Blocked": 16,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 120
+          "Not started": 121
         },
         "by_feature": [
           {
@@ -8779,12 +8779,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 99,
+          "Done": 106,
           "In progress": 4,
           "Blocked": 2,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 312
+          "Not started": 305
         },
         "by_feature": [
           {
@@ -9012,12 +9012,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 3,
+              "Done": 10,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 30
+              "Not started": 23
             }
           },
           {
@@ -9223,12 +9223,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 302,
+          "Done": 301,
           "In progress": 2,
           "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 109
+          "Not started": 110
         },
         "by_feature": [
           {
@@ -9355,12 +9355,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9511,12 +9511,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 383,
+          "Done": 382,
           "In progress": 0,
           "Blocked": 25,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 15
+          "Not started": 16
         },
         "by_feature": [
           {
@@ -9643,12 +9643,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9799,12 +9799,12 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 273,
+          "Done": 272,
           "In progress": 1,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 132
+          "Not started": 133
         },
         "by_feature": [
           {
@@ -9931,12 +9931,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
