@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:44:40.641132+00:00",
+  "generated_at": "2026-09-20T11:57:28.718085+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 55,
-          "In progress": 1,
-          "Blocked": 2,
+          "Done": 87,
+          "In progress": 4,
+          "Blocked": 3,
           "Post-launch": 0,
-          "Repeat": 0,
-          "Not started": 365
+          "Repeat": 2,
+          "Not started": 327
         },
         "by_feature": [
           {
@@ -682,12 +682,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
-              "Blocked": 0,
+              "Done": 19,
+              "In progress": 1,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 1
             }
           },
           {
@@ -836,12 +836,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 24,
-              "In progress": 0,
+              "Done": 37,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 30
+              "Repeat": 2,
+              "Not started": 13
             }
           },
           {
