@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:57:28.718085+00:00",
+  "generated_at": "2026-09-21T13:32:16.078175+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 87,
-          "In progress": 4,
-          "Blocked": 3,
+          "Done": 105,
+          "In progress": 2,
+          "Blocked": 2,
           "Post-launch": 0,
-          "Repeat": 2,
-          "Not started": 327
+          "Repeat": 0,
+          "Not started": 314
         },
         "by_feature": [
           {
@@ -682,9 +682,9 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 19,
+              "Done": 20,
               "In progress": 1,
-              "Blocked": 1,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 1
@@ -715,12 +715,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 6,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -836,12 +836,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 37,
-              "In progress": 2,
+              "Done": 52,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 2,
-              "Not started": 13
+              "Repeat": 0,
+              "Not started": 1
             }
           },
           {
@@ -2024,11 +2024,11 @@
         "code": "ES",
         "counts": {
           "Done": 366,
-          "In progress": 8,
+          "In progress": 9,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 29
+          "Not started": 28
         },
         "by_feature": [
           {
@@ -2266,11 +2266,11 @@
             "name": "Sales",
             "counts": {
               "Done": 16,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 5
             }
           },
           {
@@ -2891,8 +2891,8 @@
           "In progress": 0,
           "Blocked": 16,
           "Post-launch": 0,
-          "Repeat": 0,
-          "Not started": 2
+          "Repeat": 1,
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -2986,12 +2986,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 21,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3151,11 +3151,11 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 15,
+              "Done": 14,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 1,
               "Not started": 0
             }
           },
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 201,
+          "Done": 203,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 215
+          "Not started": 213
         },
         "by_feature": [
           {
@@ -3485,12 +3485,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 106,
+          "Done": 125,
           "In progress": 4,
-          "Blocked": 2,
+          "Blocked": 0,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 305
+          "Not started": 288
         },
         "by_feature": [
           {
@@ -8957,9 +8957,9 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
-              "Blocked": 2,
+              "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -9012,12 +9012,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 10,
+              "Done": 25,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 23
+              "Not started": 8
             }
           },
           {
@@ -9034,12 +9034,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 17,
+              "Done": 18,
               "In progress": 3,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 1
             }
           },
           {
@@ -9188,12 +9188,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 51,
+              "Done": 52,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
