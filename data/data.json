@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T12:16:42.342751+00:00",
+  "generated_at": "2026-09-23T12:29:26.112248+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -2887,11 +2887,11 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 404,
+          "Done": 407,
           "In progress": 0,
           "Blocked": 16,
           "Post-launch": 0,
-          "Repeat": 3,
+          "Repeat": 0,
           "Not started": 0
         },
         "by_feature": [
@@ -2920,11 +2920,11 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 16,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
-              "Repeat": 1,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -2964,11 +2964,11 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 33,
+              "Done": 34,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -3140,11 +3140,11 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 52,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 1,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 203,
+          "Done": 207,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 213
+          "Not started": 209
         },
         "by_feature": [
           {
@@ -3705,12 +3705,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 13,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 5
             }
           },
           {
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 399,
+          "Done": 401,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
-          "Repeat": 0,
-          "Not started": 6
+          "Repeat": 4,
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4360,11 +4360,11 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 17,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 5,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 1,
               "Not started": 0
             }
           },
@@ -4404,11 +4404,11 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 33,
+              "Done": 32,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 1,
               "Not started": 0
             }
           },
@@ -4569,33 +4569,33 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 16,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 6
-            }
-          },
-          {
-            "name": "Settings",
-            "counts": {
-              "Done": 52,
-              "In progress": 0,
-              "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
             }
           },
           {
+            "name": "Settings",
+            "counts": {
+              "Done": 51,
+              "In progress": 0,
+              "Blocked": 2,
+              "Post-launch": 0,
+              "Repeat": 1,
+              "Not started": 0
+            }
+          },
+          {
             "name": "Team",
             "counts": {
-              "Done": 16,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 1,
               "Not started": 0
             }
           },
@@ -5479,12 +5479,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 109,
+          "Done": 111,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 308
+          "Not started": 306
         },
         "by_feature": [
           {
@@ -5512,12 +5512,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 3,
+              "Done": 5,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 17
             }
           },
           {
@@ -6343,12 +6343,12 @@
       {
         "code": "PT",
         "counts": {
-          "Done": 217,
+          "Done": 222,
           "In progress": 4,
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 190
+          "Not started": 185
         },
         "by_feature": [
           {
@@ -6376,12 +6376,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 14,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 0
             }
           },
           {
@@ -8935,23 +8935,23 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 136,
+          "Done": 144,
           "In progress": 4,
           "Blocked": 0,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 277
+          "Not started": 269
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 1,
+              "Done": 3,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 2
             }
           },
           {
@@ -8979,12 +8979,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 12
             }
           },
           {
