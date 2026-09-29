@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:51:20.358755+00:00",
+  "generated_at": "2026-09-29T13:40:14.226929+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 108,
-          "In progress": 0,
+          "Done": 113,
+          "In progress": 1,
           "Blocked": 3,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 312
+          "Not started": 306
         },
         "by_feature": [
           {
@@ -649,12 +649,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 5,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 13
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 281,
-          "In progress": 13,
+          "Done": 290,
+          "In progress": 12,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 117
+          "Not started": 109
         },
         "by_feature": [
           {
@@ -6675,12 +6675,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 1,
-              "In progress": 1,
+              "Done": 10,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 8
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 176,
-          "In progress": 6,
+          "Done": 182,
+          "In progress": 3,
           "Blocked": 6,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 229
+          "Not started": 226
         },
         "by_feature": [
           {
@@ -9122,12 +9122,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 5,
-              "In progress": 3,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
