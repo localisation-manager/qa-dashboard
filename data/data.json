@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:06:02.376911+00:00",
+  "generated_at": "2026-10-02T13:27:31.620738+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 114,
+          "Done": 134,
           "In progress": 1,
-          "Blocked": 3,
+          "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 305
+          "Not started": 284
         },
         "by_feature": [
           {
@@ -649,12 +649,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 6,
+              "Done": 18,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 12
+              "Not started": 0
             }
           },
           {
@@ -671,12 +671,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 0,
+              "Done": 8,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 29
+              "Not started": 20
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 188,
+          "Done": 204,
           "In progress": 3,
           "Blocked": 6,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 220
+          "Not started": 204
         },
         "by_feature": [
           {
@@ -9023,12 +9023,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 6,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 23
+              "Not started": 11
             }
           },
           {
@@ -9177,12 +9177,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 18
             }
           },
           {
@@ -9513,10 +9513,10 @@
         "counts": {
           "Done": 393,
           "In progress": 0,
-          "Blocked": 25,
+          "Blocked": 26,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 5
+          "Not started": 4
         },
         "by_feature": [
           {
@@ -9689,10 +9689,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
