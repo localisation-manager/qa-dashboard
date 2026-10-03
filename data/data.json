@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:27:31.620738+00:00",
+  "generated_at": "2026-10-03T12:10:37.726459+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 134,
+          "Done": 136,
           "In progress": 1,
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 284
+          "Not started": 282
         },
         "by_feature": [
           {
@@ -671,12 +671,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 8,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
