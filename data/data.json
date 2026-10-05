@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T12:59:50.868078+00:00",
+  "generated_at": "2026-10-05T15:28:24.137793+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 143,
-          "In progress": 1,
+          "Done": 164,
+          "In progress": 2,
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 275
+          "Not started": 253
         },
         "by_feature": [
           {
@@ -627,12 +627,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 9,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 8
             }
           },
           {
@@ -649,8 +649,8 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
-              "In progress": 1,
+              "Done": 19,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -671,12 +671,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 17,
+              "Done": 27,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 1
             }
           },
           {
@@ -770,12 +770,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 0,
-              "In progress": 0,
+              "Done": 1,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 9
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 204,
+          "Done": 223,
           "In progress": 3,
           "Blocked": 6,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 204
+          "Not started": 185
         },
         "by_feature": [
           {
@@ -9023,12 +9023,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 18,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 10
             }
           },
           {
@@ -9177,12 +9177,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 4,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 18
+              "Not started": 0
             }
           },
           {
