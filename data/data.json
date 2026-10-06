@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:28:24.137793+00:00",
+  "generated_at": "2026-10-06T13:50:40.389285+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 164,
+          "Done": 168,
           "In progress": 2,
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 253
+          "Not started": 249
         },
         "by_feature": [
           {
@@ -627,12 +627,12 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 9,
+              "Done": 13,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 4
             }
           },
           {
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 212,
+          "Done": 221,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 204
+          "Not started": 195
         },
         "by_feature": [
           {
@@ -3540,12 +3540,12 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 20,
+              "Done": 29,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 13
+              "Not started": 4
             }
           },
           {
@@ -3751,12 +3751,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 161,
+          "Done": 176,
           "In progress": 0,
           "Blocked": 4,
           "Post-launch": 12,
           "Repeat": 1,
-          "Not started": 245
+          "Not started": 230
         },
         "by_feature": [
           {
@@ -3993,12 +3993,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 0,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 7
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 223,
-          "In progress": 3,
+          "Done": 231,
+          "In progress": 4,
           "Blocked": 6,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 185
+          "Not started": 176
         },
         "by_feature": [
           {
@@ -8969,11 +8969,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 0,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 21
             }
           },
           {
@@ -9023,12 +9023,12 @@
           {
             "name": "Client Loyalty",
             "counts": {
-              "Done": 19,
+              "Done": 27,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 2
             }
           },
           {
