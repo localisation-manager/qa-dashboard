@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:18:36.665941+00:00",
+  "generated_at": "2026-10-09T14:03:21.568066+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 177,
-          "In progress": 4,
-          "Blocked": 4,
+          "Done": 203,
+          "In progress": 2,
+          "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 238
+          "Not started": 213
         },
         "by_feature": [
           {
@@ -627,8 +627,8 @@
           {
             "name": "Automations",
             "counts": {
-              "Done": 17,
-              "In progress": 1,
+              "Done": 18,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -672,11 +672,11 @@
             "name": "Client Loyalty",
             "counts": {
               "Done": 27,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -770,12 +770,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 6,
-              "In progress": 3,
+              "Done": 10,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -825,12 +825,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 0,
+              "Done": 21,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 22
+              "Not started": 0
             }
           },
           {
@@ -2023,8 +2023,8 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 374,
-          "In progress": 9,
+          "Done": 375,
+          "In progress": 8,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
@@ -2100,8 +2100,8 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 32,
-              "In progress": 2,
+              "Done": 33,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -5479,12 +5479,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 113,
+          "Done": 115,
           "In progress": 0,
-          "Blocked": 5,
+          "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 304
+          "Not started": 298
         },
         "by_feature": [
           {
@@ -5512,12 +5512,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 7,
+              "Done": 9,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 15
+              "Not started": 9
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 237,
+          "Done": 251,
           "In progress": 4,
-          "Blocked": 7,
+          "Blocked": 10,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 169
+          "Not started": 152
         },
         "by_feature": [
           {
@@ -8968,12 +8968,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 0,
+              "Done": 9,
               "In progress": 1,
-              "Blocked": 0,
+              "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 21
+              "Not started": 9
             }
           },
           {
@@ -9078,12 +9078,12 @@
           {
             "name": "Help and support",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -9144,12 +9144,12 @@
           {
             "name": "Personal account",
             "counts": {
-              "Done": 5,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
