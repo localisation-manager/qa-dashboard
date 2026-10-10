@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T14:03:21.568066+00:00",
+  "generated_at": "2026-10-10T13:12:53.440771+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 251,
-          "In progress": 4,
+          "Done": 258,
+          "In progress": 3,
           "Blocked": 10,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 152
+          "Not started": 146
         },
         "by_feature": [
           {
@@ -8968,12 +8968,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 13,
+              "In progress": 0,
               "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 6
             }
           },
           {
@@ -9100,12 +9100,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 38
+              "Not started": 35
             }
           },
           {
