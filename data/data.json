@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:12:53.440771+00:00",
+  "generated_at": "2026-10-11T13:42:52.154851+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -2311,12 +2311,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 337,
+          "Done": 338,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 4,
           "Repeat": 0,
-          "Not started": 71
+          "Not started": 70
         },
         "by_feature": [
           {
@@ -2410,12 +2410,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 16,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 245,
-          "In progress": 6,
+          "Done": 247,
+          "In progress": 5,
           "Blocked": 5,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 165
+          "Not started": 164
         },
         "by_feature": [
           {
@@ -7106,12 +7106,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 258,
+          "Done": 284,
           "In progress": 3,
           "Blocked": 10,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 146
+          "Not started": 120
         },
         "by_feature": [
           {
@@ -9100,12 +9100,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 3,
+              "Done": 29,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 35
+              "Not started": 9
             }
           },
           {
