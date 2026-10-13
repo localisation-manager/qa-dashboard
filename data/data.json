@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T16:23:43.469457+00:00",
+  "generated_at": "2026-10-13T14:44:09.388770+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -8,11 +8,11 @@
         "code": "AR",
         "counts": {
           "Done": 178,
-          "In progress": 2,
+          "In progress": 3,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 235
+          "Not started": 234
         },
         "by_feature": [
           {
@@ -41,11 +41,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 3,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 18
             }
           },
           {
@@ -1159,23 +1159,23 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 215,
-          "In progress": 20,
+          "Done": 221,
+          "In progress": 15,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 182
+          "Not started": 181
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 0,
-              "In progress": 5,
+              "Done": 6,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 402,
-          "In progress": 0,
+          "Done": 403,
+          "In progress": 6,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 8
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -4138,12 +4138,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 21,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4282,11 +4282,11 @@
             "name": "Sales",
             "counts": {
               "Done": 16,
-              "In progress": 0,
+              "In progress": 6,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 0
             }
           },
           {
@@ -4327,11 +4327,11 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 404,
+          "Done": 405,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
-          "Repeat": 1,
+          "Repeat": 0,
           "Not started": 0
         },
         "by_feature": [
@@ -4404,11 +4404,11 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 32,
+              "Done": 33,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 1,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -7207,8 +7207,8 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 161,
-          "In progress": 10,
+          "Done": 166,
+          "In progress": 5,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
@@ -7449,8 +7449,8 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 7,
-              "In progress": 9,
+              "Done": 12,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8935,8 +8935,8 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 325,
-          "In progress": 2,
+          "Done": 326,
+          "In progress": 1,
           "Blocked": 10,
           "Post-launch": 6,
           "Repeat": 0,
@@ -9034,8 +9034,8 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 20,
-              "In progress": 2,
+              "Done": 21,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
