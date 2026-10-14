@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T14:44:09.388770+00:00",
+  "generated_at": "2026-10-14T12:35:39.954142+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -4039,8 +4039,8 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 403,
-          "In progress": 6,
+          "Done": 405,
+          "In progress": 4,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
@@ -4281,8 +4281,8 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 16,
-              "In progress": 6,
+              "Done": 18,
+              "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -7207,12 +7207,12 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 166,
-          "In progress": 5,
+          "Done": 167,
+          "In progress": 1,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 245
+          "Not started": 248
         },
         "by_feature": [
           {
@@ -7449,12 +7449,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 12,
-              "In progress": 4,
+              "Done": 13,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 6
+              "Not started": 9
             }
           },
           {
