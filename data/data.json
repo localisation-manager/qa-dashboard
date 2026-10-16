@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T12:23:09.733539+00:00",
+  "generated_at": "2026-10-16T12:02:35.772982+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -583,8 +583,8 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 205,
-          "In progress": 1,
+          "Done": 206,
+          "In progress": 0,
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
@@ -770,8 +770,8 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
-              "In progress": 1,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 278,
+          "Done": 287,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 134
+          "Not started": 125
         },
         "by_feature": [
           {
@@ -3417,12 +3417,12 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 13,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 0
             }
           },
           {
