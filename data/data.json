@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:02:35.772982+00:00",
+  "generated_at": "2026-10-17T11:18:11.132910+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -4327,11 +4327,11 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 405,
+          "Done": 380,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
-          "Repeat": 0,
+          "Repeat": 25,
           "Not started": 0
         },
         "by_feature": [
@@ -4404,11 +4404,11 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 33,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 15,
               "Not started": 0
             }
           },
@@ -4569,11 +4569,11 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 22,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 0,
+              "Repeat": 10,
               "Not started": 0
             }
           },
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 250,
+          "Done": 253,
           "In progress": 5,
-          "Blocked": 5,
+          "Blocked": 6,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 161
+          "Not started": 157
         },
         "by_feature": [
           {
@@ -6941,12 +6941,12 @@
           {
             "name": "Account setup",
             "counts": {
-              "Done": 6,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -7029,12 +7029,12 @@
           {
             "name": "Customer notifications",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7097,10 +7097,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -15420,12 +15420,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 64,
+          "Done": 66,
           "In progress": 3,
-          "Blocked": 10,
+          "Blocked": 14,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 11
+          "Not started": 5
         },
         "by_feature": [
           {
@@ -15442,12 +15442,12 @@
           {
             "name": "App Store Listing",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -15488,10 +15488,10 @@
             "counts": {
               "Done": 1,
               "In progress": 0,
-              "Blocked": 2,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
@@ -15532,10 +15532,10 @@
             "counts": {
               "Done": 1,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -15565,10 +15565,10 @@
             "counts": {
               "Done": 0,
               "In progress": 0,
-              "Blocked": 0,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
