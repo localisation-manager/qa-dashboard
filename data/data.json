@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:54:07.091849+00:00",
+  "generated_at": "2026-10-19T14:15:07.975347+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -2023,12 +2023,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 375,
-          "In progress": 8,
+          "Done": 378,
+          "In progress": 7,
           "Blocked": 20,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 20
+          "Not started": 18
         },
         "by_feature": [
           {
@@ -2254,12 +2254,12 @@
           {
             "name": "Reporting and analytics",
             "counts": {
-              "Done": 32,
-              "In progress": 6,
+              "Done": 35,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 17
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 405,
-          "In progress": 4,
+          "Done": 410,
+          "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 1
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4171,12 +4171,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
+              "Done": 8,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4281,8 +4281,8 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 18,
-              "In progress": 4,
+              "Done": 22,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4327,11 +4327,11 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 380,
-          "In progress": 0,
+          "Done": 387,
+          "In progress": 1,
           "Blocked": 18,
           "Post-launch": 0,
-          "Repeat": 25,
+          "Repeat": 17,
           "Not started": 0
         },
         "by_feature": [
@@ -4404,11 +4404,11 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 18,
-              "In progress": 0,
+              "Done": 25,
+              "In progress": 1,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 15,
+              "Repeat": 7,
               "Not started": 0
             }
           },
@@ -8359,12 +8359,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 154,
+          "Done": 155,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 257
+          "Not started": 256
         },
         "by_feature": [
           {
@@ -8392,12 +8392,12 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 5,
+              "Done": 6,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 17
+              "Not started": 16
             }
           },
           {
