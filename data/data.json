@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:15:07.975347+00:00",
+  "generated_at": "2026-10-20T12:28:07.639855+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 423,
@@ -4327,8 +4327,8 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 387,
-          "In progress": 1,
+          "Done": 388,
+          "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 17,
@@ -4404,8 +4404,8 @@
           {
             "name": "Catalog",
             "counts": {
-              "Done": 25,
-              "In progress": 1,
+              "Done": 26,
+              "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 7,
