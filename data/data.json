@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T13:47:50.094972+00:00",
+  "generated_at": "2026-10-27T12:54:28.135133+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -2600,11 +2600,11 @@
         "code": "FI",
         "counts": {
           "Done": 102,
-          "In progress": 1,
+          "In progress": 2,
           "Blocked": 5,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 317
+          "Not started": 316
         },
         "by_feature": [
           {
@@ -2633,11 +2633,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 6,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 16
+              "Not started": 15
             }
           },
           {
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 255,
-          "In progress": 3,
+          "Done": 259,
+          "In progress": 4,
           "Blocked": 6,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 161
+          "Not started": 156
         },
         "by_feature": [
           {
@@ -7051,8 +7051,8 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
-              "In progress": 1,
+              "Done": 8,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -7062,12 +7062,12 @@
           {
             "name": "Help and support",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -7184,11 +7184,11 @@
             "name": "Team",
             "counts": {
               "Done": 2,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 14
+              "Not started": 12
             }
           },
           {
@@ -9223,8 +9223,8 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 310,
-          "In progress": 9,
+          "Done": 311,
+          "In progress": 8,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
@@ -9256,8 +9256,8 @@
           {
             "name": "Add-ons",
             "counts": {
-              "Done": 18,
-              "In progress": 1,
+              "Done": 19,
+              "In progress": 0,
               "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
