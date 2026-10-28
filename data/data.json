@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T12:54:28.135133+00:00",
+  "generated_at": "2026-10-28T13:43:39.583747+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -8,11 +8,11 @@
         "code": "AR",
         "counts": {
           "Done": 186,
-          "In progress": 4,
+          "In progress": 5,
           "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 225
+          "Not started": 224
         },
         "by_feature": [
           {
@@ -41,11 +41,11 @@
             "name": "Add-ons",
             "counts": {
               "Done": 13,
-              "In progress": 2,
+              "In progress": 3,
               "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 2
             }
           },
           {
@@ -2887,11 +2887,11 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 408,
+          "Done": 409,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
-          "Repeat": 1,
+          "Repeat": 0,
           "Not started": 0
         },
         "by_feature": [
@@ -3151,11 +3151,11 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 14,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 1,
+              "Repeat": 0,
               "Not started": 0
             }
           },
@@ -10125,7 +10125,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10191,7 +10191,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10246,7 +10246,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10347,7 +10347,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 18,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10413,7 +10413,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10468,7 +10468,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10569,7 +10569,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10635,7 +10635,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10690,7 +10690,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -10796,7 +10796,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -10862,7 +10862,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -10917,7 +10917,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -11018,7 +11018,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -11084,7 +11084,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -11139,7 +11139,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -11240,7 +11240,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -11306,7 +11306,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -11361,7 +11361,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -11457,7 +11457,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 16,
+              "Done": 14,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11523,7 +11523,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11578,7 +11578,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -11684,7 +11684,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -11750,7 +11750,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -11805,7 +11805,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -11901,7 +11901,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -11967,7 +11967,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12022,7 +12022,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12128,7 +12128,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -12194,7 +12194,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -12249,7 +12249,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -12345,7 +12345,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 20,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12411,7 +12411,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12466,7 +12466,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12567,12 +12567,12 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 1,
+              "Done": 0,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 19
+              "Not started": 18
             }
           },
           {
@@ -12633,7 +12633,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 0,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12693,7 +12693,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -12789,7 +12789,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -12855,7 +12855,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -12910,7 +12910,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13011,7 +13011,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 14,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 4,
               "Post-launch": 0,
@@ -13077,7 +13077,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13132,7 +13132,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13233,7 +13233,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 16,
+              "Done": 14,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13299,7 +13299,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13354,7 +13354,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13455,7 +13455,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 20,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13521,7 +13521,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13576,7 +13576,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13677,7 +13677,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 19,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13743,7 +13743,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13798,7 +13798,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13899,7 +13899,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 3,
+              "Done": 1,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -13965,7 +13965,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14020,7 +14020,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14121,7 +14121,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14187,7 +14187,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14242,7 +14242,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -14348,7 +14348,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -14414,7 +14414,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -14469,7 +14469,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -14570,7 +14570,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -14636,7 +14636,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -14691,7 +14691,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -14792,7 +14792,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -14858,7 +14858,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -14913,7 +14913,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -15009,7 +15009,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15075,7 +15075,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15130,7 +15130,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15231,7 +15231,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 18,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15297,7 +15297,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15352,7 +15352,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15453,7 +15453,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -15519,7 +15519,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15574,7 +15574,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15675,7 +15675,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15741,7 +15741,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15796,7 +15796,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -15897,7 +15897,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 2,
+              "Done": 0,
               "In progress": 15,
               "Blocked": 1,
               "Post-launch": 0,
@@ -15968,7 +15968,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -16023,7 +16023,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -16062,12 +16062,12 @@
           {
             "name": "Venue page",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 3
             }
           },
           {
@@ -16119,7 +16119,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
@@ -16185,7 +16185,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -16240,7 +16240,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -16346,7 +16346,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 20
+              "Not started": 18
             }
           },
           {
@@ -16412,7 +16412,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -16467,7 +16467,7 @@
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -16563,7 +16563,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -16629,7 +16629,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -16684,7 +16684,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -16785,7 +16785,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 14,
+              "Done": 12,
               "In progress": 4,
               "Blocked": 0,
               "Post-launch": 0,
@@ -16851,7 +16851,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -16906,7 +16906,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17007,7 +17007,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 18,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17073,7 +17073,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17128,7 +17128,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17229,7 +17229,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 17,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17295,7 +17295,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17350,7 +17350,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17451,9 +17451,9 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 12,
+              "Done": 11,
               "In progress": 0,
-              "Blocked": 5,
+              "Blocked": 4,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 3
@@ -17517,7 +17517,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17574,7 +17574,7 @@
             "counts": {
               "Done": 1,
               "In progress": 0,
-              "Blocked": 2,
+              "Blocked": 3,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -17673,7 +17673,7 @@
           {
             "name": "Booking Flow",
             "counts": {
-              "Done": 18,
+              "Done": 16,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17739,7 +17739,7 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 1,
+              "Done": 2,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
@@ -17794,7 +17794,7 @@
           {
             "name": "Search",
             "counts": {
-              "Done": 3,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
