@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:53:08.573810+00:00",
+  "generated_at": "2026-10-30T13:45:27.827013+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -4615,12 +4615,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 409,
+          "Done": 412,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
-          "Repeat": 2,
-          "Not started": 1
+          "Repeat": 0,
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4780,12 +4780,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 34,
+              "Done": 37,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
-              "Repeat": 2,
-              "Not started": 1
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
