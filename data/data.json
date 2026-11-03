@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:44:37.672098+00:00",
+  "generated_at": "2026-11-03T14:47:59.243479+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -2887,12 +2887,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 406,
-          "In progress": 0,
-          "Blocked": 18,
+          "Done": 409,
+          "In progress": 1,
+          "Blocked": 17,
           "Post-launch": 0,
-          "Repeat": 2,
-          "Not started": 1
+          "Repeat": 0,
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -3052,12 +3052,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 35,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 2,
-              "Not started": 1
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -3075,8 +3075,8 @@
             "name": "Online booking",
             "counts": {
               "Done": 9,
-              "In progress": 0,
-              "Blocked": 2,
+              "In progress": 1,
+              "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 0
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 259,
+          "Done": 260,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 156
+          "Not started": 155
         },
         "by_feature": [
           {
@@ -7183,12 +7183,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 2,
+              "Done": 3,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 12
+              "Not started": 11
             }
           },
           {
