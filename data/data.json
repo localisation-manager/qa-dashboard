@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:47:59.243479+00:00",
+  "generated_at": "2026-11-04T14:59:44.038211+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -2023,8 +2023,8 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 393,
-          "In progress": 7,
+          "Done": 394,
+          "In progress": 6,
           "Blocked": 23,
           "Post-launch": 0,
           "Repeat": 2,
@@ -2034,8 +2034,8 @@
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 7,
-              "In progress": 2,
+              "Done": 8,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4328,11 +4328,11 @@
         "code": "IT",
         "counts": {
           "Done": 400,
-          "In progress": 0,
+          "In progress": 1,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 3,
-          "Not started": 6
+          "Not started": 5
         },
         "by_feature": [
           {
@@ -4515,11 +4515,11 @@
             "name": "Online booking",
             "counts": {
               "Done": 10,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -11723,12 +11723,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 0,
+          "Done": 11,
           "In progress": 0,
           "Blocked": 0,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 101
+          "Not started": 90
         },
         "by_feature": [
           {
@@ -11833,12 +11833,12 @@
           {
             "name": "Home",
             "counts": {
-              "Done": 0,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 8
             }
           },
           {
@@ -11855,12 +11855,12 @@
           {
             "name": "Profile",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -11910,12 +11910,12 @@
           {
             "name": "Sign in / Sign up",
             "counts": {
-              "Done": 0,
+              "Done": 4,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
