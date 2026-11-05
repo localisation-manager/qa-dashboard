@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:59:44.038211+00:00",
+  "generated_at": "2026-11-05T15:05:35.866526+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 242,
+          "Done": 251,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 178
+          "Not started": 169
         },
         "by_feature": [
           {
@@ -3650,23 +3650,23 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 9,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
             "name": "Payments",
             "counts": {
-              "Done": 0,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 2
             }
           },
           {
@@ -4327,22 +4327,22 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 400,
+          "Done": 404,
           "In progress": 1,
           "Blocked": 18,
           "Post-launch": 0,
-          "Repeat": 3,
-          "Not started": 5
+          "Repeat": 0,
+          "Not started": 4
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
               "Done": 5,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 1,
+              "Repeat": 0,
               "Not started": 4
             }
           },
@@ -4492,12 +4492,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 35,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 2,
-              "Not started": 1
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -4514,8 +4514,8 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
-              "In progress": 1,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
