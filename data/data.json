@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:44:01.828290+00:00",
+  "generated_at": "2026-11-07T13:41:32.651121+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -3751,12 +3751,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 191,
+          "Done": 193,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 12,
           "Repeat": 1,
-          "Not started": 218
+          "Not started": 216
         },
         "by_feature": [
           {
@@ -3938,12 +3938,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 8,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
