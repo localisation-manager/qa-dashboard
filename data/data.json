@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:41:32.651121+00:00",
+  "generated_at": "2026-11-08T14:00:34.526402+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -7208,11 +7208,11 @@
         "code": "RU",
         "counts": {
           "Done": 165,
-          "In progress": 1,
+          "In progress": 10,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 254
+          "Not started": 245
         },
         "by_feature": [
           {
@@ -7450,11 +7450,11 @@
             "name": "Sales",
             "counts": {
               "Done": 13,
-              "In progress": 0,
+              "In progress": 9,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 9
+              "Not started": 0
             }
           },
           {
