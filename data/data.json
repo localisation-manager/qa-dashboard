@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T14:00:34.526402+00:00",
+  "generated_at": "2026-11-09T17:02:59.645696+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 427,
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 260,
+          "Done": 263,
           "In progress": 4,
           "Blocked": 6,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 155
+          "Not started": 152
         },
         "by_feature": [
           {
@@ -7183,12 +7183,12 @@
           {
             "name": "Team",
             "counts": {
-              "Done": 3,
+              "Done": 6,
               "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 11
+              "Not started": 8
             }
           },
           {
@@ -7207,8 +7207,8 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 165,
-          "In progress": 10,
+          "Done": 166,
+          "In progress": 9,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
@@ -7449,8 +7449,8 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 13,
-              "In progress": 9,
+              "Done": 14,
+              "In progress": 8,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
