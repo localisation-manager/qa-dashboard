@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:21:19.983621+00:00",
+  "generated_at": "2026-11-11T14:51:35.837781+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 431,
@@ -295,23 +295,23 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 340,
+          "Done": 350,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 76
+          "Not started": 66
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 6,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -427,12 +427,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -482,23 +482,23 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 9,
-              "In progress": 0,
-              "Blocked": 0,
-              "Post-launch": 0,
-              "Repeat": 0,
-              "Not started": 2
-            }
-          },
-          {
-            "name": "Payments",
-            "counts": {
-              "Done": 8,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
               "Not started": 1
+            }
+          },
+          {
+            "name": "Payments",
+            "counts": {
+              "Done": 9,
+              "In progress": 0,
+              "Blocked": 0,
+              "Post-launch": 0,
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -548,12 +548,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 54,
+              "Done": 55,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4327,19 +4327,19 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 407,
-          "In progress": 1,
+          "Done": 411,
+          "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 5
+          "Not started": 2
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 10,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -4459,12 +4459,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -4615,12 +4615,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 411,
+          "Done": 416,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 5
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4747,12 +4747,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -4813,12 +4813,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4868,12 +4868,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7207,8 +7207,8 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 166,
-          "In progress": 9,
+          "Done": 169,
+          "In progress": 6,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
@@ -7449,8 +7449,8 @@
           {
             "name": "Sales",
             "counts": {
-              "Done": 14,
-              "In progress": 8,
+              "Done": 17,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 321,
-          "In progress": 0,
-          "Blocked": 10,
+          "Done": 325,
+          "In progress": 2,
+          "Blocked": 11,
           "Post-launch": 6,
           "Repeat": 2,
-          "Not started": 92
+          "Not started": 85
         },
         "by_feature": [
           {
@@ -9100,12 +9100,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 35,
+              "Done": 36,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 2,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -9123,22 +9123,22 @@
             "name": "Online booking",
             "counts": {
               "Done": 9,
-              "In progress": 0,
+              "In progress": 2,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 2
+              "Not started": 0
             }
           },
           {
             "name": "Payments",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -9210,12 +9210,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 0,
+              "Done": 2,
               "In progress": 0,
-              "Blocked": 5,
+              "Blocked": 6,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           }
         ]
