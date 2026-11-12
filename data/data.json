@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:51:35.837781+00:00",
+  "generated_at": "2026-11-12T15:42:43.251336+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 431,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 350,
+          "Done": 354,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
-          "Repeat": 2,
-          "Not started": 66
+          "Repeat": 0,
+          "Not started": 64
         },
         "by_feature": [
           {
@@ -460,12 +460,12 @@
           {
             "name": "Marketing",
             "counts": {
-              "Done": 35,
+              "Done": 38,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
-              "Repeat": 2,
-              "Not started": 1
+              "Repeat": 0,
+              "Not started": 0
             }
           },
           {
@@ -482,12 +482,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 10,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4328,11 +4328,11 @@
         "code": "IT",
         "counts": {
           "Done": 411,
-          "In progress": 0,
+          "In progress": 1,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 2
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -4581,11 +4581,11 @@
             "name": "Settings",
             "counts": {
               "Done": 52,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -6920,11 +6920,11 @@
         "code": "RO",
         "counts": {
           "Done": 262,
-          "In progress": 4,
+          "In progress": 7,
           "Blocked": 6,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 157
+          "Not started": 154
         },
         "by_feature": [
           {
@@ -7184,11 +7184,11 @@
             "name": "Team",
             "counts": {
               "Done": 6,
-              "In progress": 2,
+              "In progress": 5,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 8
+              "Not started": 5
             }
           },
           {
@@ -7496,11 +7496,11 @@
         "code": "sq-AL",
         "counts": {
           "Done": 245,
-          "In progress": 0,
+          "In progress": 1,
           "Blocked": 11,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 174
+          "Not started": 173
         },
         "by_feature": [
           {
@@ -7573,11 +7573,11 @@
             "name": "Catalog",
             "counts": {
               "Done": 33,
-              "In progress": 0,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
