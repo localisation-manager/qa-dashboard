@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:27:45.245660+00:00",
+  "generated_at": "2026-11-16T16:41:00.613297+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 433,
@@ -7495,12 +7495,12 @@
       {
         "code": "sq-AL",
         "counts": {
-          "Done": 249,
+          "Done": 252,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 172
+          "Not started": 169
         },
         "by_feature": [
           {
@@ -7594,12 +7594,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 19,
+              "Done": 22,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 1
             }
           },
           {
@@ -8935,23 +8935,23 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 325,
-          "In progress": 2,
+          "Done": 331,
+          "In progress": 0,
           "Blocked": 11,
           "Post-launch": 6,
           "Repeat": 2,
-          "Not started": 87
+          "Not started": 83
         },
         "by_feature": [
           {
             "name": "AI Concierge",
             "counts": {
-              "Done": 6,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -9122,8 +9122,8 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 9,
-              "In progress": 2,
+              "Done": 11,
+              "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
@@ -12312,12 +12312,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 75,
+          "Done": 76,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 4
+          "Not started": 3
         },
         "by_feature": [
           {
@@ -12521,12 +12521,12 @@
           {
             "name": "Wallet",
             "counts": {
-              "Done": 2,
+              "Done": 3,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           }
         ]
