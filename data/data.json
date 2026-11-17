@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T16:41:00.613297+00:00",
+  "generated_at": "2026-11-17T16:37:16.651494+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 433,
@@ -7,12 +7,12 @@
       {
         "code": "AR",
         "counts": {
-          "Done": 186,
+          "Done": 185,
           "In progress": 5,
           "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 230
+          "Not started": 231
         },
         "by_feature": [
           {
@@ -73,12 +73,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 16,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 2
+              "Not started": 3
             }
           },
           {
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 353,
+          "Done": 352,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 67
+          "Not started": 68
         },
         "by_feature": [
           {
@@ -361,12 +361,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -583,12 +583,12 @@
       {
         "code": "CS",
         "counts": {
-          "Done": 204,
+          "Done": 203,
           "In progress": 0,
           "Blocked": 4,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 225
+          "Not started": 226
         },
         "by_feature": [
           {
@@ -649,12 +649,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -871,12 +871,12 @@
       {
         "code": "DA",
         "counts": {
-          "Done": 164,
+          "Done": 163,
           "In progress": 4,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 258
+          "Not started": 259
         },
         "by_feature": [
           {
@@ -937,12 +937,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -1159,12 +1159,12 @@
       {
         "code": "DE",
         "counts": {
-          "Done": 229,
+          "Done": 228,
           "In progress": 18,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 180
+          "Not started": 181
         },
         "by_feature": [
           {
@@ -1225,12 +1225,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2023,12 +2023,12 @@
       {
         "code": "ES",
         "counts": {
-          "Done": 393,
+          "Done": 392,
           "In progress": 6,
           "Blocked": 23,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 9
+          "Not started": 10
         },
         "by_feature": [
           {
@@ -2089,12 +2089,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2311,12 +2311,12 @@
       {
         "code": "es-MX",
         "counts": {
-          "Done": 337,
+          "Done": 336,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 4,
           "Repeat": 2,
-          "Not started": 79
+          "Not started": 80
         },
         "by_feature": [
           {
@@ -2377,12 +2377,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -2599,12 +2599,12 @@
       {
         "code": "FI",
         "counts": {
-          "Done": 105,
+          "Done": 104,
           "In progress": 2,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 318
+          "Not started": 319
         },
         "by_feature": [
           {
@@ -2665,12 +2665,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 15,
+              "Done": 14,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -2887,12 +2887,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 408,
+          "Done": 407,
           "In progress": 1,
           "Blocked": 17,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 7
+          "Not started": 8
         },
         "by_feature": [
           {
@@ -2953,12 +2953,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3175,12 +3175,12 @@
       {
         "code": "fr-CA",
         "counts": {
-          "Done": 285,
+          "Done": 284,
           "In progress": 0,
           "Blocked": 5,
           "Post-launch": 6,
           "Repeat": 0,
-          "Not started": 137
+          "Not started": 138
         },
         "by_feature": [
           {
@@ -3241,12 +3241,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3463,12 +3463,12 @@
       {
         "code": "HR",
         "counts": {
-          "Done": 252,
+          "Done": 251,
           "In progress": 0,
           "Blocked": 2,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 174
+          "Not started": 175
         },
         "by_feature": [
           {
@@ -3529,12 +3529,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -3751,12 +3751,12 @@
       {
         "code": "HU",
         "counts": {
-          "Done": 195,
+          "Done": 194,
           "In progress": 0,
           "Blocked": 4,
           "Post-launch": 12,
           "Repeat": 0,
-          "Not started": 222
+          "Not started": 223
         },
         "by_feature": [
           {
@@ -3817,12 +3817,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4039,12 +4039,12 @@
       {
         "code": "ID",
         "counts": {
-          "Done": 404,
+          "Done": 403,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 2,
-          "Not started": 14
+          "Not started": 15
         },
         "by_feature": [
           {
@@ -4105,12 +4105,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 411,
+          "Done": 410,
           "In progress": 1,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 3
+          "Not started": 4
         },
         "by_feature": [
           {
@@ -4393,12 +4393,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4615,12 +4615,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 416,
+          "Done": 415,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 2
+          "Not started": 3
         },
         "by_feature": [
           {
@@ -4681,12 +4681,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -4903,12 +4903,12 @@
       {
         "code": "KO",
         "counts": {
-          "Done": 245,
+          "Done": 244,
           "In progress": 3,
           "Blocked": 3,
           "Post-launch": 4,
           "Repeat": 1,
-          "Not started": 177
+          "Not started": 178
         },
         "by_feature": [
           {
@@ -4969,12 +4969,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 307,
+          "Done": 306,
           "In progress": 1,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 118
+          "Not started": 119
         },
         "by_feature": [
           {
@@ -5257,12 +5257,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -5479,12 +5479,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 115,
+          "Done": 114,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 308
+          "Not started": 309
         },
         "by_feature": [
           {
@@ -5545,12 +5545,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 14,
+              "Done": 13,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 4
+              "Not started": 5
             }
           },
           {
@@ -5767,12 +5767,12 @@
       {
         "code": "NL",
         "counts": {
-          "Done": 318,
+          "Done": 317,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 106
+          "Not started": 107
         },
         "by_feature": [
           {
@@ -5833,12 +5833,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6055,12 +6055,12 @@
       {
         "code": "PL",
         "counts": {
-          "Done": 282,
+          "Done": 281,
           "In progress": 3,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 142
+          "Not started": 143
         },
         "by_feature": [
           {
@@ -6121,12 +6121,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6343,12 +6343,12 @@
       {
         "code": "PT",
         "counts": {
-          "Done": 220,
+          "Done": 219,
           "In progress": 24,
           "Blocked": 9,
           "Post-launch": 2,
           "Repeat": 1,
-          "Not started": 177
+          "Not started": 178
         },
         "by_feature": [
           {
@@ -6409,12 +6409,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -6631,12 +6631,12 @@
       {
         "code": "PT-BR",
         "counts": {
-          "Done": 306,
+          "Done": 305,
           "In progress": 12,
           "Blocked": 12,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 103
+          "Not started": 104
         },
         "by_feature": [
           {
@@ -6697,12 +6697,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -6919,12 +6919,12 @@
       {
         "code": "RO",
         "counts": {
-          "Done": 262,
+          "Done": 261,
           "In progress": 7,
           "Blocked": 6,
           "Post-launch": 2,
           "Repeat": 0,
-          "Not started": 156
+          "Not started": 157
         },
         "by_feature": [
           {
@@ -6985,12 +6985,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -7207,12 +7207,12 @@
       {
         "code": "RU",
         "counts": {
-          "Done": 169,
+          "Done": 168,
           "In progress": 6,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 251
+          "Not started": 252
         },
         "by_feature": [
           {
@@ -7273,12 +7273,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 16,
+              "Done": 15,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 4
             }
           },
           {
@@ -7495,12 +7495,12 @@
       {
         "code": "sq-AL",
         "counts": {
-          "Done": 252,
-          "In progress": 0,
+          "Done": 256,
+          "In progress": 1,
           "Blocked": 11,
           "Post-launch": 1,
           "Repeat": 0,
-          "Not started": 169
+          "Not started": 164
         },
         "by_feature": [
           {
@@ -7594,12 +7594,12 @@
           {
             "name": "Clients",
             "counts": {
-              "Done": 22,
+              "Done": 23,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 1,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -7748,12 +7748,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 51,
-              "In progress": 0,
+              "Done": 54,
+              "In progress": 1,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 4
+              "Not started": 0
             }
           },
           {
@@ -7783,12 +7783,12 @@
       {
         "code": "sr-Latn",
         "counts": {
-          "Done": 291,
+          "Done": 290,
           "In progress": 0,
           "Blocked": 10,
           "Post-launch": 6,
           "Repeat": 1,
-          "Not started": 125
+          "Not started": 126
         },
         "by_feature": [
           {
@@ -7849,12 +7849,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8071,12 +8071,12 @@
       {
         "code": "SV",
         "counts": {
-          "Done": 214,
+          "Done": 213,
           "In progress": 1,
           "Blocked": 6,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 212
+          "Not started": 213
         },
         "by_feature": [
           {
@@ -8137,12 +8137,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 17,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 2
             }
           },
           {
@@ -8359,12 +8359,12 @@
       {
         "code": "TH",
         "counts": {
-          "Done": 161,
+          "Done": 160,
           "In progress": 0,
           "Blocked": 10,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 261
+          "Not started": 262
         },
         "by_feature": [
           {
@@ -8425,12 +8425,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 13,
+              "Done": 12,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 1,
-              "Not started": 5
+              "Not started": 6
             }
           },
           {
@@ -8647,12 +8647,12 @@
       {
         "code": "TR",
         "counts": {
-          "Done": 273,
+          "Done": 272,
           "In progress": 5,
           "Blocked": 16,
           "Post-launch": 5,
           "Repeat": 0,
-          "Not started": 134
+          "Not started": 135
         },
         "by_feature": [
           {
@@ -8713,12 +8713,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -8935,12 +8935,12 @@
       {
         "code": "UK",
         "counts": {
-          "Done": 331,
+          "Done": 330,
           "In progress": 0,
           "Blocked": 11,
           "Post-launch": 6,
           "Repeat": 2,
-          "Not started": 83
+          "Not started": 84
         },
         "by_feature": [
           {
@@ -9001,12 +9001,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9223,12 +9223,12 @@
       {
         "code": "VI",
         "counts": {
-          "Done": 310,
+          "Done": 309,
           "In progress": 8,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 102
+          "Not started": 103
         },
         "by_feature": [
           {
@@ -9289,12 +9289,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9511,12 +9511,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 398,
+          "Done": 397,
           "In progress": 0,
           "Blocked": 28,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 7
+          "Not started": 8
         },
         "by_feature": [
           {
@@ -9577,12 +9577,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
@@ -9799,12 +9799,12 @@
       {
         "code": "zh-HK",
         "counts": {
-          "Done": 283,
+          "Done": 282,
           "In progress": 1,
           "Blocked": 16,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 132
+          "Not started": 133
         },
         "by_feature": [
           {
@@ -9865,12 +9865,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 19,
+              "Done": 18,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 0
+              "Not started": 1
             }
           },
           {
