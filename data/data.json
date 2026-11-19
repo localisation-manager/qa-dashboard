@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:05:51.137073+00:00",
+  "generated_at": "2026-11-19T16:13:36.971667+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 431,
@@ -2887,12 +2887,12 @@
       {
         "code": "FR",
         "counts": {
-          "Done": 407,
-          "In progress": 1,
+          "Done": 414,
+          "In progress": 0,
           "Blocked": 17,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 6
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -2953,12 +2953,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3019,12 +3019,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 8,
+              "Done": 11,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -3074,8 +3074,8 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 9,
-              "In progress": 1,
+              "Done": 10,
+              "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
@@ -3085,12 +3085,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -3140,12 +3140,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 411,
+          "Done": 412,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 2
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -4525,12 +4525,12 @@
           {
             "name": "Payments",
             "counts": {
-              "Done": 8,
+              "Done": 9,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
