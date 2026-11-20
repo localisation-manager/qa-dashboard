@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:13:36.971667+00:00",
+  "generated_at": "2026-11-20T15:52:16.108858+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 431,
@@ -4327,12 +4327,12 @@
       {
         "code": "IT",
         "counts": {
-          "Done": 412,
+          "Done": 413,
           "In progress": 0,
           "Blocked": 18,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 1
+          "Not started": 0
         },
         "by_feature": [
           {
@@ -4393,12 +4393,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
