@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:59:30.406194+00:00",
+  "generated_at": "2026-11-23T18:54:53.768818+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 431,
@@ -5479,12 +5479,12 @@
       {
         "code": "NB",
         "counts": {
-          "Done": 115,
+          "Done": 121,
           "In progress": 0,
           "Blocked": 9,
           "Post-launch": 0,
           "Repeat": 1,
-          "Not started": 306
+          "Not started": 300
         },
         "by_feature": [
           {
@@ -5666,12 +5666,12 @@
           {
             "name": "Online booking",
             "counts": {
-              "Done": 1,
+              "Done": 7,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 10
+              "Not started": 4
             }
           },
           {
@@ -9511,12 +9511,12 @@
       {
         "code": "zh-CN",
         "counts": {
-          "Done": 397,
+          "Done": 402,
           "In progress": 0,
           "Blocked": 28,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 6
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -9577,12 +9577,12 @@
           {
             "name": "Calendar",
             "counts": {
-              "Done": 18,
+              "Done": 19,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -9643,12 +9643,12 @@
           {
             "name": "Fresha Connect",
             "counts": {
-              "Done": 7,
+              "Done": 10,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 3
+              "Not started": 0
             }
           },
           {
@@ -9764,12 +9764,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 52,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 2,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
