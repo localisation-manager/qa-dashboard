@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:28:22.741869+00:00",
+  "generated_at": "2026-11-27T17:07:47.360366+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 430,
@@ -295,12 +295,12 @@
       {
         "code": "BG",
         "counts": {
-          "Done": 350,
+          "Done": 351,
           "In progress": 0,
           "Blocked": 13,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 67
+          "Not started": 66
         },
         "by_feature": [
           {
@@ -548,12 +548,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 53,
+              "Done": 54,
               "In progress": 0,
               "Blocked": 0,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
@@ -5191,12 +5191,12 @@
       {
         "code": "MS",
         "counts": {
-          "Done": 304,
+          "Done": 305,
           "In progress": 1,
           "Blocked": 7,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 118
+          "Not started": 117
         },
         "by_feature": [
           {
@@ -5444,12 +5444,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 48,
+              "Done": 49,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 5
+              "Not started": 4
             }
           },
           {
