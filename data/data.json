@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T17:07:47.360366+00:00",
+  "generated_at": "2026-11-28T15:55:20.157443+00:00",
   "source": "notion",
   "partner": {
     "total_scenarios": 430,
@@ -4615,12 +4615,12 @@
       {
         "code": "JA",
         "counts": {
-          "Done": 413,
+          "Done": 414,
           "In progress": 0,
           "Blocked": 15,
           "Post-launch": 0,
           "Repeat": 0,
-          "Not started": 2
+          "Not started": 1
         },
         "by_feature": [
           {
@@ -4868,12 +4868,12 @@
           {
             "name": "Settings",
             "counts": {
-              "Done": 52,
+              "Done": 53,
               "In progress": 0,
               "Blocked": 1,
               "Post-launch": 0,
               "Repeat": 0,
-              "Not started": 1
+              "Not started": 0
             }
           },
           {
